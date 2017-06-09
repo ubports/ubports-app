@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ubports\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-09 22:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Home.qml:48
+msgid "Welcome to UBports"
+msgstr ""
+
+#: ../qml/Home.qml:57
+msgid ""
+"UBports is an international community of developers and users who wish to "
+"keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
+"as a place where developers can talk and learn from each other and help "
+"bring Ubuntu to more devices as a team. After Canonical announced the end of "
+"their support for Ubuntu Touch, the operating system was picked up by the "
+"community. The resonance has been fantastic and our community is growing "
+"rapidly."
+msgstr ""
+
+#: ../qml/Home.qml:66
+msgid ""
+"It's our goal to keep Ubuntu Touch alive on all existing devices. While "
+"keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
+"make it the operating system we want to use on a daily basis. Ubuntu is "
+"Linux for human beings, and Ubuntu Touch brings this spirit to mobile "
+"devices. We want to turn Ubuntu Touch into a true Linux distribution for "
+"mobile devices, while keeping its simple and elegant design."
+msgstr ""
+
+#: ../qml/Home.qml:75
+msgid ""
+"Ok, we can't compete with Android. But the good thing is we don't have to! "
+"Since we are a non-profit organization funded entirely from donations, we "
+"don't have to steal anyone's market share. We do this for the community - as "
+"we are the community!"
+msgstr ""
+
+#: ../qml/Home.qml:81
+msgid "Want to learn more?"
+msgstr ""
+
+#: ../qml/Home.qml:90
+msgid ""
+"Are you interested in Ubuntu Touch? Does it look like something you might "
+"want to use or work on? Then you might be interested in <a href='https://"
+"ubports.com/get-involved'>learning about the various ways you can contribute "
+"to the project</a>. Read the <a href='https://ubports.com/faq'>FAQs</a> or "
+"<a href='https://forums.ubports.com'>hit the forums</a> to learn more. If "
+"you want to stay up to date, you can also follow us on <a href='https://"
+"twitter.com/ubports'>Twitter</a>, or just <a href='https://bit.ly/"
+"ubports'>subscribe to our mailing list</a> to recieve all our latest <a "
+"href://blog.ubports.com>blog posts</a>."
+msgstr ""
+
+#: ../qml/About.qml:52
+msgid "UBports App"
+msgstr ""
+
+#: ../qml/About.qml:70
+msgid "Version: "
+msgstr ""
+
+#: ../qml/About.qml:78
+msgid ""
+"This program is free software: you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation, either version 3 of the License, or (at your option) "
+"any later version. This program is distributed in the hope that it will be "
+"useful, but WITHOUT ANY WARRANTY; without even the implied warranty of "
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the <a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
+"License</a> for more details."
+msgstr ""
+
+#: ../qml/About.qml:87
+msgid ""
+"<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a "
+"href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
+"href='https://patreon.com/ubports'>DONATE</a>"
+msgstr ""
+
+#: ../qml/About.qml:95
+msgid ""
+"<b>Copyright (c) 2017 UBports &lt;ubports.com&gt;<br>Maintained by Jan "
+"Sprinz &lt;neo@neothethird.de&gt;</b><br>"
+msgstr ""
+
+#: ubports.desktop.in.h:1
+msgid "UBports"
+msgstr ""
