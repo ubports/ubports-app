@@ -33,7 +33,8 @@ Page {
         anchors {
             fill: parent
             margins: (parent.width / 6)
-            topMargin: (parent.height / 4)
+            topMargin: units.gu(3)
+            bottomMargin: units.gu(3)
         }
         contentWidth: aboutColumn.width
         contentHeight: aboutColumn.height
@@ -43,16 +44,21 @@ Page {
             width: parent.parent.width
             spacing: units.gu(3)
 
+            Image {
+                anchors.horizontalCenter: parent.horizontalCenter
+                horizontalAlignment: Image.AlignHCenter
+                source: Qt.resolvedUrl("../assets/device-logo-transparent.png")
+            }
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
-                text: i18n.tr("Welcome to UBports - We change the future")
-                fontSize: "large"
+                text: i18n.tr("Welcome to UBports - We change the future!")
+                fontSize: "x-large"
             }
 
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: i18n.tr("Let's innovate and dream again")
-                fontSize: "medium"
+                fontSize: "large"
             }
 
             Label {
@@ -67,7 +73,7 @@ Page {
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: i18n.tr("Pay what's fair")
-                fontSize: "medium"
+                fontSize: "large"
             }
 
             Label {
@@ -75,14 +81,14 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("UBports was created and exists because of many volunteers in the community near you and all over the world. Although we don't ask for a fixed fee we do ask that if you like what you see and want to see the project succeed that you consider a one-time or regular monthly donation. We sincerely appreciate it and we know that you'll feel great about your fair contribution and be excited to particpate. In return, we believe in providing fair sevice and opportunity with transparency to all members of the project.")
+                text: i18n.tr("UBports was created and exists because of many volunteers in the community near you and all over the world. Although we don't ask for a fixed fee we do depend on financial support from the community. So if you like what you see and want to see the project succeed, please consider a <a href='https://paypal.me/ubports'>one-time</a> or <a href='https://patreon.com/ubports'>regular monthly donation</a>. We sincerely appreciate it and we know that you'll feel great about your fair contribution and be excited to particpate. In return, we believe in providing fair sevice and opportunity with transparency to all members of the project.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
 
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: i18n.tr("Be more than a spectator - Become a game changer!")
-                fontSize: "medium"
+                fontSize: "large"
             }
 
             Label {
@@ -90,14 +96,14 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("With ubports you can actually change the things you don't like. Ever felt frustrated by a feature or a limitation or a weird layout? Get it changed! By reporting bugs and sending feature requests UBports will become the smartest platform you've ever experienced.")
+                text: i18n.tr("With ubports you can actually change the things you don't like. Ever felt frustrated by a feature or a limitation or a weird layout? Get it changed! By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and sending feature requests</a> UBports will become the smartest platform you've ever experienced.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
 
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: i18n.tr("Get looped in")
-                fontSize: "medium"
+                fontSize: "large"
             }
 
             Label {
@@ -105,7 +111,7 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("We are in this together. As a starting point, stay on top of the latest developments, related news and a whole bunch of other experience-enhancing updates. Join our mailing list to get in the loop and stay in the loop.")
+                text: i18n.tr("We are in this together. As a starting point, stay on top of the latest developments, related news and a whole bunch of other experience-enhancing updates. <a href='https://patreon.com/ubports'>Join our mailing list</a> to get in the loop and stay in the loop.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
         }

@@ -30,13 +30,14 @@ import Ubuntu.Components 1.1
 
 Page {
     title: "About the App"
-    property string version: "0.1"
+    property string version: "1.1"
     Flickable {
         id: flick
         anchors {
             fill: parent
             margins: (parent.width / 6)
-            topMargin: (parent.height / 4)
+            topMargin: units.gu(3)
+            bottomMargin: units.gu(3)
         }
         contentWidth: aboutColumn.width
         contentHeight: aboutColumn.height
@@ -48,9 +49,8 @@ Page {
 
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
-
                 text: i18n.tr("UBports App")
-                fontSize: "large"
+                fontSize: "x-large"
             }
 
             UbuntuShape {

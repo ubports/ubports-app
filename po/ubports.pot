@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubports\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-09 22:13+0000\n"
+"POT-Creation-Date: 2017-06-10 17:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,54 +17,62 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../qml/Home.qml:48
-msgid "Welcome to UBports"
+#: ../qml/Home.qml:54
+msgid "Welcome to UBports - We change the future!"
 msgstr ""
 
-#: ../qml/Home.qml:57
-msgid ""
-"UBports is an international community of developers and users who wish to "
-"keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
-"as a place where developers can talk and learn from each other and help "
-"bring Ubuntu to more devices as a team. After Canonical announced the end of "
-"their support for Ubuntu Touch, the operating system was picked up by the "
-"community. The resonance has been fantastic and our community is growing "
-"rapidly."
+#: ../qml/Home.qml:60
+msgid "Let's innovate and dream again"
 msgstr ""
 
-#: ../qml/Home.qml:66
+#: ../qml/Home.qml:69
 msgid ""
-"It's our goal to keep Ubuntu Touch alive on all existing devices. While "
-"keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
-"make it the operating system we want to use on a daily basis. Ubuntu is "
-"Linux for human beings, and Ubuntu Touch brings this spirit to mobile "
-"devices. We want to turn Ubuntu Touch into a true Linux distribution for "
-"mobile devices, while keeping its simple and elegant design."
+"UBports builds the most private and innovative experience. It is limited in "
+"potential only by what you - the community member - can dream. Regain "
+"control of your device and personal data. You have choice and freedom with "
+"UBports."
 msgstr ""
 
 #: ../qml/Home.qml:75
-msgid ""
-"Ok, we can't compete with Android. But the good thing is we don't have to! "
-"Since we are a non-profit organization funded entirely from donations, we "
-"don't have to steal anyone's market share. We do this for the community - as "
-"we are the community!"
+msgid "Pay what's fair"
 msgstr ""
 
-#: ../qml/Home.qml:81
-msgid "Want to learn more?"
+#: ../qml/Home.qml:84
+msgid ""
+"UBports was created and exists because of many volunteers in the community "
+"near you and all over the world. Although we don't ask for a fixed fee we do "
+"depend on financial support from the community. So if you like what you see "
+"and want to see the project succeed, please consider a <a href='https://"
+"paypal.me/ubports'>one-time</a> or <a href='https://patreon.com/"
+"ubports'>regular monthly donation</a>. We sincerely appreciate it and we "
+"know that you'll feel great about your fair contribution and be excited to "
+"particpate. In return, we believe in providing fair sevice and opportunity "
+"with transparency to all members of the project."
 msgstr ""
 
 #: ../qml/Home.qml:90
+msgid "Be more than a spectator - Become a game changer!"
+msgstr ""
+
+#: ../qml/Home.qml:99
 msgid ""
-"Are you interested in Ubuntu Touch? Does it look like something you might "
-"want to use or work on? Then you might be interested in <a href='https://"
-"ubports.com/get-involved'>learning about the various ways you can contribute "
-"to the project</a>. Read the <a href='https://ubports.com/faq'>FAQs</a> or "
-"<a href='https://forums.ubports.com'>hit the forums</a> to learn more. If "
-"you want to stay up to date, you can also follow us on <a href='https://"
-"twitter.com/ubports'>Twitter</a>, or just <a href='https://bit.ly/"
-"ubports'>subscribe to our mailing list</a> to recieve all our latest <a "
-"href://blog.ubports.com>blog posts</a>."
+"With ubports you can actually change the things you don't like. Ever felt "
+"frustrated by a feature or a limitation or a weird layout? Get it changed! "
+"By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and "
+"sending feature requests</a> UBports will become the smartest platform "
+"you've ever experienced."
+msgstr ""
+
+#: ../qml/Home.qml:105
+msgid "Get looped in"
+msgstr ""
+
+#: ../qml/Home.qml:114
+msgid ""
+"We are in this together. As a starting point, stay on top of the latest "
+"developments, related news and a whole bunch of other experience-enhancing "
+"updates. <a href='https://patreon.com/ubports'>Join our mailing list</a> to "
+"get in the loop and stay in the loop."
 msgstr ""
 
 #: ../qml/About.qml:52
@@ -77,6 +85,27 @@ msgstr ""
 
 #: ../qml/About.qml:78
 msgid ""
+"UBports is an international community of developers and users who wish to "
+"keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
+"as a place where developers can talk and learn from each other and help "
+"bring Ubuntu to more devices as a team. After Canonical announced the end of "
+"their support for Ubuntu Touch, the operating system was picked up by the "
+"community. The resonance has been fantastic and our community is growing "
+"rapidly."
+msgstr ""
+
+#: ../qml/About.qml:87
+msgid ""
+"It's our goal to keep Ubuntu Touch alive on all existing devices. While "
+"keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
+"make it the operating system we want to use on a daily basis. Ubuntu is "
+"Linux for human beings, and Ubuntu Touch brings this spirit to mobile "
+"devices. We want to turn Ubuntu Touch into a true Linux distribution for "
+"mobile devices, while keeping its simple and elegant design."
+msgstr ""
+
+#: ../qml/About.qml:96
+msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
 "Software Foundation, either version 3 of the License, or (at your option) "
@@ -87,14 +116,14 @@ msgid ""
 "License</a> for more details."
 msgstr ""
 
-#: ../qml/About.qml:87
+#: ../qml/About.qml:105
 msgid ""
 "<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a "
 "href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
 "href='https://patreon.com/ubports'>DONATE</a>"
 msgstr ""
 
-#: ../qml/About.qml:95
+#: ../qml/About.qml:113
 msgid ""
 "<b>Copyright (c) 2017 UBports &lt;ubports.com&gt;<br>Maintained by Jan "
 "Sprinz &lt;neo@neothethird.de&gt;</b><br>"
