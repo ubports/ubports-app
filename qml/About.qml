@@ -30,7 +30,7 @@ import Ubuntu.Components 1.1
 
 Page {
     title: "About the App"
-    property string version: "1.1"
+    property string version: "1.2"
     Flickable {
         id: flick
         anchors {
