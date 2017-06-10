@@ -27,15 +27,15 @@ import Ubuntu.Components 1.1
 
 Page {
     title: "Welcome to UBports"
-    property string version: "0.1"
     Flickable {
         id: flick
         anchors {
             fill: parent
             margins: (parent.width / 6)
-            topMargin: units.gu(3)
-            bottomMargin: units.gu(3)
+            topMargin: units.gu(0)
+            bottomMargin: units.gu(0)
         }
+        clip: true
         contentWidth: aboutColumn.width
         contentHeight: aboutColumn.height
 
@@ -44,19 +44,27 @@ Page {
             width: parent.parent.width
             spacing: units.gu(3)
 
+            Label {
+                text: i18n.tr("\n")
+                fontSize: "large"
+            }
+
             Image {
                 anchors.horizontalCenter: parent.horizontalCenter
                 horizontalAlignment: Image.AlignHCenter
                 source: Qt.resolvedUrl("../assets/device-logo-transparent.png")
             }
+
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
-                text: i18n.tr("Welcome to UBports - We change the future!")
+                wrapMode: Text.WrapAnywhere
+                text: i18n.tr("Welcome to UBports Foo - We change the future!")
                 fontSize: "x-large"
             }
 
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("Let's innovate and dream again")
                 fontSize: "large"
             }

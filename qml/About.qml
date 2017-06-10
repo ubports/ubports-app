@@ -39,6 +39,7 @@ Page {
             topMargin: units.gu(3)
             bottomMargin: units.gu(3)
         }
+        clip: true
         contentWidth: aboutColumn.width
         contentHeight: aboutColumn.height
 

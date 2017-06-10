@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubports\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-10 17:35+0000\n"
+"POT-Creation-Date: 2017-06-10 23:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,15 +17,19 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../qml/Home.qml:54
-msgid "Welcome to UBports - We change the future!"
+#: ../qml/Home.qml:48
+msgid "\n"
 msgstr ""
 
-#: ../qml/Home.qml:60
+#: ../qml/Home.qml:61
+msgid "Welcome to UBports Foo - We change the future!"
+msgstr ""
+
+#: ../qml/Home.qml:68
 msgid "Let's innovate and dream again"
 msgstr ""
 
-#: ../qml/Home.qml:69
+#: ../qml/Home.qml:77
 msgid ""
 "UBports builds the most private and innovative experience. It is limited in "
 "potential only by what you - the community member - can dream. Regain "
@@ -33,11 +37,11 @@ msgid ""
 "UBports."
 msgstr ""
 
-#: ../qml/Home.qml:75
+#: ../qml/Home.qml:83
 msgid "Pay what's fair"
 msgstr ""
 
-#: ../qml/Home.qml:84
+#: ../qml/Home.qml:92
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -50,11 +54,11 @@ msgid ""
 "with transparency to all members of the project."
 msgstr ""
 
-#: ../qml/Home.qml:90
+#: ../qml/Home.qml:98
 msgid "Be more than a spectator - Become a game changer!"
 msgstr ""
 
-#: ../qml/Home.qml:99
+#: ../qml/Home.qml:107
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
 "frustrated by a feature or a limitation or a weird layout? Get it changed! "
@@ -63,11 +67,11 @@ msgid ""
 "you've ever experienced."
 msgstr ""
 
-#: ../qml/Home.qml:105
+#: ../qml/Home.qml:113
 msgid "Get looped in"
 msgstr ""
 
-#: ../qml/Home.qml:114
+#: ../qml/Home.qml:122
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
@@ -75,15 +79,15 @@ msgid ""
 "get in the loop and stay in the loop."
 msgstr ""
 
-#: ../qml/About.qml:52
+#: ../qml/About.qml:53
 msgid "UBports App"
 msgstr ""
 
-#: ../qml/About.qml:70
+#: ../qml/About.qml:71
 msgid "Version: "
 msgstr ""
 
-#: ../qml/About.qml:78
+#: ../qml/About.qml:79
 msgid ""
 "UBports is an international community of developers and users who wish to "
 "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
@@ -94,7 +98,7 @@ msgid ""
 "rapidly."
 msgstr ""
 
-#: ../qml/About.qml:87
+#: ../qml/About.qml:88
 msgid ""
 "It's our goal to keep Ubuntu Touch alive on all existing devices. While "
 "keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
@@ -104,7 +108,7 @@ msgid ""
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
 
-#: ../qml/About.qml:96
+#: ../qml/About.qml:97
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -116,14 +120,14 @@ msgid ""
 "License</a> for more details."
 msgstr ""
 
-#: ../qml/About.qml:105
+#: ../qml/About.qml:106
 msgid ""
 "<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a "
 "href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
 "href='https://patreon.com/ubports'>DONATE</a>"
 msgstr ""
 
-#: ../qml/About.qml:113
+#: ../qml/About.qml:114
 msgid ""
 "<b>Copyright (c) 2017 UBports &lt;ubports.com&gt;<br>Maintained by Jan "
 "Sprinz &lt;neo@neothethird.de&gt;</b><br>"
