@@ -1,0 +1,14 @@
+{
+    "name": "com.ubuntu.ubports",
+    "description": "Welcome to UBports",
+    "title": "UBports",
+    "hooks": {
+        "ubports": {
+            "apparmor": "ubports.apparmor",
+            "desktop":  "ubports.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Jan Sprinz <neo@neothethird.de>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}

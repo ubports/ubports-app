@@ -45,17 +45,14 @@ Page {
 
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
-                text: i18n.tr("Welcome to UBports")
+                text: i18n.tr("Welcome to UBports - We change the future")
                 fontSize: "large"
             }
 
             Label {
-                width: parent.width
-                linkColor: UbuntuColors.orange
-                horizontalAlignment: Text.AlignHCenter
-                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("UBports is an international community of developers and users who wish to keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 as a place where developers can talk and learn from each other and help bring Ubuntu to more devices as a team. After Canonical announced the end of their support for Ubuntu Touch, the operating system was picked up by the community. The resonance has been fantastic and our community is growing rapidly.")
-                onLinkActivated: Qt.openUrlExternally(link)
+                anchors.horizontalCenter: parent.horizontalCenter
+                text: i18n.tr("Let's innovate and dream again")
+                fontSize: "medium"
             }
 
             Label {
@@ -63,23 +60,14 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("It's our goal to keep Ubuntu Touch alive on all existing devices. While keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to make it the operating system we want to use on a daily basis. Ubuntu is Linux for human beings, and Ubuntu Touch brings this spirit to mobile devices. We want to turn Ubuntu Touch into a true Linux distribution for mobile devices, while keeping its simple and elegant design.")
-                onLinkActivated: Qt.openUrlExternally(link)
-            }
-
-            Label {
-                width: parent.width
-                linkColor: UbuntuColors.orange
-                horizontalAlignment: Text.AlignHCenter
-                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("Ok, we can't compete with Android. But the good thing is we don't have to! Since we are a non-profit organization funded entirely from donations, we don't have to steal anyone's market share. We do this for the community - as we are the community!")
+                text: i18n.tr("UBports builds the most private and innovative experience. It is limited in potential only by what you - the community member - can dream. Regain control of your device and personal data. You have choice and freedom with UBports.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
 
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
-                text: i18n.tr("Want to learn more?")
-                fontSize: "large"
+                text: i18n.tr("Pay what's fair")
+                fontSize: "medium"
             }
 
             Label {
@@ -87,7 +75,37 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("Are you interested in Ubuntu Touch? Does it look like something you might want to use or work on? Then you might be interested in <a href='https://ubports.com/get-involved'>learning about the various ways you can contribute to the project</a>. Read the <a href='https://ubports.com/faq'>FAQs</a> or <a href='https://forums.ubports.com'>hit the forums</a> to learn more. If you want to stay up to date, you can also follow us on <a href='https://twitter.com/ubports'>Twitter</a>, or just <a href='https://bit.ly/ubports'>subscribe to our mailing list</a> to recieve all our latest <a href://blog.ubports.com>blog posts</a>.")
+                text: i18n.tr("UBports was created and exists because of many volunteers in the community near you and all over the world. Although we don't ask for a fixed fee we do ask that if you like what you see and want to see the project succeed that you consider a one-time or regular monthly donation. We sincerely appreciate it and we know that you'll feel great about your fair contribution and be excited to particpate. In return, we believe in providing fair sevice and opportunity with transparency to all members of the project.")
+                onLinkActivated: Qt.openUrlExternally(link)
+            }
+
+            Label {
+                anchors.horizontalCenter: parent.horizontalCenter
+                text: i18n.tr("Be more than a spectator - Become a game changer!")
+                fontSize: "medium"
+            }
+
+            Label {
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                text: i18n.tr("With ubports you can actually change the things you don't like. Ever felt frustrated by a feature or a limitation or a weird layout? Get it changed! By reporting bugs and sending feature requests UBports will become the smartest platform you've ever experienced.")
+                onLinkActivated: Qt.openUrlExternally(link)
+            }
+
+            Label {
+                anchors.horizontalCenter: parent.horizontalCenter
+                text: i18n.tr("Get looped in")
+                fontSize: "medium"
+            }
+
+            Label {
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                text: i18n.tr("We are in this together. As a starting point, stay on top of the latest developments, related news and a whole bunch of other experience-enhancing updates. Join our mailing list to get in the loop and stay in the loop.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
         }
