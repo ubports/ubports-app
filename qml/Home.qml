@@ -31,9 +31,9 @@ Page {
         id: flick
         anchors {
             fill: parent
-            margins: (parent.width / 6)
-            topMargin: units.gu(0)
-            bottomMargin: units.gu(0)
+            margins: units.gu(3)
+            topMargin: 0
+            bottomMargin: 0
         }
         clip: true
         contentWidth: aboutColumn.width
@@ -44,28 +44,27 @@ Page {
             width: parent.parent.width
             spacing: units.gu(3)
 
-            Label {
-                text: i18n.tr("\n")
-                fontSize: "large"
-            }
-
             Image {
                 anchors.horizontalCenter: parent.horizontalCenter
                 horizontalAlignment: Image.AlignHCenter
-                source: Qt.resolvedUrl("../assets/device-logo-transparent.png")
+                source: Qt.resolvedUrl("../assets/logo.png")
             }
 
             Label {
-                anchors.horizontalCenter: parent.horizontalCenter
-                wrapMode: Text.WrapAnywhere
-                text: i18n.tr("Welcome to UBports Foo - We change the future!")
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                text: i18n.tr("Welcome to UBports!")
                 fontSize: "x-large"
             }
 
             Label {
-                anchors.horizontalCenter: parent.horizontalCenter
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("Let's innovate and dream again")
+                text: i18n.tr("We can change the future! Let's innovate and dream again.")
                 fontSize: "large"
             }
 
@@ -79,7 +78,10 @@ Page {
             }
 
             Label {
-                anchors.horizontalCenter: parent.horizontalCenter
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("Pay what's fair")
                 fontSize: "large"
             }
@@ -94,7 +96,10 @@ Page {
             }
 
             Label {
-                anchors.horizontalCenter: parent.horizontalCenter
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("Be more than a spectator - Become a game changer!")
                 fontSize: "large"
             }
@@ -109,7 +114,10 @@ Page {
             }
 
             Label {
-                anchors.horizontalCenter: parent.horizontalCenter
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("Get looped in")
                 fontSize: "large"
             }

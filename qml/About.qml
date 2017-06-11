@@ -35,9 +35,9 @@ Page {
         id: flick
         anchors {
             fill: parent
-            margins: (parent.width / 6)
-            topMargin: units.gu(3)
-            bottomMargin: units.gu(3)
+            margins: units.gu(3)
+            topMargin: 0
+            bottomMargin: 0
         }
         clip: true
         contentWidth: aboutColumn.width
@@ -50,6 +50,7 @@ Page {
 
             Label {
                 anchors.horizontalCenter: parent.horizontalCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("UBports App")
                 fontSize: "x-large"
             }
@@ -109,9 +110,20 @@ Page {
 
             Label {
                 width: parent.width
+                linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
-                wrapMode: Text.Wrap
-                text: i18n.tr("<b>Copyright (c) 2017 UBports &lt;ubports.com&gt;<br>Maintained by Jan Sprinz &lt;neo@neothethird.de&gt;</b><br>")
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                style: Font.Bold
+                text: i18n.tr("Copyright (c) 2017 UBports <ubports.com>")
+            }
+
+            Label {
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                style: Font.Bold
+                text: i18n.tr("Maintained by Jan Sprinz <neo@neothethird.de>")
             }
         }
     }
