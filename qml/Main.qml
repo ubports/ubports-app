@@ -39,13 +39,8 @@ MainView {
     PageHeader {
         id: mainHeader
         title: mainStack.currentPage.title
-        trailingActionBar {
+        leadingActionBar {
             actions: [
-            Action {
-                iconName: "home"
-                text: "Home"
-                onTriggered: mainStack.push(Qt.resolvedUrl("Home.qml"))
-            },
             Action {
                 iconName: "webbrowser-app-symbolic"
                 text: "ubports.com"
@@ -75,11 +70,21 @@ MainView {
                 iconName: "twitter-symbolic"
                 text: "Twitter"
                 onTriggered: Qt.openUrlExternally("https://twitter.com/ubports")
-            },
+            }
+            ]
+            numberOfSlots: 0
+        }
+        trailingActionBar {
+            actions: [
             Action {
                 iconName: "info"
                 text: "About"
                 onTriggered: mainStack.push(Qt.resolvedUrl("About.qml"))
+            },
+            Action {
+                iconName: "home"
+                text: "Home"
+                onTriggered: mainStack.push(Qt.resolvedUrl("Home.qml"))
             }
             ]
             numberOfSlots: 2
