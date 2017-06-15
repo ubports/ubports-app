@@ -70,7 +70,11 @@ MainView {
                 iconName: "twitter-symbolic"
                 text: "Twitter"
                 onTriggered: Qt.openUrlExternally("https://twitter.com/ubports")
-            }
+            },
+            Action {
+                iconName: "contacts-app-symbolic"
+                text: "Meet The Team"
+                onTriggered: Qt.openUrlExternally("https://ubports.com/team")
             ]
             numberOfSlots: 0
         }
