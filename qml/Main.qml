@@ -75,6 +75,7 @@ MainView {
                 iconName: "contacts-app-symbolic"
                 text: "Meet The Team"
                 onTriggered: Qt.openUrlExternally("https://ubports.com/team")
+            }
             ]
             numberOfSlots: 0
         }
