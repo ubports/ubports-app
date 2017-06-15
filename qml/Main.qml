@@ -76,7 +76,6 @@ MainView {
                 text: "Meet The Team"
                 onTriggered: Qt.openUrlExternally("https://ubports.com/team")
             },
-            },
             Action {
                 iconName: "phone-symbolic"
                 text: "Devices"
