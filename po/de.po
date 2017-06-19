@@ -1,13 +1,10 @@
-# de.po
+# fr.po
 #
 # This file is part of the UBports Welcome App.
 #
 # Copyright (c) 2017 UBports https://ubports.com
 #
 # Maintained by Jan Jakob Sprinz (@NeoTheThird) <neo@neothethird.de>
-#
-# This file was originates from 8192 (c) 2017 Jan Sprinz:
-# https://github.com/NeoTheThird/8192
 #
 # GNU GENERAL PUBLIC LICENSE
 #    Version 3, 29 June 2007
