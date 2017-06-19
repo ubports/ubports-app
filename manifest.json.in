@@ -4,8 +4,8 @@
     "title": "UBports",
     "hooks": {
         "ubports": {
-            "apparmor": "ubports.apparmor",
-            "desktop":  "ubports.desktop"
+            "apparmor": "com.ubuntu.ubports.apparmor",
+            "desktop":  "com.ubuntu.ubports.desktop"
         }
     },
     "version": "1.3",

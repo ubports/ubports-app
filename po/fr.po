@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: ubports\n"
+"Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-17 19:03+0200\n"
 "PO-Revision-Date: 2017-06-17 19:58+0200\n"
