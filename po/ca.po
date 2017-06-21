@@ -1,0 +1,152 @@
+# ca.po
+#
+# This file is part of the UBports Welcome App.
+#
+# Copyright (c) 2017 UBports https://ubports.com
+#
+# Maintained by Jan Jakob Sprinz (@NeoTheThird) <neo@neothethird.de>
+#
+# GNU GENERAL PUBLIC LICENSE
+#    Version 3, 29 June 2007
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.ubuntu.ubports\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-20 15:54+0000\n"
+"PO-Revision-Date: 2017-06-21 17:27+0200\n"
+"Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
+"Language-Team: https://launchpad.net/~ubuntu-l10n-ca\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#: ../qml/Home.qml:58
+msgid "Welcome to UBports!"
+msgstr "Us donem la benvinguda a UBports!"
+
+#: ../qml/Home.qml:67
+msgid "We can change the future! Let's innovate and dream again."
+msgstr "Podem canviar el futur. Tornem a somniar i innovar."
+
+#: ../qml/Home.qml:76
+msgid ""
+"UBports builds the most private and innovative experience. It is limited in "
+"potential only by what you - the community member - can dream. Regain control of "
+"your device and personal data. You have choice and freedom with UBports."
+msgstr "L'UBports construeix l'experiència més privada i innovadora. El seu potencial queda limitat al que podeu somniar. Recupereu el control del vostre dispositiu i les vostres dades personals. Teniu l'opció i la llibertat amb l'UBports."
+
+#: ../qml/Home.qml:85
+msgid "Pay what's fair"
+msgstr "Pagueu el que és just"
+
+#: ../qml/Home.qml:94
+msgid ""
+"UBports was created and exists because of many volunteers in the community near you "
+"and all over the world. Although we don't ask for a fixed fee we do depend on "
+"financial support from the community. So if you like what you see and want to see "
+"the project succeed, please consider a <a href='https://paypal.me/ubports'>one-"
+"time</a> or <a href='https://patreon.com/ubports'>regular monthly donation</a>. We "
+"sincerely appreciate it and we know that you'll feel great about your fair "
+"contribution and be excited to particpate. In return, we believe in providing fair "
+"sevice and opportunity with transparency to all members of the project."
+msgstr "L'UBports va ser creat i existeix gràcies a molts voluntaris a la comunitat a prop vostre i a tot el món. Tot i que no demanem una quota fixa, depenem del suport financer de la comunitat. Així que si us agrada el que veieu i voleu el projecte tingui èxit, considereu fer una <a href='https://paypal.me/ubports'> donació individual </a> o <a href = 'https: / /patreon.com/ubports'> mensual  </a>. Ho apreciem sincerament i sabem que se sentirà molt bé amb la seva contribució i s'entusiasmarà en participar. A canvi, proporcionarem un bon servei i una oportunitat amb transparència a tots els membres del projecte."
+
+#: ../qml/Home.qml:103
+msgid "Be more than a spectator - Become a game changer!"
+msgstr "Sigueu més que un espectador - Esdeveniu un agent del canvi!"
+
+#: ../qml/Home.qml:112
+msgid ""
+"With ubports you can actually change the things you don't like. Ever felt "
+"frustrated by a feature or a limitation or a weird layout? Get it changed! By <a "
+"href='https://github.com/ubports/ubports-touch'>reporting bugs and sending feature "
+"requests</a> UBports will become the smartest platform you've ever experienced."
+msgstr "Amb l'UBports podeu canviar les coses que no us agradin. Vau sentir frustració algun cop per una característica o una limitació o un disseny estrany? Canvieu-lo! Envieu informes d'errors  <a href='https://github.com/ubports/ubports-touch'>i peticions de noves característiques</a>. L'UBports es convertirà en la plataforma més intel·ligent que hàgiu experimentat."
+
+#: ../qml/Home.qml:121
+msgid "Get looped in"
+msgstr "Formeu part de la cadena"
+
+#: ../qml/Home.qml:130
+msgid ""
+"We are in this together. As a starting point, stay on top of the latest "
+"developments, related news and a whole bunch of other experience-enhancing updates. "
+"<a href='https://bit.ly/ubports'>Join our mailing list</a> to get in the loop and "
+"stay in the loop."
+msgstr "Estem junts en això. Com a punt de partida, manteniu-vos al dia sobre els últims desenvolupaments, notícies relacionades i un munt d'altres actualitzacions que milloren l'experiència.  <a href='https://bit.ly/ubports'> Uniu-vos a la nostra llista de correus</a> per entrar a la cadena."
+
+#: ../qml/About.qml:54
+msgid "UBports App"
+msgstr "UBports App"
+
+#: ../qml/About.qml:72
+msgid "Version: "
+msgstr "Versió: "
+
+#: ../qml/About.qml:80
+msgid ""
+"UBports is an international community of developers and users who wish to keep "
+"Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 as a place "
+"where developers can talk and learn from each other and help bring Ubuntu to more "
+"devices as a team. After Canonical announced the end of their support for Ubuntu "
+"Touch, the operating system was picked up by the community. The resonance has been "
+"fantastic and our community is growing rapidly."
+msgstr "L'UBports és una comunitat internacional de desenvolupadors i usuaris que desitgen mantenir viu l'Ubuntu Touch. El projecte va ser fundat pel Marius Gripsgard el 2015 com un lloc on els desenvolupadors poguessin parlar i aprendre els uns dels altres, i ajudar a portar a l'Ubuntu a més dispositius com un equip. Després de l'anunci de Canonical del final del seu suport a l'Ubuntu Touch, el sistema operatiu va ser recollit per la comunitat. La ressonància ha estat fantàstica i la nostra comunitat està creixent ràpidament."
+
+#: ../qml/About.qml:89
+msgid ""
+"It's our goal to keep Ubuntu Touch alive on all existing devices. While keeping all "
+"its good and beautiful parts, we want to reshape Ubuntu Touch to make it the "
+"operating system we want to use on a daily basis. Ubuntu is Linux for human beings, "
+"and Ubuntu Touch brings this spirit to mobile devices. We want to turn Ubuntu Touch "
+"into a true Linux distribution for mobile devices, while keeping its simple and "
+"elegant design."
+msgstr "El nostre objectiu és mantenir l'Ubuntu Touch viu a tots els dispositius existents. Mantenint tot el que es bo i bonic, volem donar-li una nova forma a l'Ubuntu Touch per convertir-lo en el sistema operatiu que volem fer servir diàriament. L'Ubuntu és Linux per als éssers humans, i l'Ubuntu Touch porta aquest esperit als dispositius mòbils. Volem convertir l'Ubuntu Touch en una veritable distribució Linux per a dispositius mòbils, mantenint el seu disseny simple i elegant."
+
+#: ../qml/About.qml:98
+msgid ""
+"This program is free software: you can redistribute it and/or modify it under the "
+"terms of the GNU General Public License as published by the Free Software "
+"Foundation, either version 3 of the License, or (at your option) any later version. "
+"This program is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A "
+"PARTICULAR PURPOSE.  See the <a href='https://www.gnu.org/licenses/gpl-3.0.en."
+"html'>GNU General Public License</a> for more details."
+msgstr ""
+"Aquest programa és programari lliure: podeu redistribuir-lo i modificar-lo sota els termes de la Llicència Pública General GNU publicada per la Free Software Foundation, ja sigui la versió 3 de la llicència, o (al vostre criteri) qualsevol versió posterior. Aquest programa es distribueix amb l'esperança que sigui útil, però SENSE CAP GARANTIA; sense la garantia implícita de COMERCIABILITAT o ADEQUACIÓ PER A UN PROPÒSIT PARTICULAR. Consulteu la <a\n"
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> Llicència General Pública GNU</a> per obtenir més detalls."
+
+#: ../qml/About.qml:107
+msgid ""
+"<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a href='https://"
+"github.com/ubports/ubports-app/issues'>ISSUES</a> | <a href='https://patreon.com/"
+"ubports'>DONATE</a>"
+msgstr "<a href='https://github.com/ubports/ubports-app'>CODI FONT</a> | <a href='https://github.com/ubports/ubports-app/issues'>ERRORS</a> | <a href='https://patreon.com/ubports'>DONEU</a>"
+
+#: ../qml/About.qml:117
+msgid "Copyright (c) 2017 UBports <ubports.com>"
+msgstr "Copyright (c) 2017 UBports <ubports.com>"
+
+#: ../qml/About.qml:126
+msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
+msgstr "Mantingut pel Jan Sprinz <neo@neothethird.de>"
+
+#: com.ubuntu.ubports.desktop.in.h:1
+msgid "UBports"
+msgstr "UBports"
