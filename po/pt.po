@@ -1,4 +1,4 @@
- pt.po
+# pt.po
 #
 # This file is part of the UBports Welcome App.
 #
