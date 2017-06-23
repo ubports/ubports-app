@@ -1,4 +1,4 @@
-# es.po
+# it.po
 #
 # Questo file è parte integrante di UBports Welcome App.
 #
