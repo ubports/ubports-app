@@ -71,7 +71,7 @@ msgstr ""
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
-"updates. <a href='https://bit.ly/ubports'>Join our mailing list</a> to get "
+"updates. <a href='http://ubports.com/r/subscribe'>Join our mailing list</a> to get "
 "in the loop and stay in the loop."
 msgstr ""
 
