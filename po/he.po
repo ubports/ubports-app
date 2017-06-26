@@ -8,21 +8,26 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-20 15:54+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-06-26 23:13+0000\n"
+"Last-Translator: Eran <etherpulse@gmail.com>\n"
+"Language-Team: Hebrew <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.14.1\n"
 
 #: ../qml/Home.qml:58
+#, fuzzy
 msgid "Welcome to UBports!"
-msgstr ""
+msgstr "ברוכים הבאים ל UBports!"
 
 #: ../qml/Home.qml:67
+#, fuzzy
 msgid "We can change the future! Let's innovate and dream again."
-msgstr ""
+msgstr "אנו יכולים לשנות  את העתיד! בואו נחדש ונחלום בשנית."
 
 #: ../qml/Home.qml:76
 msgid ""
@@ -33,8 +38,9 @@ msgid ""
 msgstr ""
 
 #: ../qml/Home.qml:85
+#, fuzzy
 msgid "Pay what's fair"
-msgstr ""
+msgstr "שלם מה שהוגן לשלם"
 
 #: ../qml/Home.qml:94
 msgid ""
@@ -50,8 +56,9 @@ msgid ""
 msgstr ""
 
 #: ../qml/Home.qml:103
+#, fuzzy
 msgid "Be more than a spectator - Become a game changer!"
-msgstr ""
+msgstr "היה יותר מצופה - עזור לשנות את המשחק!"
 
 #: ../qml/Home.qml:112
 msgid ""
@@ -63,8 +70,9 @@ msgid ""
 msgstr ""
 
 #: ../qml/Home.qml:121
+#, fuzzy
 msgid "Get looped in"
-msgstr ""
+msgstr "היה  חלק מהמשחק"
 
 #: ../qml/Home.qml:130
 msgid ""
@@ -80,7 +88,7 @@ msgstr ""
 
 #: ../qml/About.qml:72
 msgid "Version: "
-msgstr ""
+msgstr "גירסאה: "
 
 #: ../qml/About.qml:80
 msgid ""
