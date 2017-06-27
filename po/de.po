@@ -27,7 +27,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:42+0200\n"
-"PO-Revision-Date: 2017-08-05 15:31+0000\n"
+"PO-Revision-Date: 2017-08-05 15:34+0000\n"
 "Last-Translator: Bjarne Roß <ross.b@freenet.de>\n"
 "Language-Team: German <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/de/>\n"
@@ -50,7 +50,7 @@ msgstr "Über"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:55 ../qml/About.qml:58
 msgid "Support Forum"
-msgstr ""
+msgstr "Support Forum"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:61 ../qml/About.qml:64
