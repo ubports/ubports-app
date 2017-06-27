@@ -1,28 +1,31 @@
-# SOME DESCRIPTIVE TITLE.
+# Romanian (Română) language translation
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Brînzariu Cristian <info@ebeton.ro>, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-20 15:54+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: ro\n"
+"Report-Msgid-Bugs-To: Jan Spriny <neo@neothethird.de> \n"
+"POT-Creation-Date: 2017-06-24 22:34+0300\n"
+"PO-Revision-Date: 2017-06-26 23:05+0300\n"
+"Language-Team: Romanian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: Brînzariu Cristian <info@ebeton.ro>\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"Language: ro\n"
 
 #: ../qml/Home.qml:58
 msgid "Welcome to UBports!"
-msgstr ""
+msgstr "Bine ai venit la UBports!"
 
 #: ../qml/Home.qml:67
 msgid "We can change the future! Let's innovate and dream again."
-msgstr ""
+msgstr "Putem schimba viitorul! Să inovăm și să visăm din nou."
 
 #: ../qml/Home.qml:76
 msgid ""
@@ -31,10 +34,13 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
+"UBports construieşte cea mai inovatoare şi privată experienţă.  Potenţialul "
+"aceasteia este limitată doar de ce poţi tu - membru al comunităţi - să "
+"visezi. Recapătă controlul dispozitivului tău. Ai această opţiune cu UBports."
 
 #: ../qml/Home.qml:85
 msgid "Pay what's fair"
-msgstr ""
+msgstr "Plăteşte ce e corect"
 
 #: ../qml/Home.qml:94
 msgid ""
@@ -48,10 +54,20 @@ msgid ""
 "particpate. In return, we believe in providing fair sevice and opportunity "
 "with transparency to all members of the project."
 msgstr ""
+"UBports a fost creat şi există pentru că numeroşi voluntari din comunitate, "
+"atât din apropierea ta cât şi din străinătate sau implicat. Cu toate că nu "
+"cerem o sumă fixă, depindem de suportul financiar al comunităţii. Aşadar "
+"dacă îţi place ce vezi şi doreşti ca proiectul să reuşească te rugăm să iei "
+"în considerare <a href='https://paypal.me/ubports'>o donaţie</a> sau <a "
+"href='https://patreon.com/ubports'>donaţii lunare regulate</a>. Noi sincer "
+"vom aprecia asta şi de asemenea ştim că te vei simţii minunat în legătură cu "
+"contribuţia ta cinstită şi de asemenea vei fi încântat să participi. În "
+"schimb, noi credem în  oferirea de servicii şi oportunităţi transparente "
+"pentru toţi membrii proiectului."
 
 #: ../qml/Home.qml:103
 msgid "Be more than a spectator - Become a game changer!"
-msgstr ""
+msgstr "Devino mai mult decât un spectator - Fă-ţi propriul joc!"
 
 #: ../qml/Home.qml:112
 msgid ""
@@ -61,10 +77,16 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
+"Cu UBports poţi într-adevăr să schimbi lucrurile care nu îţi plac. Nu te-ai "
+"simţit niciodată măcar frustrat de o opţiune, limitare sau design ciudat? "
+"Modifică aceste lucruri care te deranjează! Prin <a href='https://github.com/"
+"ubports/ubports-touch'>raportarea de probleme şi trimiterea de idei de "
+"dezvoltare</a>  în acest fel UBports va devenii cea mai intelgentă platformă "
+"pe care ai folosito vreodată."
 
 #: ../qml/Home.qml:121
 msgid "Get looped in"
-msgstr ""
+msgstr "Ia parte la asta"
 
 #: ../qml/Home.qml:130
 msgid ""
@@ -73,14 +95,17 @@ msgid ""
 "updates. <a href='https://bit.ly/ubports'>Join our mailing list</a> to get "
 "in the loop and stay in the loop."
 msgstr ""
+"Suntem în asta împreună. Ca un punct de pornire şi ca să fii la curent cu "
+"tot ce este nou şi interesant poţi să te abonezi <a href='https://bit.ly/"
+"ubports'>aici</a> la lista de adrese de email care primesc notificări."
 
 #: ../qml/About.qml:54
 msgid "UBports App"
-msgstr ""
+msgstr "Aplicaţia UBports"
 
 #: ../qml/About.qml:72
 msgid "Version: "
-msgstr ""
+msgstr "Versiunea: "
 
 #: ../qml/About.qml:80
 msgid ""
@@ -92,6 +117,14 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
+"UBports este o comunitate internaţională de dezvoltatori şi utilizatori care "
+"doresc să \"ţină în viaţă\" Ubuntu Touch. Proiectul a fost fondat de către "
+"Marius Gripsgard în 2015 pentru ca dezvoltatorii să aibă un loc în care să "
+"vorbească şi să înveţe de la ceilalţi cum să aducă Ubuntu pe cât mai multe "
+"dispozitive împreună, ca şi echipă. După ce Canonical a anunţat că o să "
+"oprească suportul lor pentru Ubuntu Touch, sistemul de operarea a fost "
+"preluat de comunitate. Răspunsul a fost fantastic iar comunitatea noastră "
+"creşte rapid."
 
 #: ../qml/About.qml:89
 msgid ""
@@ -102,6 +135,13 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"Scopul nostru este să păstrăm Ubuntu Touch \"în viaţă\" pe toate "
+"dispozitivele existente. În timp ce vom păstra tot ce e bun şi frumos vrem "
+"să reconstruim Ubuntu Touch şi să îl facem sistemul de operare pe care să "
+"vrem să îl folosim zi de zi. Ubuntu este Linux pentru oameni, iar Ubuntu "
+"Touch aduce această filozofie în lumea dispozitivelor mobile. Dorim să facem "
+"din Ubuntu Touch cu adevărat o distribuţie linux pentru dispozitivele mobile "
+"în timp ce îi păstrăm designul simplu şi elegant."
 
 #: ../qml/About.qml:98
 msgid ""
@@ -114,6 +154,15 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
+"Acest program este gratuit: poţi să îl distribui şi/sau să îl modifici atâta "
+"timp cât sunt respectaţi termeni şi condiţiile licenţei GNU General Public "
+"License, aşa cum este ea publicată de către Free Software Foundation, fie "
+"versiunea 3 a acesteia, sau (la latitudinea ta) orice altă versiune mai "
+"nouă. Acest program este distribuit în speranţa că va fi util dar FĂRĂ NICI "
+"O GARANŢIE; fără a avea măcar o garanţie din partea VÂNZĂTORULUI sau una de "
+"genul POTRIVIT PENTRU UN ANUME SCOP. Poţi să citeşti despre licenţa <a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
+"License</a> pentru mai multe detalii."
 
 #: ../qml/About.qml:107
 msgid ""
@@ -121,15 +170,18 @@ msgid ""
 "href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
 "href='https://patreon.com/ubports'>DONATE</a>"
 msgstr ""
+"<a href='https://github.com/ubports/ubports-app'>CODUL SURSĂ</a> | <a "
+"href='https://github.com/ubports/ubports-app/issues'>PROBLEME</a> | <a "
+"href='https://patreon.com/ubports'>DONAŢII</a>"
 
 #: ../qml/About.qml:117
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:126
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr ""
+msgstr "Întreţinută de Jan Spriny <neo@neothethird.de>"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr ""
+msgstr "UBports"

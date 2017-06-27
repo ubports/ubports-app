@@ -8,7 +8,7 @@
             "desktop":  "com.ubuntu.ubports.desktop"
         }
     },
-    "version": "1.4",
+    "version": "1.5",
     "maintainer": "UBports <neo@neothethird.de>",
     "framework" : "ubuntu-sdk-15.04.6"
 }
