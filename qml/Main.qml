@@ -49,22 +49,22 @@ MainView {
             Action {
                 iconName: "rssreader-app-symbolic"
                 text: "Blog"
-                onTriggered: Qt.openUrlExternally("https://blog.ubports.com")
+                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appblog")
             },
             Action {
                 iconName: "system-users-symbolic"
                 text: "Support Forum"
-                onTriggered: Qt.openUrlExternally("https://forums.ubports.com")
+                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appforums")
             },
             Action {
                 iconName: "torch-on"
                 text: "Get involved"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/get-involved")
+                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appgetinvolved")
             },
             Action {
                 iconName: "dekko-app-symbolic"
                 text: "Newsletter"
-                onTriggered: Qt.openUrlExternally("https://bit.ly/ubports")
+                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appsubscribe")
             },
             Action {
                 iconName: "twitter-symbolic"
@@ -74,14 +74,14 @@ MainView {
             Action {
                 iconName: "contacts-app-symbolic"
                 text: "Meet The Team"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/team")
+                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appteam")
             },
             Action {
                 iconName: "phone-symbolic"
                 text: "Devices"
-                onTriggered: Qt.openUrlExternally("https://devices.ubports.com/#/")
+                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appdev")
             }
-            
+
             ]
             numberOfSlots: 0
         }

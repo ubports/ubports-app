@@ -1,3 +1,7 @@
+<a href="https://ubpweblate.tnvcomp.com/engage/ubports/?utm_source=widget">
+<img src="https://ubpweblate.tnvcomp.com/widgets/ubports/-/svg-badge.svg" alt="Translation status" />
+</a>
+
 # ubports-app
 
 Some useful links about the project.
