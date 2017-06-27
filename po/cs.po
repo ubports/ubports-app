@@ -8,21 +8,24 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-20 15:54+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-06-27 09:24+0000\n"
+"Last-Translator: Milan Korecký <milan.korecky@gmail.com>\n"
+"Language-Team: Czech <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 2.14.1\n"
 
 #: ../qml/Home.qml:58
 msgid "Welcome to UBports!"
-msgstr ""
+msgstr "Vítejte na UBports!"
 
 #: ../qml/Home.qml:67
 msgid "We can change the future! Let's innovate and dream again."
-msgstr ""
+msgstr "Můžeme změnit budoucnost! Zkusme znovu snít a inovovat."
 
 #: ../qml/Home.qml:76
 msgid ""
@@ -31,10 +34,13 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
+"UBports buduje nejmodernější a nejbezpečnější uživatelské prostředí, které "
+"omezuje pouze Vaše vlastní představivost. Obnovte kontrolu nad Vaším "
+"zařízením a osobními údaji. S UBports získáte zpět možnost volby a svobody."
 
 #: ../qml/Home.qml:85
 msgid "Pay what's fair"
-msgstr ""
+msgstr "Plaťte jen rozumnou cenu."
 
 #: ../qml/Home.qml:94
 msgid ""
@@ -48,10 +54,19 @@ msgid ""
 "particpate. In return, we believe in providing fair sevice and opportunity "
 "with transparency to all members of the project."
 msgstr ""
+"UBports vznikla a je tu díky velkému množství dobrovolníků ve Vaší blízkosti "
+"a po celém světě. Přestože nežadáme o pravidelné finanční příspěvky, jsme "
+"závislí na Vaší finanční podpoře.  Takže pokud se vám líbí to, co vidíte a "
+"chcete, aby projekt byl úspěšný, zvažte jednorázový <a "
+"href='https://paypal.me/ubports'> </a> anebo <a href = ‚https: / "
+"/patreon.com/ubports'> pravidelný měsíční finanční příspěvek</a>. Velmi si "
+"ho ceníme a jsme si jisti, že budete mít radost z jeho přínosu a budete "
+"nadšení, že se na projektu také podílíte. Na oplátku budeme poskytovat všem "
+"členům projektu poctivý servis a transparentní prostor."
 
 #: ../qml/Home.qml:103
 msgid "Be more than a spectator - Become a game changer!"
-msgstr ""
+msgstr "Staňte se více než jen přihlížejícím - staňte se průkopníkem změn!"
 
 #: ../qml/Home.qml:112
 msgid ""
@@ -61,10 +76,15 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
+"S UBports můžete věci, které se Vám nelíbí změnit. Už jste někdy pocítil "
+"frustraci z ovládaciho prvku, nějakého mezení anebo podivného designu?  "
+"Změňte to! Zašlete na<a href='https://github.com/ubports/ubports-touch'> "
+"zprávu o chybě včetně požadavku na nové funkce </a> UBports se díky tomu "
+"stane tou nejchytřejší platformou kterou jste zažil."
 
 #: ../qml/Home.qml:121
 msgid "Get looped in"
-msgstr ""
+msgstr "Staňte se součástí"
 
 #: ../qml/Home.qml:130
 msgid ""
@@ -73,14 +93,18 @@ msgid ""
 "updates. <a href='https://bit.ly/ubports'>Join our mailing list</a> to get "
 "in the loop and stay in the loop."
 msgstr ""
+"Společným výchozím bodem pro získání nejnovějších informací o vývoji, "
+"souvisejících zpráv a mnoho dalších vylepšení, která zlepšují uživatelský "
+"zážitek. <a href='https://bit.ly/ubports'> Připojte se do našeho mailing "
+"listu </a> staňte se součástí a buď te v obraze."
 
 #: ../qml/About.qml:54
 msgid "UBports App"
-msgstr ""
+msgstr "UBports App"
 
 #: ../qml/About.qml:72
 msgid "Version: "
-msgstr ""
+msgstr "Verze "
 
 #: ../qml/About.qml:80
 msgid ""
@@ -92,6 +116,12 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
+"UBports je mezinárodní komunitou vývojářů a uživatelů, kteří chtějí udržet "
+"Ubuntu Touch živý. Projekt založil Marius Gripsgard v roce 2015 jako místo, "
+"kde vývojáři mohou společně mluvit a učit se jeden od druhého a jako tým si "
+"pomáhat přenášet Ubuntu na více zařízení. Poté, co společnost Canonical "
+"oznámila ukončení podpory pro systém Ubuntu Touch, byl operační systém "
+"převzat komunitou. Ohlas byl fantastický a naše komunita rychle roste."
 
 #: ../qml/About.qml:89
 msgid ""
@@ -102,6 +132,13 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"Naším cílem je udržet Ubuntu Touch živý na všech stávajících zařízeních. "
+"Přestože chceme zachovat jeho všechny dobré a pěkné prvky, chceme Ubuntu "
+"Touch přetvořit, aby se stal operačním systémem, který chceme denně "
+"používat. Ubuntu je Linux pro lidské bytosti a Ubuntu Touch přináší tento "
+"duch do mobilních zařízení. Chceme, aby se Ubuntu Touch stal skutečnou "
+"distribucí Linuxu pro mobilní zařízení, a zároveň si zachoval svůj "
+"jednoduchý a elegantní design."
 
 #: ../qml/About.qml:98
 msgid ""
@@ -114,6 +151,14 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
+"Tento program je svobodný software: můžete ho sdílet anebo upravovat za "
+"podmínek GNU General Public License, zveřejněné Free Software Foundation, "
+"pod licencí  ve verzi 3,  anebo (dle vaší volby) pod jakoukoli pozdější "
+"verzí. Tento program je distribuován v naději, že bude užitečný, avšak BEZ "
+"JAKÉKOLI ZÁRUKY; a to i bez předpokládané záruky OBCHODOVATELNOSTI nebo "
+"VHODNOSTI PRO KONKRÉTNÍ ÚČEL. Další podrobnosti naleznete na stránkách <a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> GNU General Public "
+"Licence </a> 2."
 
 #: ../qml/About.qml:107
 msgid ""
