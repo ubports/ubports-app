@@ -27,16 +27,16 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:42+0200\n"
-"PO-Revision-Date: 2017-07-15 19:43+0200\n"
-"Last-Translator: Jan Sprinz <jan@ubports.com>\n"
-"Language-Team: German <https://ubpweblate.tnvcomp.com/projects/ubports/"
-"ubports-app/de/>\n"
+"PO-Revision-Date: 2017-08-05 15:31+0000\n"
+"Last-Translator: Bjarne Roß <ross.b@freenet.de>\n"
+"Language-Team: German <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Weblate 2.15\n"
 
 #: ../qml/Home.qml:29 ../qml/Home.qml:121
 msgid "Welcome to UBports!"
@@ -45,7 +45,7 @@ msgstr "Willkommen bei UBports!"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:39
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:55 ../qml/About.qml:58
