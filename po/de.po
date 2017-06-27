@@ -65,7 +65,7 @@ msgstr "Newsletter"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:78 ../qml/About.qml:81
 msgid "Meet The Team"
-msgstr ""
+msgstr "Triff das Team"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:84 ../qml/About.qml:87
