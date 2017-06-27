@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-20 15:54+0000\n"
-"PO-Revision-Date: 2017-06-27 09:24+0000\n"
+"PO-Revision-Date: 2017-06-27 17:44+0000\n"
 "Last-Translator: Milan Korecký <milan.korecky@gmail.com>\n"
 "Language-Team: Czech <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/cs/>\n"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../qml/Home.qml:85
 msgid "Pay what's fair"
-msgstr "Plaťte jen rozumnou cenu."
+msgstr "Plaťte jen fér cenu"
 
 #: ../qml/Home.qml:94
 msgid ""
@@ -56,17 +56,17 @@ msgid ""
 msgstr ""
 "UBports vznikla a je tu díky velkému množství dobrovolníků ve Vaší blízkosti "
 "a po celém světě. Přestože nežadáme o pravidelné finanční příspěvky, jsme "
-"závislí na Vaší finanční podpoře.  Takže pokud se vám líbí to, co vidíte a "
-"chcete, aby projekt byl úspěšný, zvažte jednorázový <a "
-"href='https://paypal.me/ubports'> </a> anebo <a href = ‚https: / "
-"/patreon.com/ubports'> pravidelný měsíční finanční příspěvek</a>. Velmi si "
-"ho ceníme a jsme si jisti, že budete mít radost z jeho přínosu a budete "
+"závislí na Vaší finanční podpoře. Takže pokud se vám líbí to, co vidíte a "
+"chcete, aby projekt byl úspěšný, zvažte <a "
+"href='https://paypal.me/ubports'>jednorázový</a>anebo<a href = 'https:/ "
+"/patreon.com/ubports'>pravidelný měsíční finanční příspěvek</a>. Velmi si ho "
+"ceníme a jsme si jisti, že budete mít radost z jeho přínosu a budete "
 "nadšení, že se na projektu také podílíte. Na oplátku budeme poskytovat všem "
 "členům projektu poctivý servis a transparentní prostor."
 
 #: ../qml/Home.qml:103
 msgid "Be more than a spectator - Become a game changer!"
-msgstr "Staňte se více než jen přihlížejícím - staňte se průkopníkem změn!"
+msgstr "Staňte se více než jen přihlížejícím - Staňte se průkopníkem změn!"
 
 #: ../qml/Home.qml:112
 msgid ""
@@ -104,7 +104,7 @@ msgstr "UBports App"
 
 #: ../qml/About.qml:72
 msgid "Version: "
-msgstr "Verze "
+msgstr "Verze: "
 
 #: ../qml/About.qml:80
 msgid ""
@@ -166,15 +166,20 @@ msgid ""
 "href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
 "href='https://patreon.com/ubports'>DONATE</a>"
 msgstr ""
+"<a href='https://github.com/ubports/ubports-app'>ZDROJ</a> | <a "
+"href='https://github.com/ubports/ubports-app/issues'>PROBLÉMY</a> | <a "
+"href='https://patreon.com/ubports'>PŘISPĚT</a>"
 
 #: ../qml/About.qml:117
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:126
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
 msgstr ""
+"Spravuje Jan Sprinz\n"
+"<neo@neothethird.de>"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr ""
+msgstr "UBports"
