@@ -22,19 +22,21 @@
 # Dovresti aver ricevuto una copia della GNU General Public License
 # allegata a questo programma.  Se non è avvenuto, consulta <http://www.gnu.org/licenses/>.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-20 15:54+0000\n"
-"PO-Revision-Date: 2017-06-23 13:28+0000\n"
-"Last-Translator: Paolo Sardelli <pablitoe92@yahoo.it>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2017-06-28 18:33+0000\n"
+"Last-Translator: Stefano Verzegnassi <verzegnassi.stefano@gmail.com>\n"
+"Language-Team: Italian <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.14.1\n"
 
 #: ../qml/Home.qml:58
 msgid "Welcome to UBports!"
@@ -114,14 +116,13 @@ msgstr """Ci siamo insieme. Come punto di partenza, controlla gli ultimi svilupp
 "l'esperienza. <a href='https://bit.ly/ubports'> Unisciti alla nostra mailing list </"
 "a> per rimanere sempre aggiornato ."
 
-
 #: ../qml/About.qml:54
 msgid "UBports App"
 msgstr "UBports App"
 
 #: ../qml/About.qml:72
 msgid "Version: "
-msgstr "Versione"
+msgstr "Versione: "
 
 #: ../qml/About.qml:80
 msgid ""
@@ -140,7 +141,6 @@ msgstr ""
 "all'annuncio di Canonical della fine del supporto a  Ubuntu Touch, il sistema venne "
 "ripreso dalla communitu. La risonanza di questa azione è stata fantastica, e la community "
 "sta crescendo sempre più rapidamente."
-
 
 #: ../qml/About.qml:89
 msgid ""
@@ -187,7 +187,6 @@ msgstr ""
 "<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a href='https://"
 "github.com/ubports/ubports-app/issues'>ISSUES</a> | <a href='https://patreon.com/"
 "ubports'>DONATE</a>"
-
 
 #: ../qml/About.qml:117
 msgid "Copyright (c) 2017 UBports <ubports.com>"
