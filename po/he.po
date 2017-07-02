@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-20 15:54+0000\n"
-"PO-Revision-Date: 2017-06-26 23:13+0000\n"
+"PO-Revision-Date: 2017-06-29 11:08+0000\n"
 "Last-Translator: Eran <etherpulse@gmail.com>\n"
 "Language-Team: Hebrew <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/he/>\n"
@@ -20,29 +20,31 @@ msgstr ""
 "X-Generator: Weblate 2.14.1\n"
 
 #: ../qml/Home.qml:58
-#, fuzzy
 msgid "Welcome to UBports!"
 msgstr "ברוכים הבאים ל UBports!"
 
 #: ../qml/Home.qml:67
-#, fuzzy
 msgid "We can change the future! Let's innovate and dream again."
 msgstr "אנו יכולים לשנות  את העתיד! בואו נחדש ונחלום בשנית."
 
 #: ../qml/Home.qml:76
+#, fuzzy
 msgid ""
 "UBports builds the most private and innovative experience. It is limited in "
 "potential only by what you - the community member - can dream. Regain "
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
+"UBports בונה את החוויה הכי פרטית וחדשנית שאפשר.  הגבולות היחידים הם מה שאתם -"
+" כשותפים בהקהילה -  יכולים לחלום עליו. החזירו לעצמכם את השליטה במכשירכם "
+"ובמידע הפרטי שלכם. יש לכם בחירה וחופש עם UBports."
 
 #: ../qml/Home.qml:85
-#, fuzzy
 msgid "Pay what's fair"
 msgstr "שלם מה שהוגן לשלם"
 
 #: ../qml/Home.qml:94
+#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -54,13 +56,21 @@ msgid ""
 "particpate. In return, we believe in providing fair sevice and opportunity "
 "with transparency to all members of the project."
 msgstr ""
+"UBports נוצר וקיים עקב פעולתם של מתנדבים רבים מהקהילה  הקרובה לכם ומכל "
+"העולם. אף על פי שאין אנו מבקשים מחיר כלשהו אנו  עדיין  תלויים  בתרומות "
+"האדיבות של חברי הקהילה.\n"
+"כך שאם בא לכם  לתמוך בפרוייקט ולתרום  להצלחתו, אנו שקלו תרומה <a "
+"href='https://paypal.me/ubports'>חד פעמית</a> או <a "
+"href='https://patreon.com/ubports'>חודשית</a>. \n"
+"אנו באמת מערכים זאת ובטוחים שתרגישו נפלא על תרומתכם ועל השתתפותכם. אנו בחזרה "
+"מאמינים בשירות הוגן ושקוף לכל משתתפי הפרויקט."
 
 #: ../qml/Home.qml:103
-#, fuzzy
 msgid "Be more than a spectator - Become a game changer!"
 msgstr "היה יותר מצופה - עזור לשנות את המשחק!"
 
 #: ../qml/Home.qml:112
+#, fuzzy
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
 "frustrated by a feature or a limitation or a weird layout? Get it changed! "
@@ -68,9 +78,12 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
+"עם UBports ניתן באמת לשנות את מה שאנו לא אוהבים. האם אי פעם הרגשתם מתוסכלים "
+"בגלל הגבלות או עיצובים מסוימים? שנו את זה! על ידי <a "
+"href='https://github.com/ubports/ubports-touch'>דיווח הבאג או שליחת בקשה "
+"לשינוי</a> UBports  יהפוך לפלטפורמה החכמה ביותר שאי פעם חוויתם."
 
 #: ../qml/Home.qml:121
-#, fuzzy
 msgid "Get looped in"
 msgstr "היה  חלק מהמשחק"
 
@@ -84,7 +97,7 @@ msgstr ""
 
 #: ../qml/About.qml:54
 msgid "UBports App"
-msgstr ""
+msgstr "UBports App"
 
 #: ../qml/About.qml:72
 msgid "Version: "
@@ -129,10 +142,14 @@ msgid ""
 "href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
 "href='https://patreon.com/ubports'>DONATE</a>"
 msgstr ""
+"<a href='https://github.com/ubports/ubports-app'>קוד המקור</a>|<a "
+"href='https://github.com/ubports/ubports-app/issues'>דיווח בעיות</a>|<a "
+"href='https://patreon.com/ubports'>תרומות</a>"
 
 #: ../qml/About.qml:117
+#, fuzzy
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:126
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
