@@ -2,31 +2,27 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# Mutse Young <yyhoo2.young@gmail.com>
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-27 10:22+0000\n"
-"PO-Revision-Date: 2017-07-02 14:03+0000\n"
-"Last-Translator: Weblate Admin <flori-weblate@bin.org.in>\n"
-"Language-Team: Chinese (Simplified) "
-"<https://ubpweblate.tnvcomp.com/projects/ubports/ubports-app/zh_Hans/>\n"
-"Language: zh_CN\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.15\n"
 
 #: ../qml/Home.qml:58
 msgid "Welcome to UBports!"
-msgstr "欢迎来到 UBports！"
+msgstr ""
 
 #: ../qml/Home.qml:67
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "我们能改变未来！让我们再次创新和梦想。"
+msgstr ""
 
 #: ../qml/Home.qml:76
 msgid ""
@@ -35,12 +31,10 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
-"UBports 构建了最隐私和创新的体验。它的潜力有限，只有您-社区成员，才能梦想。重"
-"新控制你的设备和个人资料。您有选择和自由使用 UBports。"
 
 #: ../qml/Home.qml:85
 msgid "Pay what's fair"
-msgstr "公正的支付"
+msgstr ""
 
 #: ../qml/Home.qml:94
 msgid ""
@@ -54,16 +48,10 @@ msgid ""
 "particpate. In return, we believe in providing fair sevice and opportunity "
 "with transparency to all members of the project."
 msgstr ""
-"因为在您和世界各地的社区中有很多志愿者，所以产生了 UBports。虽然我们不要求固"
-"定的费用，但我们确实依赖于社区的财政支持。因此，如果您喜欢您所看到的并希望看"
-"到的项目成功，请考虑下<a href =\"https://paypal.me/ubports\">一次性</>或<a "
-"href =\"https://patreon.com/ubports\">定期每月捐款< / >。我们真诚地感谢您的帮"
-"助，知道您将会为您的无私的贡献感到高兴，也会为您感到高兴。作为回报，我们相信"
-"为项目的所有成员提供公平的服务和透明度。"
 
 #: ../qml/Home.qml:103
 msgid "Be more than a spectator - Become a game changer!"
-msgstr "不仅仅是一名观众，更是成为一名游戏的改变者！"
+msgstr ""
 
 #: ../qml/Home.qml:112
 msgid ""
@@ -73,13 +61,10 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
-"有了 ubports，您可以改变不喜欢的东西。是否曾因某个特性或限制或怪异的布局而感"
-"到沮丧？它改变了！通过<a href = \" https://github.com/ubports/ubports-touch "
-"\" >发送报告bug和特性请求<a/> UBports 将成为您体验过的最智能的平台。"
 
 #: ../qml/Home.qml:121
 msgid "Get looped in"
-msgstr "获取消息圈"
+msgstr ""
 
 #: ../qml/Home.qml:130
 msgid ""
@@ -88,17 +73,14 @@ msgid ""
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</"
 "a> to get in the loop and stay in the loop."
 msgstr ""
-"我们在一起，作为一个起点，继续关注最新的发展，相关的新闻和一系列其它的经验提"
-"升更新。< a href = \" https://ubports.com/r/appsubscribe \" >请加入我们的邮件"
-"列表< / >消息圈和留在这里。"
 
 #: ../qml/About.qml:54
 msgid "UBports App"
-msgstr "UBports 应用"
+msgstr ""
 
 #: ../qml/About.qml:72
 msgid "Version: "
-msgstr "版本： "
+msgstr ""
 
 #: ../qml/About.qml:80
 msgid ""
@@ -110,10 +92,6 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
-"UBports 是一个开发者和用户的国际社区，旨在能让 Ubuntu Touch 保持活力。该项目"
-"由 Marius Gripsgard 于2015年创建，作为一个开发者可以互相讨论和学习的地方，并"
-"帮助把 Ubuntu 带入更多的设备。在 Canonical 宣布他们停止对 Ubuntu Touch 的支持"
-"后，这个操作系统被社区所接受。反响非常好，使得我们的社区发展迅速。"
 
 #: ../qml/About.qml:89
 msgid ""
@@ -124,10 +102,6 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
-"我们的目标是让 Ubuntu Touch 在所有现有的设备上保持活跃。在保持所有好的和漂亮"
-"的部分的同时，我们想要重塑 Ubuntu Touch，使它成为我们日常想要使用的操作系统。"
-"Ubuntu 是人类的 Linux，Ubuntu Touch 把这种精神带到了移动设备上。我们想要把 "
-"Ubuntu Touch 变成真正的Linux 发行版，同时保持其简单而优雅的设计。"
 
 #: ../qml/About.qml:98
 msgid ""
@@ -140,11 +114,6 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
-"本程序是自由软件：您可以根据自由软件基金会发布的 GNU 通用公共许可证的条款重新"
-"发布，或者修改它，或者(在您的选择)最新的版本。本程序的发布，希望它是有用的，"
-"但没有任何保证；甚至没有对适销性或适合特定用途的默示保证。查看<a "
-"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> GNU通用公共许可证 </a>获"
-"取更多细节。"
 
 #: ../qml/About.qml:107
 msgid ""
@@ -152,18 +121,15 @@ msgid ""
 "href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
 "href='https://patreon.com/ubports'>DONATE</a>"
 msgstr ""
-"<a href='https://github.com/ubports/ubports-app'>源码</a> | <a href='https://"
-"github.com/ubports/ubports-app/issues'>问题</a> | <a href='https://patreon."
-"com/ubports'>捐赠</a>"
 
 #: ../qml/About.qml:117
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr "(C) 2017 UBports <ubports.com> 版权所有"
+msgstr ""
 
 #: ../qml/About.qml:126
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr "Jan Sprinz <neo@neothethird.de> 维护"
+msgstr ""
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr "UBports"
+msgstr ""
