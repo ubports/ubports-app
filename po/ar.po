@@ -8,21 +8,25 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-27 10:22+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-07-08 18:35+0000\n"
+"Last-Translator: Ahmed Suliman <ahmedselaman@gmail.com>\n"
+"Language-Team: Arabic <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 2.15\n"
 
 #: ../qml/Home.qml:58
 msgid "Welcome to UBports!"
-msgstr ""
+msgstr "مرحبا بك في UBports!"
 
 #: ../qml/Home.qml:67
 msgid "We can change the future! Let's innovate and dream again."
-msgstr ""
+msgstr "يمكننا تغيير المستقبل! دعنا نبتكر ونحلم مرة اخرى."
 
 #: ../qml/Home.qml:76
 msgid ""
@@ -31,10 +35,13 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
+"UBports يقوم ببناء التجربة الأكثر خصوصية وابتكارا. قد يكون محدود بك في "
+"الامكانيات -عضو المجتمع - يمكن ان يحلم. اعادة التحكم في جهازك والبيانات "
+"الشخصية. لديك الخيار والحرية مع UBports."
 
 #: ../qml/Home.qml:85
 msgid "Pay what's fair"
-msgstr ""
+msgstr "إدفع لما هو عادل"
 
 #: ../qml/Home.qml:94
 msgid ""
@@ -48,10 +55,18 @@ msgid ""
 "particpate. In return, we believe in providing fair sevice and opportunity "
 "with transparency to all members of the project."
 msgstr ""
+"UBports تم إنشاؤه ويوجد بسبب العديد من المتطوعين في المجتمع بالقرب منك وجميع "
+"أنحاء العالم. على الرغم من أننا لا نطلب رسوم ثابتة نحن نعتمد على الدعم "
+"المالي من المجتمع.لذلك إذا كنت تحب ما تراه وتريد أن ترى نجاح المشروع، يرجى "
+"الاطلاع على <a href='https://paypal.me/ubports'>مرة واحدة</a> او <a "
+"href='https://patreon.com/ubports'>التبرع الشهري المنتظم</a>. ونحن نقدر ذلك "
+"بصدق ، ونحن نعلم انك سوف تشعر بالسعادة بشان مساهمتك العادلة وتكون متحمسا "
+"للمشاركة. وفي المقابل ، نؤمن بتوفير الخدمة العادلة والفرص التي تتيح الشفافية "
+"لجميع أعضاء المشروع."
 
 #: ../qml/Home.qml:103
 msgid "Be more than a spectator - Become a game changer!"
-msgstr ""
+msgstr "كن اكثر من متفرج - اصبح مغيير اللعبة!"
 
 #: ../qml/Home.qml:112
 msgid ""
@@ -61,10 +76,14 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
+"مع ubports يمكنك فعلا تغيير الأشياء التي لا تعجبك. شعرت بالإحباط من قبل ميزة "
+"أو تقييد أو تخطيط غريب؟ الحصول على تغيير! بواسطة <a "
+"href='https://github.com/ubports/ubports-touch'>الإبلاغ عن الأخطاء وإرسال "
+"طلبات ميزة</a> UBports سوف يصبح أذكى منصة قمت بتجربتها في أي وقت مضى."
 
 #: ../qml/Home.qml:121
 msgid "Get looped in"
-msgstr ""
+msgstr "كن على اطلاع"
 
 #: ../qml/Home.qml:130
 msgid ""
@@ -73,14 +92,18 @@ msgid ""
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</"
 "a> to get in the loop and stay in the loop."
 msgstr ""
+"نحن معا في هذا. كنقطة انطلاق، كن على رأس أحدث التطورات والأخبار ذات الصلة، "
+"ومجموعة كاملة من تحسينات التجربة الأخرى والتحديثات. <a "
+"href='https://ubports.com/r/appsubscribe'>انضم لقائمتنا البريدية</a> لاطلاع "
+"والبقاء على اطلاع."
 
 #: ../qml/About.qml:54
 msgid "UBports App"
-msgstr ""
+msgstr "تطبيق UBports"
 
 #: ../qml/About.qml:72
 msgid "Version: "
-msgstr ""
+msgstr "الاصدار: "
 
 #: ../qml/About.qml:80
 msgid ""
@@ -92,6 +115,12 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
+"UBports هو مجتمع دولي من المطورين والمستخدمين الذين يرغبون في الحفاظ على "
+"أوبونتو تاتش على قيد الحياة. تم تأسيس المشروع من قبل ماريوس غريبسغارد في عام "
+"2015 كمكان حيث يمكن للمطورين التحدث والتعلم من بعضهم البعض وتساعد في جلب "
+"أوبونتو إلى مزيد من الأجهزة كفريق واحد. بعد أن أعلنت كانوناليكال نهاية دعمها "
+"لأوبونتو تاتش، تم اختيار نظام التشغيل من قبل المجتمع. كان الرنين رائعا "
+"ومجتمعنا ينمو بسرعة"
 
 #: ../qml/About.qml:89
 msgid ""
@@ -102,6 +131,11 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"ان هدفنا الحفاظ على أوبونتو تاتش على قيد الحياة على جميع الأجهزة الموجودة. "
+"مع الحفاظ على جميع أجزائه جيدة وجميلة، ونحن نريد إعادة تشكيل أوبونتو تاتش "
+"لجعله نظام تشغيل نريده أن يستخدم على أساس يومي. أوبونتو هو لينكس للبشر، و "
+"أوبونتو تاتش يجلب هذه الروح إلى الأجهزة النقالة. نريد تحويل أوبونتو تاتش الي "
+"توزيعة لينكس للأجهزة النقالة، مع الحفاظ على تصميمه البسيط والأنيق."
 
 #: ../qml/About.qml:98
 msgid ""
@@ -114,6 +148,12 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
+"هذا البرنامج هو برنامج مجاني: يمكنك إعادة توزيعه و / أو تعديله تحت شروط رخصة "
+"جنو العمومية والتي نشرتها مؤسسة البرمجيات الحرة، سواء الإصدار 3 من الرخصة، "
+"أو (باختيارك) أي إصدار لاحق. يتم توزيع هذا البرنامج على أمل أن يكون مفيدا، "
+"ولكن من دون أي ضمان. حتى من دون ضمان ضمني للتسويق أو الملاءمة لغرض معين. "
+"انظر <a href='https://www.gnu.org/licenses/gpl-3.0.en.html'>رخصة جنو "
+"العمومية العامة</a> لتفاصيل اكثر."
 
 #: ../qml/About.qml:107
 msgid ""
@@ -121,15 +161,18 @@ msgid ""
 "href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
 "href='https://patreon.com/ubports'>DONATE</a>"
 msgstr ""
+"<a href='https://github.com/ubports/ubports-app'>الكود المصدري</a> | <a "
+"href='https://github.com/ubports/ubports-app/issues'>المشاكل</a> | <a "
+"href='https://patreon.com/ubports'>التبرع</a>"
 
 #: ../qml/About.qml:117
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "حقوق التأليف والنشر (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:126
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr ""
+msgstr "تم إصلاحها بواسطة Jan Sprinz <neo@neothethird.de>"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr ""
+msgstr "UBports"
