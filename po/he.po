@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-20 15:54+0000\n"
-"PO-Revision-Date: 2017-06-29 11:08+0000\n"
+"PO-Revision-Date: 2017-07-05 15:28+0000\n"
 "Last-Translator: Eran <etherpulse@gmail.com>\n"
 "Language-Team: Hebrew <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/he/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Weblate 2.15\n"
 
 #: ../qml/Home.qml:58
 msgid "Welcome to UBports!"
@@ -94,6 +94,10 @@ msgid ""
 "updates. <a href='https://bit.ly/ubports'>Join our mailing list</a> to get "
 "in the loop and stay in the loop."
 msgstr ""
+"אנחנו ביחד  בזה. בתור התחלה, הישארו מעודכנים בהתפתחויות האחרונות, חדשות ועוד "
+"הרבה עדכונים שונים שיוסיפו לחוויית הפיתוח. <a href='https://bit.ly/ubports'> "
+"הצטרפו לרשימת הדיוור שלנו</a> על מנת להתחיל לקבל את העדכונים האחרונים "
+"ולהישאר מעודכנים תמיד."
 
 #: ../qml/About.qml:54
 msgid "UBports App"
@@ -104,6 +108,7 @@ msgid "Version: "
 msgstr "גירסאה: "
 
 #: ../qml/About.qml:80
+#, fuzzy
 msgid ""
 "UBports is an international community of developers and users who wish to "
 "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
@@ -113,6 +118,11 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
+"UBports זאת קהילה בינלאומית של מפתחים ומשתמשים אשר  רוצים לשמור על Ubuntu "
+"Touch חיה. הפרויקט נוצר ע\"י Marius Gripsgard בשנת 2015 כמקום שיאפשר למפתחים "
+"לדון וללמוד  אחד מהשני וכצוות לעזור אובונטו להגיע ליותר מכשירים. אחרי ש "
+"Canonical הודיעה על הסרת התמיכה שלהם ב Ubuntu Touch,  הקהילה לקחה  את מערכת "
+"ההפעלה תחת כנפה ומאז הקהילה גדלה בקצב מהיר ביותר."
 
 #: ../qml/About.qml:89
 msgid ""
@@ -153,8 +163,9 @@ msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:126
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr ""
+msgstr "מתוחזק על ידי Jan Sprinz <neo@neothethird.de>"
 
 #: com.ubuntu.ubports.desktop.in.h:1
+#, fuzzy
 msgid "UBports"
-msgstr ""
+msgstr "UBports"
