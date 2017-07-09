@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-27 10:22+0000\n"
-"PO-Revision-Date: 2017-07-09 03:31+0000\n"
+"PO-Revision-Date: 2017-07-09 03:58+0000\n"
 "Last-Translator: Mutse Young <yyhoo2.young@gmail.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<https://ubpweblate.tnvcomp.com/projects/ubports/ubports-app/zh_Hans/>\n"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../qml/Home.qml:85
 msgid "Pay what's fair"
-msgstr "公正的支付"
+msgstr "付出公平的代价"
 
 #: ../qml/Home.qml:94
 msgid ""
@@ -138,11 +138,9 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
-"本程序是自由软件：您可以根据自由软件基金会发布的 GNU 通用公共许可证的条款重新"
-"发布，或者修改它，或者(在您的选择)最新的版本。本程序的发布，希望它是有用的，"
-"但没有任何保证；甚至没有对适销性或适合特定用途的默示保证。查看<a "
-"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> GNU通用公共许可证 </a>获"
-"取更多细节。"
+"本程序为自由软件：在自由软件基金会发布的 GNU 通用公共许可证的条款约束下，您可以对其进行再发布及修改。协议版本为第三版(或随您)更新的版本。我们希望发"
+"布的这款程序有用，但不保证；甚至不保证它的经济价值和适合特定用途。请查阅<a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> GNU通用公共许可证 </a>获取更多细节。"
 
 #: ../qml/About.qml:107
 msgid ""
