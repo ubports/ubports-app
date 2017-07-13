@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-20 15:54+0000\n"
-"PO-Revision-Date: 2017-07-05 15:28+0000\n"
+"PO-Revision-Date: 2017-07-13 09:39+0000\n"
 "Last-Translator: Eran <etherpulse@gmail.com>\n"
 "Language-Team: Hebrew <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/he/>\n"
@@ -125,6 +125,7 @@ msgstr ""
 "ההפעלה תחת כנפה ומאז הקהילה גדלה בקצב מהיר ביותר."
 
 #: ../qml/About.qml:89
+#, fuzzy
 msgid ""
 "It's our goal to keep Ubuntu Touch alive on all existing devices. While "
 "keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
@@ -133,6 +134,11 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"זאת מטרתנו לשמור על Ubuntu Touch חייה ופועלת על כל המכשירים הקיימים. תוך "
+"שמירה על כל הטוב והיפה בה, אנו רוצים לעצב את Ubuntu Touch על מנת ליצור מערכת "
+"הפעלה שאנו רוצים להשתמש ביומיום. Ubuntu היא הפצת לינוקס לבני אדם, ו Ubuntu "
+"Touch מעביר את הרעיון הזה למכשירים ניידים. אנו רוצים להפוך את Ubuntu Touch "
+"להפצת לינוקס אמיתית למכשירים ניידים, תוך שמירה על העיצוב הפשוט והאלגנטי שלה."
 
 #: ../qml/About.qml:98
 msgid ""
