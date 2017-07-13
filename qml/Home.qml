@@ -26,7 +26,7 @@ import QtQuick 2.0
 import Ubuntu.Components 1.1
 
 Page {
-    title: "Welcome to UBports"
+    title: i18n.tr("Welcome to UBports!")
     Flickable {
         id: flick
         anchors {
@@ -74,7 +74,6 @@ Page {
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("UBports builds the most private and innovative experience. It is limited in potential only by what you - the community member - can dream. Regain control of your device and personal data. You have choice and freedom with UBports.")
-                onLinkActivated: Qt.openUrlExternally(link)
             }
 
             Label {
@@ -91,6 +90,7 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                //TRANSLATORS: Please make sure the URLs are correct
                 text: i18n.tr("UBports was created and exists because of many volunteers in the community near you and all over the world. Although we don't ask for a fixed fee we do depend on financial support from the community. So if you like what you see and want to see the project succeed, please consider a <a href='https://paypal.me/ubports'>one-time</a> or <a href='https://patreon.com/ubports'>regular monthly donation</a>. We sincerely appreciate it and we know that you'll feel great about your fair contribution and be excited to particpate. In return, we believe in providing fair sevice and opportunity with transparency to all members of the project.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
@@ -109,6 +109,7 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                //TRANSLATORS: Please make sure the URLs are correct
                 text: i18n.tr("With ubports you can actually change the things you don't like. Ever felt frustrated by a feature or a limitation or a weird layout? Get it changed! By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and sending feature requests</a> UBports will become the smartest platform you've ever experienced.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
@@ -127,6 +128,7 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                //TRANSLATORS: Please make sure the URLs are correct
                 text: i18n.tr("We are in this together. As a starting point, stay on top of the latest developments, related news and a whole bunch of other experience-enhancing updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</a> to get in the loop and stay in the loop.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }

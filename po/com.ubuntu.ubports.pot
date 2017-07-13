@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-13 20:04+0000\n"
+"POT-Creation-Date: 2017-07-13 20:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,42 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../qml/Home.qml:58
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Main.qml:57
+msgid "Support Forum"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Main.qml:63
+msgid "Get involved"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Main.qml:69
+msgid "Newsletter"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Main.qml:80
+msgid "Meet The Team"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Main.qml:86
+msgid "Devices"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Main.qml:98
+msgid "About"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Main.qml:104
+msgid "Home"
+msgstr ""
+
+#: ../qml/Home.qml:29 ../qml/Home.qml:58
 msgid "Welcome to UBports!"
 msgstr ""
 
@@ -33,10 +68,11 @@ msgid ""
 "UBports."
 msgstr ""
 
-#: ../qml/Home.qml:85
+#: ../qml/Home.qml:84
 msgid "Pay what's fair"
 msgstr ""
 
+#. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:94
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
@@ -54,7 +90,8 @@ msgstr ""
 msgid "Be more than a spectator - Become a game changer!"
 msgstr ""
 
-#: ../qml/Home.qml:112
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/Home.qml:113
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
 "frustrated by a feature or a limitation or a weird layout? Get it changed! "
@@ -63,16 +100,21 @@ msgid ""
 "you've ever experienced."
 msgstr ""
 
-#: ../qml/Home.qml:121
+#: ../qml/Home.qml:122
 msgid "Get looped in"
 msgstr ""
 
-#: ../qml/Home.qml:130
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/Home.qml:132
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</"
 "a> to get in the loop and stay in the loop."
+msgstr ""
+
+#: ../qml/About.qml:32
+msgid "About the App"
 msgstr ""
 
 #: ../qml/About.qml:54
@@ -94,7 +136,7 @@ msgid ""
 "rapidly."
 msgstr ""
 
-#: ../qml/About.qml:89
+#: ../qml/About.qml:88
 msgid ""
 "It's our goal to keep Ubuntu Touch alive on all existing devices. While "
 "keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
@@ -104,7 +146,8 @@ msgid ""
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
 
-#: ../qml/About.qml:98
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/About.qml:97
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -116,6 +159,7 @@ msgid ""
 "License</a> for more details."
 msgstr ""
 
+#. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/About.qml:107
 msgid ""
 "<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a "

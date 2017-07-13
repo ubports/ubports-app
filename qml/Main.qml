@@ -53,17 +53,20 @@ MainView {
             },
             Action {
                 iconName: "system-users-symbolic"
-                text: "Support Forum"
+                //TRANSLATORS: Description of the menu item
+                text: i18n.tr("Support Forum")
                 onTriggered: Qt.openUrlExternally("https://ubports.com/r/appforums")
             },
             Action {
                 iconName: "torch-on"
-                text: "Get involved"
+                //TRANSLATORS: Description of the menu item
+                text: i18n.tr("Get involved")
                 onTriggered: Qt.openUrlExternally("https://ubports.com/r/appgetinvolved")
             },
             Action {
                 iconName: "dekko-app-symbolic"
-                text: "Newsletter"
+                //TRANSLATORS: Description of the menu item
+                text: i18n.tr("Newsletter")
                 onTriggered: Qt.openUrlExternally("https://ubports.com/r/appsubscribe")
             },
             Action {
@@ -73,12 +76,14 @@ MainView {
             },
             Action {
                 iconName: "contacts-app-symbolic"
-                text: "Meet The Team"
+                //TRANSLATORS: Description of the menu item
+                text: i18n.tr("Meet The Team")
                 onTriggered: Qt.openUrlExternally("https://ubports.com/r/appteam")
             },
             Action {
                 iconName: "phone-symbolic"
-                text: "Devices"
+                //TRANSLATORS: Description of the menu item
+                text: i18n.tr("Devices")
                 onTriggered: Qt.openUrlExternally("https://ubports.com/r/appdev")
             }
 
@@ -89,12 +94,14 @@ MainView {
             actions: [
             Action {
                 iconName: "info"
-                text: "About"
+                //TRANSLATORS: Description of the menu item
+                text: i18n.tr("About")
                 onTriggered: mainStack.push(Qt.resolvedUrl("About.qml"))
             },
             Action {
                 iconName: "home"
-                text: "Home"
+                //TRANSLATORS: Description of the menu item
+                text: i18n.tr("Home")
                 onTriggered: mainStack.push(Qt.resolvedUrl("Home.qml"))
             }
             ]
