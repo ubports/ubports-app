@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-20 15:54+0000\n"
+"POT-Creation-Date: 2017-07-15 15:20+0000\n"
 "PO-Revision-Date: 2017-07-13 09:39+0000\n"
 "Last-Translator: Eran <etherpulse@gmail.com>\n"
-"Language-Team: Hebrew <https://ubpweblate.tnvcomp.com/projects/ubports"
-"/ubports-app/he/>\n"
+"Language-Team: Hebrew <https://ubpweblate.tnvcomp.com/projects/ubports/"
+"ubports-app/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,15 +19,45 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.15\n"
 
-#: ../qml/Home.qml:58
+#: ../qml/Home.qml:29 ../qml/Home.qml:121
 msgid "Welcome to UBports!"
 msgstr "ברוכים הבאים ל UBports!"
 
-#: ../qml/Home.qml:67
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:39
+msgid "About"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:55 ../qml/About.qml:58
+msgid "Support Forum"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:61 ../qml/About.qml:64
+msgid "Get involved"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:67 ../qml/About.qml:70
+msgid "Newsletter"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:78 ../qml/About.qml:81
+msgid "Meet The Team"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:84 ../qml/About.qml:87
+msgid "Devices"
+msgstr ""
+
+#: ../qml/Home.qml:130
 msgid "We can change the future! Let's innovate and dream again."
 msgstr "אנו יכולים לשנות  את העתיד! בואו נחדש ונחלום בשנית."
 
-#: ../qml/Home.qml:76
+#: ../qml/Home.qml:139
 #, fuzzy
 msgid ""
 "UBports builds the most private and innovative experience. It is limited in "
@@ -35,15 +65,16 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
-"UBports בונה את החוויה הכי פרטית וחדשנית שאפשר.  הגבולות היחידים הם מה שאתם -"
-" כשותפים בהקהילה -  יכולים לחלום עליו. החזירו לעצמכם את השליטה במכשירכם "
+"UBports בונה את החוויה הכי פרטית וחדשנית שאפשר.  הגבולות היחידים הם מה שאתם "
+"- כשותפים בהקהילה -  יכולים לחלום עליו. החזירו לעצמכם את השליטה במכשירכם "
 "ובמידע הפרטי שלכם. יש לכם בחירה וחופש עם UBports."
 
-#: ../qml/Home.qml:85
+#: ../qml/Home.qml:147
 msgid "Pay what's fair"
 msgstr "שלם מה שהוגן לשלם"
 
-#: ../qml/Home.qml:94
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/Home.qml:157
 #, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
@@ -60,16 +91,17 @@ msgstr ""
 "העולם. אף על פי שאין אנו מבקשים מחיר כלשהו אנו  עדיין  תלויים  בתרומות "
 "האדיבות של חברי הקהילה.\n"
 "כך שאם בא לכם  לתמוך בפרוייקט ולתרום  להצלחתו, אנו שקלו תרומה <a "
-"href='https://paypal.me/ubports'>חד פעמית</a> או <a "
-"href='https://patreon.com/ubports'>חודשית</a>. \n"
+"href='https://paypal.me/ubports'>חד פעמית</a> או <a href='https://patreon."
+"com/ubports'>חודשית</a>. \n"
 "אנו באמת מערכים זאת ובטוחים שתרגישו נפלא על תרומתכם ועל השתתפותכם. אנו בחזרה "
 "מאמינים בשירות הוגן ושקוף לכל משתתפי הפרויקט."
 
-#: ../qml/Home.qml:103
+#: ../qml/Home.qml:166
 msgid "Be more than a spectator - Become a game changer!"
 msgstr "היה יותר מצופה - עזור לשנות את המשחק!"
 
-#: ../qml/Home.qml:112
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/Home.qml:176
 #, fuzzy
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
@@ -79,35 +111,45 @@ msgid ""
 "you've ever experienced."
 msgstr ""
 "עם UBports ניתן באמת לשנות את מה שאנו לא אוהבים. האם אי פעם הרגשתם מתוסכלים "
-"בגלל הגבלות או עיצובים מסוימים? שנו את זה! על ידי <a "
-"href='https://github.com/ubports/ubports-touch'>דיווח הבאג או שליחת בקשה "
-"לשינוי</a> UBports  יהפוך לפלטפורמה החכמה ביותר שאי פעם חוויתם."
+"בגלל הגבלות או עיצובים מסוימים? שנו את זה! על ידי <a href='https://github."
+"com/ubports/ubports-touch'>דיווח הבאג או שליחת בקשה לשינוי</a> UBports  "
+"יהפוך לפלטפורמה החכמה ביותר שאי פעם חוויתם."
 
-#: ../qml/Home.qml:121
+#: ../qml/Home.qml:185
 msgid "Get looped in"
 msgstr "היה  חלק מהמשחק"
 
-#: ../qml/Home.qml:130
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/Home.qml:195
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
-"updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</a> to get "
-"in the loop and stay in the loop."
+"updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</"
+"a> to get in the loop and stay in the loop."
 msgstr ""
 "אנחנו ביחד  בזה. בתור התחלה, הישארו מעודכנים בהתפתחויות האחרונות, חדשות ועוד "
-"הרבה עדכונים שונים שיוסיפו לחוויית הפיתוח. <a href='https://ubports.com/r/appsubscribe'> "
-"הצטרפו לרשימת הדיוור שלנו</a> על מנת להתחיל לקבל את העדכונים האחרונים "
-"ולהישאר מעודכנים תמיד."
+"הרבה עדכונים שונים שיוסיפו לחוויית הפיתוח. <a href='https://ubports.com/r/"
+"appsubscribe'> הצטרפו לרשימת הדיוור שלנו</a> על מנת להתחיל לקבל את העדכונים "
+"האחרונים ולהישאר מעודכנים תמיד."
 
-#: ../qml/About.qml:54
+#: ../qml/About.qml:32
+msgid "About the App"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/About.qml:42
+msgid "Home"
+msgstr ""
+
+#: ../qml/About.qml:116
 msgid "UBports App"
 msgstr "UBports App"
 
-#: ../qml/About.qml:72
+#: ../qml/About.qml:134
 msgid "Version: "
 msgstr "גירסאה: "
 
-#: ../qml/About.qml:80
+#: ../qml/About.qml:142
 #, fuzzy
 msgid ""
 "UBports is an international community of developers and users who wish to "
@@ -124,7 +166,7 @@ msgstr ""
 "Canonical הודיעה על הסרת התמיכה שלהם ב Ubuntu Touch,  הקהילה לקחה  את מערכת "
 "ההפעלה תחת כנפה ומאז הקהילה גדלה בקצב מהיר ביותר."
 
-#: ../qml/About.qml:89
+#: ../qml/About.qml:150
 #, fuzzy
 msgid ""
 "It's our goal to keep Ubuntu Touch alive on all existing devices. While "
@@ -140,7 +182,8 @@ msgstr ""
 "Touch מעביר את הרעיון הזה למכשירים ניידים. אנו רוצים להפוך את Ubuntu Touch "
 "להפצת לינוקס אמיתית למכשירים ניידים, תוך שמירה על העיצוב הפשוט והאלגנטי שלה."
 
-#: ../qml/About.qml:98
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/About.qml:159
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -152,22 +195,24 @@ msgid ""
 "License</a> for more details."
 msgstr ""
 
-#: ../qml/About.qml:107
-msgid ""
-"<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a "
-"href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
-"href='https://patreon.com/ubports'>DONATE</a>"
+#: ../qml/About.qml:168
+msgid "SOURCE"
 msgstr ""
-"<a href='https://github.com/ubports/ubports-app'>קוד המקור</a>|<a "
-"href='https://github.com/ubports/ubports-app/issues'>דיווח בעיות</a>|<a "
-"href='https://patreon.com/ubports'>תרומות</a>"
 
-#: ../qml/About.qml:117
+#: ../qml/About.qml:168
+msgid "ISSUES"
+msgstr ""
+
+#: ../qml/About.qml:168
+msgid "DONATE"
+msgstr ""
+
+#: ../qml/About.qml:178
 #, fuzzy
 msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
-#: ../qml/About.qml:126
+#: ../qml/About.qml:187
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
 msgstr "מתוחזק על ידי Jan Sprinz <neo@neothethird.de>"
 
@@ -175,3 +220,12 @@ msgstr "מתוחזק על ידי Jan Sprinz <neo@neothethird.de>"
 #, fuzzy
 msgid "UBports"
 msgstr "UBports"
+
+#~ msgid ""
+#~ "<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a "
+#~ "href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
+#~ "href='https://patreon.com/ubports'>DONATE</a>"
+#~ msgstr ""
+#~ "<a href='https://github.com/ubports/ubports-app'>קוד המקור</a>|<a "
+#~ "href='https://github.com/ubports/ubports-app/issues'>דיווח בעיות</a>|<a "
+#~ "href='https://patreon.com/ubports'>תרומות</a>"
