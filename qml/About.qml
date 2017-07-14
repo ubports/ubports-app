@@ -37,6 +37,12 @@ Page {
         trailingActionBar {
             actions: [
             Action {
+                iconName: "home"
+                //TRANSLATORS: Description of the menu item
+                text: i18n.tr("Home")
+                onTriggered: mainStack.pop()
+            },
+            Action {
                 iconName: "webbrowser-app-symbolic"
                 text: "ubports.com"
                 onTriggered: Qt.openUrlExternally("https://ubports.com")
@@ -83,7 +89,7 @@ Page {
             }
 
             ]
-            numberOfSlots: 0
+            numberOfSlots: 2
         }
     }
 

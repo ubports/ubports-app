@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-14 21:52+0000\n"
+"POT-Creation-Date: 2017-07-14 21:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,27 +27,27 @@ msgid "About"
 msgstr ""
 
 #. TRANSLATORS: Description of the menu item
-#: ../qml/Home.qml:55 ../qml/About.qml:52
+#: ../qml/Home.qml:55 ../qml/About.qml:58
 msgid "Support Forum"
 msgstr ""
 
 #. TRANSLATORS: Description of the menu item
-#: ../qml/Home.qml:61 ../qml/About.qml:58
+#: ../qml/Home.qml:61 ../qml/About.qml:64
 msgid "Get involved"
 msgstr ""
 
 #. TRANSLATORS: Description of the menu item
-#: ../qml/Home.qml:67 ../qml/About.qml:64
+#: ../qml/Home.qml:67 ../qml/About.qml:70
 msgid "Newsletter"
 msgstr ""
 
 #. TRANSLATORS: Description of the menu item
-#: ../qml/Home.qml:78 ../qml/About.qml:75
+#: ../qml/Home.qml:78 ../qml/About.qml:81
 msgid "Meet The Team"
 msgstr ""
 
 #. TRANSLATORS: Description of the menu item
-#: ../qml/Home.qml:84 ../qml/About.qml:81
+#: ../qml/Home.qml:84 ../qml/About.qml:87
 msgid "Devices"
 msgstr ""
 
@@ -112,15 +112,20 @@ msgstr ""
 msgid "About the App"
 msgstr ""
 
-#: ../qml/About.qml:111
+#. TRANSLATORS: Description of the menu item
+#: ../qml/About.qml:42
+msgid "Home"
+msgstr ""
+
+#: ../qml/About.qml:117
 msgid "UBports App"
 msgstr ""
 
-#: ../qml/About.qml:129
+#: ../qml/About.qml:135
 msgid "Version: "
 msgstr ""
 
-#: ../qml/About.qml:137
+#: ../qml/About.qml:143
 msgid ""
 "UBports is an international community of developers and users who wish to "
 "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
@@ -131,7 +136,7 @@ msgid ""
 "rapidly."
 msgstr ""
 
-#: ../qml/About.qml:145
+#: ../qml/About.qml:151
 msgid ""
 "It's our goal to keep Ubuntu Touch alive on all existing devices. While "
 "keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
@@ -142,7 +147,7 @@ msgid ""
 msgstr ""
 
 #. TRANSLATORS: Please make sure the URLs are correct
-#: ../qml/About.qml:154
+#: ../qml/About.qml:160
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -155,18 +160,18 @@ msgid ""
 msgstr ""
 
 #. TRANSLATORS: Please make sure the URLs are correct
-#: ../qml/About.qml:164
+#: ../qml/About.qml:170
 msgid ""
 "<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a "
 "href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
 "href='https://patreon.com/ubports'>DONATE</a>"
 msgstr ""
 
-#: ../qml/About.qml:174
+#: ../qml/About.qml:180
 msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr ""
 
-#: ../qml/About.qml:183
+#: ../qml/About.qml:189
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
 msgstr ""
 
