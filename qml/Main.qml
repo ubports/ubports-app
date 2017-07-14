@@ -36,88 +36,11 @@ MainView {
     width: units.gu(45)
     height: units.gu(75)
 
-    PageHeader {
-        id: mainHeader
-        title: mainStack.currentPage.title
-        leadingActionBar {
-            actions: [
-            Action {
-                iconName: "webbrowser-app-symbolic"
-                text: "ubports.com"
-                onTriggered: Qt.openUrlExternally("https://ubports.com")
-            },
-            Action {
-                iconName: "rssreader-app-symbolic"
-                text: "Blog"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appblog")
-            },
-            Action {
-                iconName: "system-users-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Support Forum")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appforums")
-            },
-            Action {
-                iconName: "torch-on"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Get involved")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appgetinvolved")
-            },
-            Action {
-                iconName: "dekko-app-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Newsletter")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appsubscribe")
-            },
-            Action {
-                iconName: "twitter-symbolic"
-                text: "Twitter"
-                onTriggered: Qt.openUrlExternally("https://twitter.com/ubports")
-            },
-            Action {
-                iconName: "contacts-app-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Meet The Team")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appteam")
-            },
-            Action {
-                iconName: "phone-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Devices")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appdev")
-            }
-
-            ]
-            numberOfSlots: 0
-        }
-        trailingActionBar {
-            actions: [
-            Action {
-                iconName: "info"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("About")
-                onTriggered: mainStack.push(Qt.resolvedUrl("About.qml"))
-            },
-            Action {
-                iconName: "home"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Home")
-                onTriggered: mainStack.push(Qt.resolvedUrl("Home.qml"))
-            }
-            ]
-            numberOfSlots: 2
-        }
-    }
-
     PageStack {
         id: mainStack
-        anchors {
-            fill: undefined // unset the default to make the other anchors work
-            left: parent.left
-            right: parent.right
-            top: mainHeader.bottom
-            bottom: parent.bottom
-        }
     }
-    Component.onCompleted: mainStack.push(Qt.resolvedUrl("Home.qml"))
+    Component.onCompleted: {
+        mainStack.clear()
+        mainStack.push(Qt.resolvedUrl("Home.qml"))
+    }
 }
