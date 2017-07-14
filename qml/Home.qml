@@ -29,7 +29,7 @@ Page {
     title: i18n.tr("Welcome to UBports!")
     header: PageHeader {
         id: mainHeader
-        title: mainStack.currentPage.title
+        title: parent.title
         flickable: flick
         trailingActionBar {
             actions: [
@@ -94,7 +94,7 @@ Page {
         id: flick
         anchors {
             fill: parent
-            margins: units.gu(3)
+            margins: mainWindow.width > units.gu(125) ? mainWindow.width / 5 : units.gu(3)
             topMargin: 0
             bottomMargin: 0
         }

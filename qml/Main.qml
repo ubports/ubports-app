@@ -25,22 +25,33 @@
 import QtQuick 2.4
 import QtQuick.Layouts 1.1
 import Ubuntu.Components 1.3
+import QtQuick.Window 2.2
 
-MainView {
-    id: root
-    objectName: 'mainView'
-    applicationName: 'com.ubuntu.ubports'
-    automaticOrientation: true
-    anchorToKeyboard: true
+Window {
+    id: mainWindow
+    title: "Welcome to UBports"
+    width: units.gu(150)
+    height: units.gu(100)
+    minimumWidth: units.gu(45)
+    minimumHeight: units.gu(45)
+    maximumWidth: Screen.width
+    maximumHeight: Screen.height
 
-    width: units.gu(45)
-    height: units.gu(75)
+    MainView {
+        id: root
+        objectName: 'mainView'
+        applicationName: 'com.ubuntu.ubports'
+        automaticOrientation: true
+        anchorToKeyboard: true
+        anchors.fill: parent
 
-    PageStack {
-        id: mainStack
-    }
-    Component.onCompleted: {
-        mainStack.clear()
-        mainStack.push(Qt.resolvedUrl("Home.qml"))
+        PageStack {
+            id: mainStack
+        }
+
+        Component.onCompleted: {
+            mainStack.clear()
+            mainStack.push(Qt.resolvedUrl("Home.qml"))
+        }
     }
 }
