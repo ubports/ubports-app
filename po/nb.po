@@ -7,27 +7,57 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-27 10:22+0000\n"
-"PO-Revision-Date: 2017-07-04 01:13+0000\n"
+"POT-Creation-Date: 2017-07-15 19:47+0200\n"
+"PO-Revision-Date: 2017-07-15 19:47+0200\n"
 "Last-Translator: Marius Gripsgård <me@mariogrip.com>\n"
-"Language-Team: Norwegian Bokmål "
-"<https://ubpweblate.tnvcomp.com/projects/ubports/ubports-app/nb/>\n"
+"Language-Team: Norwegian Bokmål <https://ubpweblate.tnvcomp.com/projects/"
+"ubports/ubports-app/nb/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.15\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
-#: ../qml/Home.qml:58
+#: ../qml/Home.qml:29 ../qml/Home.qml:121
 msgid "Welcome to UBports!"
 msgstr "Velkommen til UBports!"
 
-#: ../qml/Home.qml:67
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:39
+msgid "About"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:55 ../qml/About.qml:58
+msgid "Support Forum"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:61 ../qml/About.qml:64
+msgid "Get involved"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:67 ../qml/About.qml:70
+msgid "Newsletter"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:78 ../qml/About.qml:81
+msgid "Meet The Team"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/Home.qml:84 ../qml/About.qml:87
+msgid "Devices"
+msgstr ""
+
+#: ../qml/Home.qml:130
 msgid "We can change the future! Let's innovate and dream again."
 msgstr "Vi kan forandre fremtiden! La oss innovere og drømme igjen."
 
-#: ../qml/Home.qml:76
+#: ../qml/Home.qml:139
 msgid ""
 "UBports builds the most private and innovative experience. It is limited in "
 "potential only by what you - the community member - can dream. Regain "
@@ -38,11 +68,12 @@ msgstr ""
 "i potensial bare av det du - samfunnsmedlemmet - kan drømme. Få kontroll "
 "over enheten din og dine personlige data. Du har valg og frihet med Uports."
 
-#: ../qml/Home.qml:85
+#: ../qml/Home.qml:147
 msgid "Pay what's fair"
 msgstr ""
 
-#: ../qml/Home.qml:94
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/Home.qml:157
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -55,11 +86,12 @@ msgid ""
 "with transparency to all members of the project."
 msgstr ""
 
-#: ../qml/Home.qml:103
+#: ../qml/Home.qml:166
 msgid "Be more than a spectator - Become a game changer!"
 msgstr ""
 
-#: ../qml/Home.qml:112
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/Home.qml:176
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
 "frustrated by a feature or a limitation or a weird layout? Get it changed! "
@@ -68,11 +100,12 @@ msgid ""
 "you've ever experienced."
 msgstr ""
 
-#: ../qml/Home.qml:121
+#: ../qml/Home.qml:185
 msgid "Get looped in"
 msgstr ""
 
-#: ../qml/Home.qml:130
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/Home.qml:195
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
@@ -80,15 +113,24 @@ msgid ""
 "a> to get in the loop and stay in the loop."
 msgstr ""
 
-#: ../qml/About.qml:54
+#: ../qml/About.qml:32
+msgid "About the App"
+msgstr ""
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/About.qml:42
+msgid "Home"
+msgstr ""
+
+#: ../qml/About.qml:116
 msgid "UBports App"
 msgstr "UBports App"
 
-#: ../qml/About.qml:72
+#: ../qml/About.qml:134
 msgid "Version: "
 msgstr "Versjon: "
 
-#: ../qml/About.qml:80
+#: ../qml/About.qml:142
 msgid ""
 "UBports is an international community of developers and users who wish to "
 "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
@@ -99,7 +141,7 @@ msgid ""
 "rapidly."
 msgstr ""
 
-#: ../qml/About.qml:89
+#: ../qml/About.qml:150
 msgid ""
 "It's our goal to keep Ubuntu Touch alive on all existing devices. While "
 "keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
@@ -109,7 +151,8 @@ msgid ""
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
 
-#: ../qml/About.qml:98
+#. TRANSLATORS: Please make sure the URLs are correct
+#: ../qml/About.qml:159
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -121,18 +164,23 @@ msgid ""
 "License</a> for more details."
 msgstr ""
 
-#: ../qml/About.qml:107
-msgid ""
-"<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a "
-"href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
-"href='https://patreon.com/ubports'>DONATE</a>"
+#: ../qml/About.qml:168
+msgid "SOURCE"
 msgstr ""
 
-#: ../qml/About.qml:117
+#: ../qml/About.qml:168
+msgid "ISSUES"
+msgstr ""
+
+#: ../qml/About.qml:168
+msgid "DONATE"
+msgstr ""
+
+#: ../qml/About.qml:178
 msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
-#: ../qml/About.qml:126
+#: ../qml/About.qml:187
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
 msgstr "Vedlikeholdt av Jan Sprinz <neo@neothethird.de>"
 
