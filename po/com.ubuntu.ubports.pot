@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-14 21:58+0000\n"
+"POT-Creation-Date: 2017-07-15 15:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,15 +117,15 @@ msgstr ""
 msgid "Home"
 msgstr ""
 
-#: ../qml/About.qml:117
+#: ../qml/About.qml:116
 msgid "UBports App"
 msgstr ""
 
-#: ../qml/About.qml:135
+#: ../qml/About.qml:134
 msgid "Version: "
 msgstr ""
 
-#: ../qml/About.qml:143
+#: ../qml/About.qml:142
 msgid ""
 "UBports is an international community of developers and users who wish to "
 "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
@@ -136,7 +136,7 @@ msgid ""
 "rapidly."
 msgstr ""
 
-#: ../qml/About.qml:151
+#: ../qml/About.qml:150
 msgid ""
 "It's our goal to keep Ubuntu Touch alive on all existing devices. While "
 "keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
@@ -147,7 +147,7 @@ msgid ""
 msgstr ""
 
 #. TRANSLATORS: Please make sure the URLs are correct
-#: ../qml/About.qml:160
+#: ../qml/About.qml:159
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -159,19 +159,23 @@ msgid ""
 "License</a> for more details."
 msgstr ""
 
-#. TRANSLATORS: Please make sure the URLs are correct
-#: ../qml/About.qml:170
-msgid ""
-"<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a "
-"href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a "
-"href='https://patreon.com/ubports'>DONATE</a>"
+#: ../qml/About.qml:168
+msgid "SOURCE"
 msgstr ""
 
-#: ../qml/About.qml:180
+#: ../qml/About.qml:168
+msgid "ISSUES"
+msgstr ""
+
+#: ../qml/About.qml:168
+msgid "DONATE"
+msgstr ""
+
+#: ../qml/About.qml:178
 msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr ""
 
-#: ../qml/About.qml:189
+#: ../qml/About.qml:187
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
 msgstr ""
 

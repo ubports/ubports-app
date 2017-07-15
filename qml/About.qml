@@ -93,12 +93,11 @@ Page {
         }
     }
 
-    property string version: "1.5"
     Flickable {
         id: flick
         anchors {
             fill: parent
-            margins: mainWindow.width > units.gu(125) ? mainWindow.width / 5 : units.gu(3)
+            margins: ubports_app.width > units.gu(125) ? ubports_app.width / 5 : units.gu(3)
             topMargin: 0
             bottomMargin: 0
         }
@@ -132,7 +131,7 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("Version: ") + version
+                text: i18n.tr("Version: ") + ubports_app.version
             }
 
             Label {
@@ -166,8 +165,7 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                //TRANSLATORS: Please make sure the URLs are correct
-                text: i18n.tr("<a href='https://github.com/ubports/ubports-app'>SOURCE</a> | <a href='https://github.com/ubports/ubports-app/issues'>ISSUES</a> | <a href='https://patreon.com/ubports'>DONATE</a>")
+                text: "<a href='https://github.com/ubports/ubports-app/tree/" + ubports_app.version + "'>" + i18n.tr("SOURCE") + "</a> | <a href='https://github.com/ubports/ubports-app/issues'>" + i18n.tr("ISSUES") + "</a> | <a href='https://patreon.com/ubports'>" + i18n.tr("DONATE") + "</a>"
                 onLinkActivated: Qt.openUrlExternally(link)
             }
 

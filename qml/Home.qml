@@ -94,7 +94,7 @@ Page {
         id: flick
         anchors {
             fill: parent
-            margins: mainWindow.width > units.gu(125) ? mainWindow.width / 5 : units.gu(3)
+            margins: ubports_app.width > units.gu(125) ? ubports_app.width / 5 : units.gu(3)
             topMargin: 0
             bottomMargin: 0
         }
