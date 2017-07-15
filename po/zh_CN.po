@@ -65,6 +65,7 @@ msgid "Be more than a spectator - Become a game changer!"
 msgstr "不仅仅是一名观众，更是成为一名游戏的改变者！"
 
 #: ../qml/Home.qml:112
+#, fuzzy
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
 "frustrated by a feature or a limitation or a weird layout? Get it changed! "
@@ -81,6 +82,7 @@ msgid "Get looped in"
 msgstr "获取消息圈"
 
 #: ../qml/Home.qml:130
+#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "

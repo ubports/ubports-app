@@ -25,92 +25,33 @@
 import QtQuick 2.4
 import QtQuick.Layouts 1.1
 import Ubuntu.Components 1.3
+import QtQuick.Window 2.2
 
-MainView {
-    id: root
-    objectName: 'mainView'
-    applicationName: 'com.ubuntu.ubports'
-    automaticOrientation: true
-    anchorToKeyboard: true
+Window {
+    id: mainWindow
+    title: "Welcome to UBports"
+    width: units.gu(150)
+    height: units.gu(100)
+    minimumWidth: units.gu(45)
+    minimumHeight: units.gu(45)
+    maximumWidth: Screen.width
+    maximumHeight: Screen.height
 
-    width: units.gu(45)
-    height: units.gu(75)
+    MainView {
+        id: root
+        objectName: 'mainView'
+        applicationName: 'com.ubuntu.ubports'
+        automaticOrientation: true
+        anchorToKeyboard: true
+        anchors.fill: parent
 
-    PageHeader {
-        id: mainHeader
-        title: mainStack.currentPage.title
-        leadingActionBar {
-            actions: [
-            Action {
-                iconName: "webbrowser-app-symbolic"
-                text: "ubports.com"
-                onTriggered: Qt.openUrlExternally("https://ubports.com")
-            },
-            Action {
-                iconName: "rssreader-app-symbolic"
-                text: "Blog"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appblog")
-            },
-            Action {
-                iconName: "system-users-symbolic"
-                text: "Support Forum"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appforums")
-            },
-            Action {
-                iconName: "torch-on"
-                text: "Get involved"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appgetinvolved")
-            },
-            Action {
-                iconName: "dekko-app-symbolic"
-                text: "Newsletter"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appsubscribe")
-            },
-            Action {
-                iconName: "twitter-symbolic"
-                text: "Twitter"
-                onTriggered: Qt.openUrlExternally("https://twitter.com/ubports")
-            },
-            Action {
-                iconName: "contacts-app-symbolic"
-                text: "Meet The Team"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appteam")
-            },
-            Action {
-                iconName: "phone-symbolic"
-                text: "Devices"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appdev")
-            }
-
-            ]
-            numberOfSlots: 0
+        PageStack {
+            id: mainStack
         }
-        trailingActionBar {
-            actions: [
-            Action {
-                iconName: "info"
-                text: "About"
-                onTriggered: mainStack.push(Qt.resolvedUrl("About.qml"))
-            },
-            Action {
-                iconName: "home"
-                text: "Home"
-                onTriggered: mainStack.push(Qt.resolvedUrl("Home.qml"))
-            }
-            ]
-            numberOfSlots: 2
+
+        Component.onCompleted: {
+            mainStack.clear()
+            mainStack.push(Qt.resolvedUrl("Home.qml"))
         }
     }
-
-    PageStack {
-        id: mainStack
-        anchors {
-            fill: undefined // unset the default to make the other anchors work
-            left: parent.left
-            right: parent.right
-            top: mainHeader.bottom
-            bottom: parent.bottom
-        }
-    }
-    Component.onCompleted: mainStack.push(Qt.resolvedUrl("Home.qml"))
 }
