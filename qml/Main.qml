@@ -28,7 +28,7 @@ import Ubuntu.Components 1.3
 import QtQuick.Window 2.2
 
 Window {
-    id: mainWindow
+    id: ubports_app
     title: "Welcome to UBports"
     width: units.gu(150)
     height: units.gu(100)
@@ -36,6 +36,13 @@ Window {
     minimumHeight: units.gu(45)
     maximumWidth: Screen.width
     maximumHeight: Screen.height
+
+    property string version: "1.5"
+
+    Component.onCompleted: {
+        console.log("UBports-App started\n")
+        console.log("Version: " + version);
+    }
 
     MainView {
         id: root
