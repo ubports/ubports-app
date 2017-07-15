@@ -41,6 +41,7 @@ Window {
 
     Component.onCompleted: {
         console.log("UBports-App started\n")
+        
         console.log("Version: " + version);
     }
 
