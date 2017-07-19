@@ -15,8 +15,8 @@
 # (a tua opzione) ogni versione successiva.
 #
 # Questo programma è distribuito nella speranza sia utile,
-# ma SENZA NESSUNA GARANZIA; senza neppure la garanzia di 
-# MERCANTEGGIABILITÀ o UTILIZZO PER FINI PARTICOLARI. 
+# ma SENZA NESSUNA GARANZIA; senza neppure la garanzia di
+# MERCANTEGGIABILITÀ o UTILIZZO PER FINI PARTICOLARI.
 # Consulta la GNU General Public License per ulteriori dettagli.
 #
 # Dovresti aver ricevuto una copia della GNU General Public License
@@ -26,8 +26,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-15 15:20+0000\n"
-"PO-Revision-Date: 2017-06-29 12:25+0000\n"
+"POT-Creation-Date: 2017-07-15 19:47+0200\n"
+"PO-Revision-Date: 2017-07-15 19:47+0200\n"
 "Last-Translator: Gabriele <gabrielemartelli@tiscali.it>\n"
 "Language-Team: Italian <https://ubpweblate.tnvcomp.com/projects/ubports/"
 "ubports-app/it/>\n"
@@ -36,7 +36,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #: ../qml/Home.qml:29 ../qml/Home.qml:121
 msgid "Welcome to UBports!"
