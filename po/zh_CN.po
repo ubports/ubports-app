@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:49+0200\n"
-"PO-Revision-Date: 2017-07-19 23:03+0800\n"
-"Last-Translator: Mutse Young <yyhoo2.young@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://ubpweblate.tnvcomp.com/projects/"
-"ubports/ubports-app/zh_Hans/>\n"
+"PO-Revision-Date: 2017-07-20 13:03+0000\n"
+"Last-Translator: wangyou <1078360711@qq.com>\n"
+"Language-Team: Chinese (Simplified) "
+"<https://ubpweblate.tnvcomp.com/projects/ubports/ubports-app/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Weblate 2.15\n"
 
 #: ../qml/Home.qml:29 ../qml/Home.qml:121
 msgid "Welcome to UBports!"
@@ -47,7 +47,7 @@ msgstr "新闻通讯"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:78 ../qml/About.qml:81
 msgid "Meet The Team"
-msgstr "团队会谈"
+msgstr "认识团队"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:84 ../qml/About.qml:87
@@ -56,7 +56,7 @@ msgstr "设备"
 
 #: ../qml/Home.qml:130
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "我们能改变未来！让我们再次创新和梦想。"
+msgstr "我们能够改变未来！让我们再次创新和梦想。"
 
 #: ../qml/Home.qml:139
 msgid ""
@@ -98,7 +98,6 @@ msgstr "不仅仅是一名观众，更是成为一名游戏的改变者！"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:176
-#, fuzzy
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
 "frustrated by a feature or a limitation or a weird layout? Get it changed! "
@@ -106,9 +105,9 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
-"有了 ubports，您可以改变不喜欢的东西。是否曾因某个特性或限制或怪异的布局而感"
-"到沮丧？它改变了！通过<a href='https://github.com/ubports/ubports-touch'>发送"
-"报告bug和特性请求</a> UBports 将成为您体验过的最智能的平台。"
+"有了 ubports 你就可以改变你不喜欢的东西。是否曾经受到功能的限制或奇怪的布局而沮丧？改变它！通过<a "
+"href='https://github.com/ubports/ubports-touch'>反馈错误报告或发送新功能建议</a> "
+"UBports将会成为您经历过的最智能的平台。"
 
 #: ../qml/Home.qml:185
 msgid "Get looped in"
@@ -116,20 +115,18 @@ msgstr "获取消息圈"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:195
-#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</"
 "a> to get in the loop and stay in the loop."
 msgstr ""
-"我们在一起，作为一个起点，继续关注最新的发展，相关的新闻和一系列其它的经验提"
-"升更新。<a href= 'https://ubports.com/r/appsubscribe'>请加入我们的邮件列表</"
-"a>消息圈和留在这里。"
+"我们在一起，作为一个起点，继续关注最新的发展，相关的新闻和一系列其它的经验提升更新。<a href= "
+"'https://ubports.com/r/appsubscribe'>请加入我们的邮件列表</a>查看消息并留在消息圈。"
 
 #: ../qml/About.qml:32
 msgid "About the App"
-msgstr "关于本应用"
+msgstr "关于应用"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/About.qml:42
@@ -185,11 +182,9 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
-"本程序为自由软件：在自由软件基金会发布的 GNU 通用公共许可证的条款约束下，您可"
-"以对其进行再发布及修改。协议版本为第三版(或随您)更新的版本。我们希望发布的这"
-"款程序有用，但不保证；甚至不保证它的经济价值和适合特定用途。请查阅<a "
-"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> GNU通用公共许可证 </a>获"
-"取更多细节。"
+"本程序为自由软件：在自由软件基金会发布的 GNU 通用公共许可证的条款约束下，您可以对其进行再发布及修改。协议版本为第三版(或随您)更新的版本。我们希望发"
+"布的这款程序有用，但没有保证；甚至无法保证它的经济价值和合适的用途。请查阅<a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> GNU通用公共许可证 </a>获取更多细节。"
 
 #: ../qml/About.qml:168
 msgid "SOURCE"
@@ -205,11 +200,11 @@ msgstr "捐赠"
 
 #: ../qml/About.qml:178
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr "(C) 2017 UBports <ubports.com> 版权所有"
+msgstr "版权所有 (C) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:187
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr "Jan Sprinz <neo@neothethird.de> 维护"
+msgstr "维护者 Jan Sprinz <neo@neothethird.de>"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
