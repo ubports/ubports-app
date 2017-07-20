@@ -27,7 +27,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:45+0200\n"
-"PO-Revision-Date: 2017-07-19 19:55+0000\n"
+"PO-Revision-Date: 2017-07-20 06:08+0000\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: Spanish <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/es/>\n"
@@ -162,7 +162,7 @@ msgstr "Inicio"
 
 #: ../qml/About.qml:116
 msgid "UBports App"
-msgstr "UBports App"
+msgstr "UBports app"
 
 #: ../qml/About.qml:134
 msgid "Version: "
