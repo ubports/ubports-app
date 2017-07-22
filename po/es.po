@@ -27,7 +27,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:45+0200\n"
-"PO-Revision-Date: 2017-07-20 06:08+0000\n"
+"PO-Revision-Date: 2017-07-22 07:39+0000\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: Spanish <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/es/>\n"
@@ -74,7 +74,7 @@ msgstr "Dispositivos"
 
 #: ../qml/Home.qml:130
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "Podemos cambiar el futuro. Volvamos a soñar e innovar."
+msgstr "¡Podemos cambiar el futuro! Vamos a innovar y soñar de nuevo."
 
 #: ../qml/Home.qml:139
 msgid ""
@@ -136,7 +136,7 @@ msgstr ""
 
 #: ../qml/Home.qml:185
 msgid "Get looped in"
-msgstr "Sé parte de la cadena"
+msgstr "Manténgase al tanto"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:195
