@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:47+0200\n"
-"PO-Revision-Date: 2017-07-15 19:47+0200\n"
-"Last-Translator: Sander <sander.k1007@kpnmail.nl>\n"
-"Language-Team: Dutch <https://ubpweblate.tnvcomp.com/projects/ubports/"
-"ubports-app/nl/>\n"
+"PO-Revision-Date: 2017-07-24 15:06+0000\n"
+"Last-Translator: Arjan Vlek <arjan1995@gmail.com>\n"
+"Language-Team: Dutch <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Weblate 2.15\n"
 
 #: ../qml/Home.qml:29 ../qml/Home.qml:121
 msgid "Welcome to UBports!"
@@ -26,12 +26,12 @@ msgstr "Welkom bij UBports!"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:39
 msgid "About"
-msgstr ""
+msgstr "Over"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:55 ../qml/About.qml:58
 msgid "Support Forum"
-msgstr ""
+msgstr "Support-forum"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:61 ../qml/About.qml:64
@@ -41,17 +41,18 @@ msgstr ""
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:67 ../qml/About.qml:70
 msgid "Newsletter"
-msgstr ""
+msgstr "Nieuwsbrief"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:78 ../qml/About.qml:81
+#, fuzzy
 msgid "Meet The Team"
-msgstr ""
+msgstr "Ontmoet het team"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:84 ../qml/About.qml:87
 msgid "Devices"
-msgstr ""
+msgstr "Apparaten"
 
 #: ../qml/Home.qml:130
 msgid "We can change the future! Let's innovate and dream again."
@@ -98,6 +99,7 @@ msgstr "Wees meer dan een toeschouwer - Word een vernieuwer!"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:176
+#, fuzzy
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
 "frustrated by a feature or a limitation or a weird layout? Get it changed! "
@@ -105,6 +107,12 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
+"Met UBports kun je elk ding wat je niet aanstaat, aanpassen. Herken je dat "
+"gevoel, dat iets te beperkt is of er niet uit ziet? Geen probleem. Pas het "
+"gewoon aan!\n"
+"Door <a href='https://github.com/ubports/ubports-touch'>bugs te melden en "
+"feature-requests te maken </a> wordt UBports het meest innovatieve platform "
+"dat je ooit hebt meegemaakt."
 
 #: ../qml/Home.qml:185
 msgid "Get looped in"
@@ -121,7 +129,7 @@ msgstr ""
 
 #: ../qml/About.qml:32
 msgid "About the App"
-msgstr ""
+msgstr "Over de App"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/About.qml:42
@@ -129,14 +137,16 @@ msgid "Home"
 msgstr ""
 
 #: ../qml/About.qml:116
+#, fuzzy
 msgid "UBports App"
-msgstr ""
+msgstr "UBports App"
 
 #: ../qml/About.qml:134
 msgid "Version: "
-msgstr ""
+msgstr "Versie: "
 
 #: ../qml/About.qml:142
+#, fuzzy
 msgid ""
 "UBports is an international community of developers and users who wish to "
 "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
@@ -146,6 +156,15 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
+"UBports is een internationale gemeenschap van ontwikkelaars en gebruikers "
+"die ernaar streven om Ubuntu Touch levend te houden. Het project is "
+"opgericht door Marius Gripsgard in 2015. Het project is opgericht met het "
+"doel een plaats voor ontwikkelaars te creëren, waar zij elkaar kunnen helpen "
+"en van elkaar kunnen leren om samen Ubuntu op meer apparaten te brengen. "
+"Nadat Canoncial heeft aangegeven te stoppen met de ondersteuning voor Ubuntu "
+"Touch, is het besturingssysteem overgenomen door onze gemeenschap. De "
+"UBports-gemeenschap groeit nu snel en werkt met veel plezier aan het "
+"uitbrengen van nieuwe versies van Ubuntu Touch."
 
 #: ../qml/About.qml:150
 msgid ""
@@ -156,6 +175,13 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"Ons doel is om Ubuntu Touch te blijven ondersteunen op alle bestaande "
+"apparaten. Terwijl wij alle goede onderdelen uit Ubuntu Touch bewaren, "
+"willen wij het verbeteren om het geschikt te maken voor dagelijks gebruik. "
+"Ubuntu is \"Linux voor gewone mensen\", en Ubuntu Touch brengt deze gedachte "
+"over naar mobiele apparaten. Wij willen Ubuntu Touch tot een volwaardige "
+"Linux-distributie voor mobiele apparaten omtoveren, waarbij het simpele en "
+"elegante design behouden blijft."
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/About.qml:159
@@ -172,24 +198,24 @@ msgstr ""
 
 #: ../qml/About.qml:168
 msgid "SOURCE"
-msgstr ""
+msgstr "BRON"
 
 #: ../qml/About.qml:168
 msgid "ISSUES"
-msgstr ""
+msgstr "PROBLEMEN"
 
 #: ../qml/About.qml:168
 msgid "DONATE"
-msgstr ""
+msgstr "DONEREN"
 
 #: ../qml/About.qml:178
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:187
 msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr ""
+msgstr "Onderhouden door Jan Sprinz <neo@neothethird.de>"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr ""
+msgstr "UBports"
