@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:45+0200\n"
-"PO-Revision-Date: 2017-07-30 07:01+0000\n"
+"PO-Revision-Date: 2017-08-04 09:53+0000\n"
 "Last-Translator: Milan Korecký <milan.korecky@gmail.com>\n"
 "Language-Team: Czech <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/cs/>\n"
@@ -137,9 +137,8 @@ msgstr "O aplikaci"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/About.qml:42
-#, fuzzy
 msgid "Home"
-msgstr "Začátek"
+msgstr "Domů"
 
 #: ../qml/About.qml:116
 msgid "UBports App"
@@ -210,9 +209,8 @@ msgid "SOURCE"
 msgstr "ZDROJ"
 
 #: ../qml/About.qml:168
-#, fuzzy
 msgid "ISSUES"
-msgstr "OTÁZKY"
+msgstr "PROBLÉMY"
 
 #: ../qml/About.qml:168
 msgid "DONATE"
