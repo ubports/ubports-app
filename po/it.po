@@ -27,8 +27,8 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:47+0200\n"
-"PO-Revision-Date: 2017-07-25 11:23+0000\n"
-"Last-Translator: Emanuele Sorce <emanuele.sorce@hotmail.com>\n"
+"PO-Revision-Date: 2017-08-07 00:18+0000\n"
+"Last-Translator: alexisme <alexanderc.spa@openmailbox.org>\n"
 "Language-Team: Italian <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/it/>\n"
 "Language: it\n"
@@ -44,13 +44,15 @@ msgstr "Benvenuto su UBports!"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:39
+#, fuzzy
 msgid "About"
-msgstr ""
+msgstr "A proposito"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:55 ../qml/About.qml:58
+#, fuzzy
 msgid "Support Forum"
-msgstr ""
+msgstr "Forum di support"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:61 ../qml/About.qml:64
@@ -60,7 +62,7 @@ msgstr "Partecipa"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:67 ../qml/About.qml:70
 msgid "Newsletter"
-msgstr ""
+msgstr "Newsletter"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:78 ../qml/About.qml:81
@@ -153,12 +155,12 @@ msgstr ""
 
 #: ../qml/About.qml:32
 msgid "About the App"
-msgstr ""
+msgstr "A proposito dell'applicazione"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/About.qml:42
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: ../qml/About.qml:116
 msgid "UBports App"
@@ -227,15 +229,15 @@ msgstr ""
 
 #: ../qml/About.qml:168
 msgid "SOURCE"
-msgstr ""
+msgstr "FONTE"
 
 #: ../qml/About.qml:168
 msgid "ISSUES"
-msgstr ""
+msgstr "PROBLEMI"
 
 #: ../qml/About.qml:168
 msgid "DONATE"
-msgstr ""
+msgstr "DONARE"
 
 #: ../qml/About.qml:178
 msgid "Copyright (c) 2017 UBports <ubports.com>"
