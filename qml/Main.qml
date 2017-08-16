@@ -37,7 +37,7 @@ Window {
     maximumWidth: Screen.width
     maximumHeight: Screen.height
 
-    property string version: "1.5"
+    property string version: "1.6"
 
     Component.onCompleted: {
         console.log("UBports-App started\n")
