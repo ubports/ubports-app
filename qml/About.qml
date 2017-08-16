@@ -124,7 +124,7 @@ Page {
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 style: Font.Bold
-                text: i18n.tr("Maintained by Jan Sprinz <jan@ubports.com>")
+                text: i18n.tr("Maintained by") + " Jan Sprinz <jan@ubports.com>"
             }
         }
     }
