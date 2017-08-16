@@ -135,6 +135,16 @@ Page {
                 text: i18n.tr("We are in this together. As a starting point, stay on top of the latest developments, related news and a whole bunch of other experience-enhancing updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</a> to get in the loop and stay in the loop.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
+
+            Label {
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                //TRANSLATORS: Please make sure the URLs are correct
+                text: i18n.tr("UBports is made possible by our <a href='https://ubports.com/sponsors'>our awesome sponsors, donors and patrons</a>!")
+                onLinkActivated: Qt.openUrlExternally(link)
+            }
         }
     }
 }
