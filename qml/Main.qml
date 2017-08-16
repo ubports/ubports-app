@@ -4,7 +4,7 @@
 //
 // Copyright (c) 2017 UBports https://ubports.com
 //
-// Maintained by Jan Jakob Sprinz (@NeoTheThird) <neo@neothethird.de>
+// Maintained by Jan Jakob Sprinz (@NeoTheThird) <jan@ubports.com>
 //
 // GNU GENERAL PUBLIC LICENSE
 //    Version 3, 29 June 2007

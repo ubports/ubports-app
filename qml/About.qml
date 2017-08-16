@@ -4,7 +4,7 @@
 //
 // Copyright (c) 2017 UBports https://ubports.com
 //
-// Maintained by Jan Jakob Sprinz (@NeoTheThird) <neo@neothethird.de>
+// Maintained by Jan Jakob Sprinz (@NeoTheThird) <jan@ubports.com>
 //
 // This file was originates from 8192 (c) 2017 Jan Sprinz:
 // https://github.com/NeoTheThird/8192
@@ -124,7 +124,7 @@ Page {
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 style: Font.Bold
-                text: i18n.tr("Maintained by Jan Sprinz <neo@neothethird.de>")
+                text: i18n.tr("Maintained by Jan Sprinz <jan@ubports.com>")
             }
         }
     }

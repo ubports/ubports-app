@@ -208,8 +208,8 @@ msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr "(C) 2017 UBports <ubports.com> 版权所有"
 
 #: ../qml/About.qml:187
-msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr "Jan Sprinz <neo@neothethird.de> 维护"
+msgid "Maintained by Jan Sprinz <jan@ubports.com>"
+msgstr "Jan Sprinz <jan@ubports.com> 维护"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"

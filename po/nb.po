@@ -181,8 +181,8 @@ msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:187
-msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr "Vedlikeholdt av Jan Sprinz <neo@neothethird.de>"
+msgid "Maintained by Jan Sprinz <jan@ubports.com>"
+msgstr "Vedlikeholdt av Jan Sprinz <jan@ubports.com>"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"

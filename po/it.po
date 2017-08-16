@@ -4,7 +4,7 @@
 #
 # Copyright (c) 2017 UBports https://ubports.com
 #
-# Mantenuto da Jan Jakob Sprinz (@NeoTheThird) <neo@neothethird.de>
+# Mantenuto da Jan Jakob Sprinz (@NeoTheThird) <jan@ubports.com>
 #
 # GNU GENERAL PUBLIC LICENSE
 #    Version 3, 29 June 2007
@@ -243,8 +243,8 @@ msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:187
-msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr "Mantenuto da Jan Sprinz <neo@neothethird.de>"
+msgid "Maintained by Jan Sprinz <jan@ubports.com>"
+msgstr "Mantenuto da Jan Sprinz <jan@ubports.com>"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
