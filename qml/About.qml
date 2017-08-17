@@ -4,7 +4,7 @@
 //
 // Copyright (c) 2017 UBports https://ubports.com
 //
-// Maintained by Jan Jakob Sprinz (@NeoTheThird) <neo@neothethird.de>
+// Maintained by Jan Jakob Sprinz (@NeoTheThird) <jan@ubports.com>
 //
 // This file was originates from 8192 (c) 2017 Jan Sprinz:
 // https://github.com/NeoTheThird/8192
@@ -27,87 +27,30 @@
 
 import QtQuick 2.4
 import Ubuntu.Components 1.3
+import "modules"
 
 Page {
     title: i18n.tr("About the App")
-    header: PageHeader {
-        id: mainHeader
-        title: parent.title
-        flickable: flick
-        trailingActionBar {
-            actions: [
-            Action {
-                iconName: "home"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Home")
-                onTriggered: mainStack.pop()
-            },
-            Action {
-                iconName: "webbrowser-app-symbolic"
-                text: "ubports.com"
-                onTriggered: Qt.openUrlExternally("https://ubports.com")
-            },
-            Action {
-                iconName: "rssreader-app-symbolic"
-                text: "Blog"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appblog")
-            },
-            Action {
-                iconName: "system-users-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Support Forum")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appforums")
-            },
-            Action {
-                iconName: "torch-on"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Get involved")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appgetinvolved")
-            },
-            Action {
-                iconName: "dekko-app-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Newsletter")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appsubscribe")
-            },
-            Action {
-                iconName: "twitter-symbolic"
-                text: "Twitter"
-                onTriggered: Qt.openUrlExternally("https://twitter.com/ubports")
-            },
-            Action {
-                iconName: "contacts-app-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Meet The Team")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appteam")
-            },
-            Action {
-                iconName: "phone-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Devices")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appdev")
-            }
-
-            ]
-            numberOfSlots: 2
-        }
-    }
+    header: DefaultHeader {}
 
     Flickable {
         id: flick
         anchors {
             fill: parent
-            margins: ubports_app.width > units.gu(125) ? ubports_app.width / 5 : units.gu(3)
+            margins: ubports_app.width > units.gu(125) ?
+                ubports_app.width / 5 :
+                units.gu(3)
             topMargin: 0
             bottomMargin: 0
         }
         clip: true
         contentWidth: aboutColumn.width
-        contentHeight: aboutColumn.height
+        contentHeight: aboutColumn.height + units.gu(3)
 
         Column {
             id: aboutColumn
             width: parent.parent.width
+            anchors.horizontalCenter: parent.horizontalCenter
             spacing: units.gu(3)
 
             Label {
@@ -155,8 +98,8 @@ Page {
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                //TRANSLATORS: Please make sure the URLs are correct
-                text: i18n.tr("This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the <a href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public License</a> for more details.")
+                //TRANSLATORS: A localized URL can be used for the license
+                text: i18n.tr("This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the <a href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public License</a> for more details.")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
 
@@ -184,7 +127,7 @@ Page {
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 style: Font.Bold
-                text: i18n.tr("Maintained by Jan Sprinz <neo@neothethird.de>")
+                text: i18n.tr("Maintained by") + " Jan Sprinz <jan@ubports.com>"
             }
         }
     }

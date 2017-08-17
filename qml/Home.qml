@@ -4,7 +4,7 @@
 //
 // Copyright (c) 2017 UBports https://ubports.com
 //
-// Maintained by Jan Jakob Sprinz (@NeoTheThird) <neo@neothethird.de>
+// Maintained by Jan Jakob Sprinz (@NeoTheThird) <jan@ubports.com>
 //
 // GNU GENERAL PUBLIC LICENSE
 //    Version 3, 29 June 2007
@@ -24,71 +24,11 @@
 
 import QtQuick 2.4
 import Ubuntu.Components 1.3
+import "modules"
 
 Page {
-    title: i18n.tr("Welcome to UBports!")
-    header: PageHeader {
-        id: mainHeader
-        title: parent.title
-        flickable: flick
-        trailingActionBar {
-            actions: [
-            Action {
-                iconName: "info"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("About")
-                onTriggered: mainStack.push(Qt.resolvedUrl("About.qml"))
-            },
-            Action {
-                iconName: "webbrowser-app-symbolic"
-                text: "ubports.com"
-                onTriggered: Qt.openUrlExternally("https://ubports.com")
-            },
-            Action {
-                iconName: "rssreader-app-symbolic"
-                text: "Blog"
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appblog")
-            },
-            Action {
-                iconName: "system-users-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Support Forum")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appforums")
-            },
-            Action {
-                iconName: "torch-on"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Get involved")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appgetinvolved")
-            },
-            Action {
-                iconName: "dekko-app-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Newsletter")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appsubscribe")
-            },
-            Action {
-                iconName: "twitter-symbolic"
-                text: "Twitter"
-                onTriggered: Qt.openUrlExternally("https://twitter.com/ubports")
-            },
-            Action {
-                iconName: "contacts-app-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Meet The Team")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appteam")
-            },
-            Action {
-                iconName: "phone-symbolic"
-                //TRANSLATORS: Description of the menu item
-                text: i18n.tr("Devices")
-                onTriggered: Qt.openUrlExternally("https://ubports.com/r/appdev")
-            }
-
-            ]
-            numberOfSlots: 2
-        }
-    }
+    title: i18n.tr("Welcome to") + " UBports!"
+    header: DefaultHeader {}
 
     Flickable {
         id: flick
@@ -100,7 +40,7 @@ Page {
         }
         clip: true
         contentWidth: aboutColumn.width
-        contentHeight: aboutColumn.height
+        contentHeight: aboutColumn.height + units.gu(3)
 
         Column {
             id: aboutColumn
@@ -193,6 +133,16 @@ Page {
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 //TRANSLATORS: Please make sure the URLs are correct
                 text: i18n.tr("We are in this together. As a starting point, stay on top of the latest developments, related news and a whole bunch of other experience-enhancing updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</a> to get in the loop and stay in the loop.")
+                onLinkActivated: Qt.openUrlExternally(link)
+            }
+
+            Label {
+                width: parent.width
+                linkColor: UbuntuColors.orange
+                horizontalAlignment: Text.AlignHCenter
+                wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+                //TRANSLATORS: Please make sure the URLs are correct
+                text: i18n.tr("UBports is made possible by our <a href='https://ubports.com/sponsors'>our awesome sponsors, donors and patrons</a>!")
                 onLinkActivated: Qt.openUrlExternally(link)
             }
         }

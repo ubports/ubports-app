@@ -202,7 +202,7 @@ msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr ""
 
 #: ../qml/About.qml:187
-msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
+msgid "Maintained by Jan Sprinz <jan@ubports.com>"
 msgstr ""
 
 #: com.ubuntu.ubports.desktop.in.h:1

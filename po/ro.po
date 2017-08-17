@@ -225,8 +225,8 @@ msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:187
-msgid "Maintained by Jan Sprinz <neo@neothethird.de>"
-msgstr "Întreţinută de Jan Spriny <neo@neothethird.de>"
+msgid "Maintained by Jan Sprinz <jan@ubports.com>"
+msgstr "Întreţinută de Jan Spriny <jan@ubports.com>"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
