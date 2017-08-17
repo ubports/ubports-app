@@ -27,16 +27,16 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:45+0200\n"
-"PO-Revision-Date: 2017-07-15 19:45+0200\n"
-"Last-Translator: Paco Mulas <fmulcar@hotmail.es>\n"
-"Language-Team: Spanish <https://ubpweblate.tnvcomp.com/projects/ubports/"
-"ubports-app/es/>\n"
+"PO-Revision-Date: 2017-07-22 07:39+0000\n"
+"Last-Translator: advocatux <advocatux@airpost.net>\n"
+"Language-Team: Spanish <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Weblate 2.15\n"
 
 #: ../qml/Home.qml:29 ../qml/Home.qml:121
 msgid "Welcome to UBports!"
@@ -45,36 +45,36 @@ msgstr "¡Bienvenido/a a UBports!"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:39
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:55 ../qml/About.qml:58
 msgid "Support Forum"
-msgstr ""
+msgstr "Foro de soporte"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:61 ../qml/About.qml:64
 msgid "Get involved"
-msgstr ""
+msgstr "Involúcrese"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:67 ../qml/About.qml:70
 msgid "Newsletter"
-msgstr ""
+msgstr "Boletín"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:78 ../qml/About.qml:81
 msgid "Meet The Team"
-msgstr ""
+msgstr "Conozca al equipo"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:84 ../qml/About.qml:87
 msgid "Devices"
-msgstr ""
+msgstr "Dispositivos"
 
 #: ../qml/Home.qml:130
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "Podemos cambiar el futuro. Volvamos a soñar e innovar."
+msgstr "¡Podemos cambiar el futuro! Vamos a innovar y soñar de nuevo."
 
 #: ../qml/Home.qml:139
 msgid ""
@@ -84,12 +84,13 @@ msgid ""
 "UBports."
 msgstr ""
 "UBports construye la experiencia más privada e innovadora. Su potencial "
-"queda limitado a lo que pueda soñar. Recupere el control de su dispositivo y "
-"sus datos personales. Usted tiene la opción y la libertad con UBports."
+"queda solo limitado por lo que usted - miembro de la comunidad - pueda "
+"soñar. Recupere el control de su dispositivo y sus datos personales. Usted "
+"tiene la opción y la libertad con UBports."
 
 #: ../qml/Home.qml:147
 msgid "Pay what's fair"
-msgstr "Pague lo justo"
+msgstr "Pague lo que es justo"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:157
@@ -105,11 +106,11 @@ msgid ""
 "with transparency to all members of the project."
 msgstr ""
 "UBports fue creado y existe debido a muchos voluntarios en la comunidad "
-"cerca de usted y en todo el mundo. Aunque no pedimos una tarifa fija, "
+"cerca de usted y en todo el mundo. Aunque no pedimos una cuota fija, "
 "dependemos del apoyo financiero de la comunidad. Así que si le gusta lo que "
 "ve y quiere que el proyecto tenga éxito, considere hacer una <a "
-"href='https://paypal.me/ubports'> donación individual </a> o <a href = "
-"'https: / /patreon.com/ubports'> mensual  </a>. Lo apreciamos sinceramente y "
+"href='https://paypal.me/ubports'>donación individual</a> o <a "
+"href='https://patreon.com/ubports'>mensual</a>. Lo apreciamos sinceramente y "
 "sabemos que se sentirá muy bien con su contribución y se entusiasmará al "
 "participar. A cambio, proporcionaremos un buen servicio y una oportunidad "
 "con transparencia a todos los miembros del proyecto."
@@ -128,14 +129,14 @@ msgid ""
 "you've ever experienced."
 msgstr ""
 "Con ubports puede cambiar las cosas que no le gustan. ¿Alguna vez se sintió "
-"frustrado por una característica, una limitación o un diseño extraño? "
-"¡Cámbielo!  informe de errores <a href='https://github.com/ubports/ubports-"
-"touch'>y envíe  peticiones de nuevas características </a> UBports se "
+"frustrado por una característica, una limitación o un diseño extraño? ¡"
+"Cámbielo! Informe de errores <a href='https://github.com/ubports/ubports-"
+"touch'>y envíe peticiones de nuevas características</a> UBports se "
 "convertirá en la plataforma más inteligente que haya experimentado."
 
 #: ../qml/Home.qml:185
 msgid "Get looped in"
-msgstr "Sé parte de la cadena"
+msgstr "Manténgase al tanto"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:195
@@ -152,16 +153,16 @@ msgstr ""
 
 #: ../qml/About.qml:32
 msgid "About the App"
-msgstr ""
+msgstr "Acerca de la app"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/About.qml:42
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #: ../qml/About.qml:116
 msgid "UBports App"
-msgstr "UBports App"
+msgstr "UBports app"
 
 #: ../qml/About.qml:134
 msgid "Version: "
@@ -182,7 +183,7 @@ msgstr ""
 "Gripsgard en 2015 como un lugar donde los desarrolladores pueden hablar y "
 "aprender unos de otros y ayudar a llevar a Ubuntu a más dispositivos como un "
 "equipo. Después de que Canonical anunció el final de su apoyo a Ubuntu "
-"Touch, el sistema operativo fue recogido por la comunidad. La resonancia ha "
+"Touch, el sistema operativo fue recogido por la comunidad. La repercusión ha "
 "sido fantástica y nuestra comunidad está creciendo rápidamente."
 
 #: ../qml/About.qml:150
@@ -195,9 +196,9 @@ msgid ""
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
 "Nuestro objetivo es mantener Ubuntu Touch vivo en todos los dispositivos "
-"existentes. Manteniendo toda lo que es bueno y hermoso, queremos darle una "
-"nueva forma a Ubuntu Touch para convertirlo en el sistema operativo que "
-"queremos usar diariamente. Ubuntu es Linux para los seres humanos, y Ubuntu "
+"existentes. Manteniendo todas las partes buenas y hermosas, queremos darle "
+"una nueva forma a Ubuntu Touch para convertirlo en el sistema operativo que "
+"queremos usar diariamente. Ubuntu es Linux para los seres humanos y Ubuntu "
 "Touch trae este espíritu a los dispositivos móviles. Queremos convertir "
 "Ubuntu Touch en una verdadera distribución Linux para dispositivos móviles, "
 "manteniendo su diseño simple y elegante."
@@ -225,15 +226,15 @@ msgstr ""
 
 #: ../qml/About.qml:168
 msgid "SOURCE"
-msgstr ""
+msgstr "FUENTE"
 
 #: ../qml/About.qml:168
 msgid "ISSUES"
-msgstr ""
+msgstr "CUESTIONES"
 
 #: ../qml/About.qml:168
 msgid "DONATE"
-msgstr ""
+msgstr "DONAR"
 
 #: ../qml/About.qml:178
 msgid "Copyright (c) 2017 UBports <ubports.com>"

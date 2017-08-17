@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-15 19:47+0200\n"
-"PO-Revision-Date: 2017-07-15 19:47+0200\n"
-"Last-Translator: Eran <etherpulse@gmail.com>\n"
-"Language-Team: Hebrew <https://ubpweblate.tnvcomp.com/projects/ubports/"
-"ubports-app/he/>\n"
+"PO-Revision-Date: 2017-07-28 18:02+0000\n"
+"Last-Translator: ido roi engel <idoroiengel@hotmail.com>\n"
+"Language-Team: Hebrew <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Weblate 2.15\n"
 
 #: ../qml/Home.qml:29 ../qml/Home.qml:121
 msgid "Welcome to UBports!"
@@ -26,12 +26,12 @@ msgstr "ברוכים הבאים ל UBports!"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:39
 msgid "About"
-msgstr ""
+msgstr "אודות"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:55 ../qml/About.qml:58
 msgid "Support Forum"
-msgstr ""
+msgstr "פורום תמיכה"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:61 ../qml/About.qml:64
@@ -46,12 +46,12 @@ msgstr ""
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:78 ../qml/About.qml:81
 msgid "Meet The Team"
-msgstr ""
+msgstr "פגשו את הצוות"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/Home.qml:84 ../qml/About.qml:87
 msgid "Devices"
-msgstr ""
+msgstr "מכשירים"
 
 #: ../qml/Home.qml:130
 msgid "We can change the future! Let's innovate and dream again."
@@ -88,13 +88,13 @@ msgid ""
 "with transparency to all members of the project."
 msgstr ""
 "UBports נוצר וקיים עקב פעולתם של מתנדבים רבים מהקהילה  הקרובה לכם ומכל "
-"העולם. אף על פי שאין אנו מבקשים מחיר כלשהו אנו  עדיין  תלויים  בתרומות "
+"העולם. אף על פי שאין אנו מבקשים מחיר כלשהו, אנו  עדיין  תלויים  בתרומות "
 "האדיבות של חברי הקהילה.\n"
-"כך שאם בא לכם  לתמוך בפרוייקט ולתרום  להצלחתו, אנו שקלו תרומה <a "
-"href='https://paypal.me/ubports'>חד פעמית</a> או <a href='https://patreon."
-"com/ubports'>חודשית</a>. \n"
-"אנו באמת מערכים זאת ובטוחים שתרגישו נפלא על תרומתכם ועל השתתפותכם. אנו בחזרה "
-"מאמינים בשירות הוגן ושקוף לכל משתתפי הפרויקט."
+"אם ברצונכם  לתמוך בפרויקט, ולתרום  להצלחתו, אנא שקלו תרומה <a "
+"href='https://paypal.me/ubports'>חד פעמית</a> או <a "
+"href='https://patreon.com/ubports'>חודשית</a>. \n"
+"אנו מעריכים זאת מאוד, ובטוחים שתרגישו נפלא על תרומתכם והשתתפותכם. אנו "
+"מאמינים במתן שירות הוגן והקפדה על שקיפות לכלל חברי הפרויקט."
 
 #: ../qml/Home.qml:166
 msgid "Be more than a spectator - Become a game changer!"
@@ -102,7 +102,6 @@ msgstr "היה יותר מצופה - עזור לשנות את המשחק!"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:176
-#, fuzzy
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
 "frustrated by a feature or a limitation or a weird layout? Get it changed! "
@@ -110,10 +109,10 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
-"עם UBports ניתן באמת לשנות את מה שאנו לא אוהבים. האם אי פעם הרגשתם מתוסכלים "
-"בגלל הגבלות או עיצובים מסוימים? שנו את זה! על ידי <a href='https://github."
-"com/ubports/ubports-touch'>דיווח הבאג או שליחת בקשה לשינוי</a> UBports  "
-"יהפוך לפלטפורמה החכמה ביותר שאי פעם חוויתם."
+"עם UBports ניתן באמת לשנות את מה שאינכם אוהבים. האם אי פעם הרגשתם מתוסכלים "
+"בגלל הגבלות או עיצובים מסוימים? שנו את זה! על ידי <a "
+"href='https://github.com/ubports/ubports-touch'>דיווח הבאג או שליחת בקשה "
+"לשינוי</a> UBports  יהפוך לפלטפורמה החכמה ביותר שאי פעם חוויתם."
 
 #: ../qml/Home.qml:185
 msgid "Get looped in"
