@@ -40,7 +40,7 @@ Page {
         }
         clip: true
         contentWidth: aboutColumn.width
-        contentHeight: aboutColumn.height
+        contentHeight: aboutColumn.height + units.gu(3)
 
         Column {
             id: aboutColumn

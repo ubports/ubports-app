@@ -37,17 +37,20 @@ Page {
         id: flick
         anchors {
             fill: parent
-            margins: ubports_app.width > units.gu(125) ? ubports_app.width / 5 : units.gu(3)
+            margins: ubports_app.width > units.gu(125) ?
+                ubports_app.width / 5 :
+                units.gu(3)
             topMargin: 0
             bottomMargin: 0
         }
         clip: true
         contentWidth: aboutColumn.width
-        contentHeight: aboutColumn.height
+        contentHeight: aboutColumn.height + units.gu(3)
 
         Column {
             id: aboutColumn
             width: parent.parent.width
+            anchors.horizontalCenter: parent.horizontalCenter
             spacing: units.gu(3)
 
             Label {
