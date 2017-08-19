@@ -1,4 +1,4 @@
-project(indicator-weather C CXX)
+project(ubports-welcome C CXX)
 cmake_minimum_required(VERSION 3.0.0)
 
 set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
@@ -59,3 +59,38 @@ add_custom_target(${DESKTOP_FILE_NAME} ALL
 install(FILES ${CMAKE_CURRENT_BINARY_DIR}/${DESKTOP_FILE_NAME} DESTINATION ${DATA_DIR})
 
 add_subdirectory(po)
+
+
+###########################################
+#    Make things useful in QtCreator.     #
+#                                         #
+# !!! No need to change anything here !!! #
+###########################################
+
+
+# List of assets you want visible
+set(CLICK_AND_OTHER_SHMUCK_MANIFESTS
+    ${CMAKE_CURRENT_SOURCE_DIR}/clickable.json
+    ${CMAKE_CURRENT_SOURCE_DIR}/com.ubuntu.ubports.apparmor
+    ${CMAKE_CURRENT_SOURCE_DIR}/com.ubuntu.ubports.desktop.in
+    ${CMAKE_CURRENT_SOURCE_DIR}/manifest.json.in
+    ${CMAKE_CURRENT_SOURCE_DIR}/README.md
+    ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE
+)
+
+# glob fetch all qml js files in source dir
+file(GLOB_RECURSE UBPORTS_QML_FILES
+    ${CMAKE_CURRENT_SOURCE_DIR}/*.qml
+    ${CMAKE_CURRENT_SOURCE_DIR}/*.js
+)
+
+# make all the files visible in qtcreator
+add_custom_target(
+    ubports_Files
+    ALL SOURCES
+    ${CLICK_AND_OTHER_SHMUCK_MANIFESTS}
+    ${UBPORTS_QML_FILES}
+)
+
+# Run on desktop. i.e `make run`
+add_custom_target("run" /usr/bin/qmlscene ${CMAKE_CURRENT_SOURCE_DIR}/qml/Main.qml)
