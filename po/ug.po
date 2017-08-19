@@ -8,41 +8,44 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 22:10+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-08-19 08:51+0000\n"
+"Last-Translator: qutghan <qutghan@outlook.com>\n"
+"Language-Team: Uighur <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/ug/>\n"
 "Language: ug\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.15\n"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:38
 msgid "About"
-msgstr ""
+msgstr "ھەققىدە"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:51
 msgid "Support Forum"
-msgstr ""
+msgstr "قوللاش مۇنبىرى"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:56
 msgid "Get involved"
-msgstr ""
+msgstr "قاتنىشىش"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:61
 msgid "Newsletter"
-msgstr ""
+msgstr "ئاخباراتچىلىق خەۋىرى"
 
 #: ../qml/Home.qml:30
 msgid "Welcome to"
-msgstr ""
+msgstr "خۇش كەپسىز"
 
 #: ../qml/Home.qml:61
 msgid "Welcome to UBports!"
-msgstr ""
+msgstr "خۇش كەپسىز  UBports！"
 
 #: ../qml/Home.qml:70
 msgid "We can change the future! Let's innovate and dream again."
@@ -55,10 +58,14 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
+"UBportsبولسا شەخسىي سىرنى ئەڭ ياخشى قوغداش ئۈستىگە قۇرۇلغان .ئۇ ئۈزىڭزنىڭ "
+"ئارزۇيى بۇيچە ئۈسكىنىڭزنى قوغداشنى ئەمەلگە ئاشۇرغان.شۇنداقلا يەنە شەخسى "
+"ماتىرىياللىرنىڭزنى ئۈزىڭزنىڭ كونتىرول قىلىشنى ئەمەلگە ئاشۇرشۇرغان.سىزنىڭ "
+"ئەركىن تالىشىڭز UBports."
 
 #: ../qml/Home.qml:87
 msgid "Pay what's fair"
-msgstr ""
+msgstr "ئادىللىق ئاسساسىدىكى بەدەل"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:97
@@ -76,7 +83,7 @@ msgstr ""
 
 #: ../qml/Home.qml:106
 msgid "Be more than a spectator - Become a game changer!"
-msgstr ""
+msgstr "بىر قىزىققۇچى بۇلۇپلا قالماي يەنە بىر ئۇيۇن ئاچقىۇچى!"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:116
@@ -90,7 +97,7 @@ msgstr ""
 
 #: ../qml/Home.qml:125
 msgid "Get looped in"
-msgstr ""
+msgstr "ئۇچۇرغا ئېرشىش"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:135
@@ -110,15 +117,15 @@ msgstr ""
 
 #: ../qml/About.qml:33
 msgid "About the App"
-msgstr ""
+msgstr "ئەپ ھەققىدە"
 
 #: ../qml/About.qml:56
 msgid "UBports App"
-msgstr ""
+msgstr "UBports ئەپ"
 
 #: ../qml/About.qml:74
 msgid "Version: "
-msgstr ""
+msgstr "نەشىرى : "
 
 #: ../qml/About.qml:82
 msgid ""
@@ -152,28 +159,28 @@ msgid ""
 "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the <a "
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
-msgstr ""
+msgstr "تەرجىمان : يەرلىكلەشتۈرۈش ئۈچۈن تەستىق بۇلۇش كېرەك"
 
 #: ../qml/About.qml:108
 msgid "SOURCE"
-msgstr ""
+msgstr "ئەسلى كود"
 
 #: ../qml/About.qml:108
 msgid "ISSUES"
-msgstr ""
+msgstr "مەسىللەر"
 
 #: ../qml/About.qml:108
 msgid "DONATE"
-msgstr ""
+msgstr "ئىئانە"
 
 #: ../qml/About.qml:118
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "بارلىق ھۇقۇق تەۋە (C) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:127
 msgid "Maintained by"
-msgstr ""
+msgstr "ئاسرىغۇچى"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr ""
+msgstr "UBports"
