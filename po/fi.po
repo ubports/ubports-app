@@ -8,36 +8,36 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 22:10+0000\n"
-"PO-Revision-Date: 2017-07-15 19:46+0200\n"
-"Last-Translator: Sami Törmänen <tormanen.sami@gmail.com>\n"
-"Language-Team: Finnish <https://ubpweblate.tnvcomp.com/projects/ubports/"
-"ubports-app/fi/>\n"
+"PO-Revision-Date: 2017-08-23 08:06+0000\n"
+"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
+"Language-Team: Finnish <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Weblate 2.15\n"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:38
 msgid "About"
-msgstr ""
+msgstr "Tietoja"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:51
 msgid "Support Forum"
-msgstr ""
+msgstr "Tukipalsta"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:56
 msgid "Get involved"
-msgstr ""
+msgstr "Tule mukaan"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:61
 msgid "Newsletter"
-msgstr ""
+msgstr "Uutiskirje"
 
 #: ../qml/Home.qml:30
 #, fuzzy
@@ -138,7 +138,7 @@ msgstr ""
 
 #: ../qml/About.qml:33
 msgid "About the App"
-msgstr ""
+msgstr "Tietoja sovelluksesta"
 
 #: ../qml/About.qml:56
 msgid "UBports App"
@@ -184,19 +184,19 @@ msgstr ""
 
 #: ../qml/About.qml:108
 msgid "SOURCE"
-msgstr ""
+msgstr "LÄHDE"
 
 #: ../qml/About.qml:108
 msgid "ISSUES"
-msgstr ""
+msgstr "ONGELMAT"
 
 #: ../qml/About.qml:108
 msgid "DONATE"
-msgstr ""
+msgstr "LAHJOITA"
 
 #: ../qml/About.qml:118
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "Tekijänoikeus (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:127
 msgid "Maintained by"
