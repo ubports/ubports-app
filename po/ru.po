@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 22:10+0000\n"
-"PO-Revision-Date: 2017-09-02 20:29+0000\n"
+"PO-Revision-Date: 2017-09-02 20:31+0000\n"
 "Last-Translator: Ivan Semkin <ivan@semkin.ru>\n"
 "Language-Team: Russian <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/ru/>\n"
@@ -65,8 +65,9 @@ msgstr ""
 "устройством и персональными данными. У вас есть выбор и свобода с UBports."
 
 #: ../qml/Home.qml:87
+#, fuzzy
 msgid "Pay what's fair"
-msgstr "Платите, что справедливо"
+msgstr "Платите, что считаете честным"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:97
