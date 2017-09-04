@@ -27,8 +27,8 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 22:10+0000\n"
-"PO-Revision-Date: 2017-08-18 17:49+0000\n"
-"Last-Translator: Florian Leeber <flori@bin.org.in>\n"
+"PO-Revision-Date: 2017-09-04 23:44+0000\n"
+"Last-Translator: Bjarne Roß <ross.b@freenet.de>\n"
 "Language-Team: German <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/de/>\n"
 "Language: de\n"
@@ -240,7 +240,7 @@ msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:127
 msgid "Maintained by"
-msgstr ""
+msgstr "Herausgegeben von"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
