@@ -27,7 +27,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 22:10+0000\n"
-"PO-Revision-Date: 2017-07-22 22:46+0000\n"
+"PO-Revision-Date: 2017-09-01 06:49+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <https://ubpweblate.tnvcomp.com/projects/ubports/"
 "ubports-app/ca/>\n"
@@ -59,9 +59,8 @@ msgid "Newsletter"
 msgstr "Butlletí"
 
 #: ../qml/Home.qml:30
-#, fuzzy
 msgid "Welcome to"
-msgstr "Us donem la benvinguda a UBports!"
+msgstr "Us donem la benvinguda a"
 
 #: ../qml/Home.qml:61
 msgid "Welcome to UBports!"
@@ -154,6 +153,8 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
+"UBports és possible pels nostres increïbles  <a "
+"href='https://ubports.com/sponsors'>patrocinadors, donants i patrons</a>."
 
 #: ../qml/About.qml:33
 msgid "About the App"
@@ -205,7 +206,6 @@ msgstr ""
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:99
-#, fuzzy
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -222,8 +222,8 @@ msgstr ""
 "posterior (al vostre criteri). Aquest programa es distribueix amb "
 "l'esperança que sigui útil, però SENSE CAP GARANTIA; sense la garantia "
 "implícita de COMERCIABILITAT o ADEQUACIÓ PER A UN PROPÒSIT PARTICULAR. "
-"Consulteu la <a href='https://www.gnu.org/licenses/gpl-3.0.en."
-"html'>Llicència General Pública GNU</a> per obtenir-ne més detalls."
+"Consulteu la <a href='https://www.gnu.org/licenses/gpl-3.0.ca.html'>"
+"Llicència General Pública GNU</a> per obtenir-ne més detalls."
 
 #: ../qml/About.qml:108
 msgid "SOURCE"
@@ -243,7 +243,7 @@ msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:127
 msgid "Maintained by"
-msgstr ""
+msgstr "Mantingut per"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"

@@ -8,49 +8,48 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 22:10+0000\n"
-"PO-Revision-Date: 2017-07-15 19:46+0200\n"
-"Last-Translator: Sami Törmänen <tormanen.sami@gmail.com>\n"
-"Language-Team: Finnish <https://ubpweblate.tnvcomp.com/projects/ubports/"
-"ubports-app/fi/>\n"
+"PO-Revision-Date: 2017-08-31 07:53+0000\n"
+"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
+"Language-Team: Finnish <https://ubpweblate.tnvcomp.com/projects/ubports"
+"/ubports-app/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Weblate 2.15\n"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:38
 msgid "About"
-msgstr ""
+msgstr "Tietoja"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:51
 msgid "Support Forum"
-msgstr ""
+msgstr "Tukipalsta"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:56
 msgid "Get involved"
-msgstr ""
+msgstr "Tule mukaan"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:61
 msgid "Newsletter"
-msgstr ""
+msgstr "Uutiskirje"
 
 #: ../qml/Home.qml:30
-#, fuzzy
 msgid "Welcome to"
-msgstr "Tervetuloa UBports:iin!"
+msgstr "Tervetuloa"
 
 #: ../qml/Home.qml:61
 msgid "Welcome to UBports!"
-msgstr "Tervetuloa UBports:iin!"
+msgstr "Tervetuloa UBportsiin!"
 
 #: ../qml/Home.qml:70
 msgid "We can change the future! Let's innovate and dream again."
-msgstr ""
+msgstr "Voimme muuttaa tulevaisuutta! Innovoidaan ja unelmoidaan jälleen."
 
 #: ../qml/Home.qml:79
 msgid ""
@@ -62,7 +61,7 @@ msgstr ""
 "Ubports rakentaa turvallisinta ja innovatiivisinta elämystä. Se rajoittuu "
 "ainoastaan siihen mistä sinä - yhteisön jäsen - voit unelmoida. Ota takaisin "
 "täysi hallinta laitteeseesi ja henkilökohtaisiin tietoihisi. Sinulla on "
-"vapaus valita UBports:n kanssa."
+"vapaus valita UBportsin kanssa."
 
 #: ../qml/Home.qml:87
 msgid "Pay what's fair"
@@ -84,12 +83,13 @@ msgstr ""
 "UBports perustettiin ja on olemassa yhteisön vapaaehtoisten ansiosta lähellä "
 "sinua ja ympäri maailmaa. Vaikka emme pyydä kiinteää maksua, olemme silti "
 "riippuvaisia yhteisön rahallisesta tuesta. Joten jos pidät siitä, mitä näet "
-"ja haluat nähdä projektin onnistuvan, harkitse <a href='https://paypal.me/"
-"ubports'> kertalahjoituksena</a> tai <a href='https://patreon.com/ubports'></"
-"a> kuukausittaista lahjoitusta</a>. Arvostamme sitä vilpittömästi, ja me "
-"tiedämme, että tunnet suurta mielihyvää panoksestasi ja osallistumisestasi. "
-"Vastineeksi uskomme tarjoavamme takaisin oikeudenmukaista palvelua ja "
-"mahdollisuuksia kaikille projektiin osallistuville."
+"ja haluat nähdä projektin onnistuvan, harkitse <a "
+"href='https://paypal.me/ubports'> kertalahjoitusta</a> tai <a "
+"href='https://patreon.com/ubports'>kuukausittaista lahjoitusta</a>. "
+"Arvostamme sitä vilpittömästi, ja tiedämme, että tunnet suurta mielihyvää "
+"panoksestasi ja osallistumisestasi. Vastineeksi uskomme tarjoavamme takaisin "
+"oikeudenmukaista palvelua ja mahdollisuuksia kaikille projektiin "
+"osallistuville."
 
 #: ../qml/Home.qml:106
 msgid "Be more than a spectator - Become a game changer!"
@@ -107,13 +107,13 @@ msgid ""
 msgstr ""
 "Ubportsin avulla voit itse muuttaa asioita, joista et pidä. Oletko koskaan "
 "ollut turhautunut jonkin ominaisuuden, rajoituksen tai ulkoasun takia? Nyt "
-"se on mahdollisuus muuttaa! Ilmoita tänne <a href='https://github.com/"
-"ubports/ubports-touch'> löytämäsi bugit ja pyynnöt lisäominaisuuksista</a>. "
+"se on mahdollisuus muuttaa! Ilmoita tänne <a href='https://github.com/ubports"
+"/ubports-touch'>löytämäsi bugit ja pyynnöt lisäominaisuuksista</a>. "
 "UBportsista tulee älykkäin alusta, jonka olet ikinä päässyt kokemaan."
 
 #: ../qml/Home.qml:125
 msgid "Get looped in"
-msgstr ""
+msgstr "Hyppää mukaan"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:135
@@ -123,11 +123,10 @@ msgid ""
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</"
 "a> to get in the loop and stay in the loop."
 msgstr ""
-"Me olemme kaikki tässä yhdessä. Lähtökohtaisesti yritä pysyä "
-"ohjelmistokehityksen, siihen liittyvien uutisten ja muiden kokemusta "
-"parantavien päivityksien kanssa ajantasalla. <a href='https://ubports.com/r/"
-"appsubscribe'> Liity meidän postituslistallemme </a> pysyäksesi kaikesta "
-"ajantasalla."
+"Olemme kaikki tässä yhdessä. Pysy perillä ohjelmistokehityksen uusimmista "
+"uutisista ja muista kokemusta parantavista päivityksistä. <a "
+"href='https://ubports.com/r/appsubscribe'>Liity postituslistallemme</a> "
+"pysyäksesi kaikesta ajan tasalla."
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:145
@@ -135,10 +134,12 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
+"UBportsin toiminnan mahdollistavat <a href='https://ubports.com/sponsors'>"
+"mahtavat sponsorit, lahjoittajat ja patronit</a>!"
 
 #: ../qml/About.qml:33
 msgid "About the App"
-msgstr ""
+msgstr "Tietoja sovelluksesta"
 
 #: ../qml/About.qml:56
 msgid "UBports App"
@@ -184,23 +185,23 @@ msgstr ""
 
 #: ../qml/About.qml:108
 msgid "SOURCE"
-msgstr ""
+msgstr "LÄHDE"
 
 #: ../qml/About.qml:108
 msgid "ISSUES"
-msgstr ""
+msgstr "ONGELMAT"
 
 #: ../qml/About.qml:108
 msgid "DONATE"
-msgstr ""
+msgstr "LAHJOITA"
 
 #: ../qml/About.qml:118
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "Tekijänoikeus (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:127
 msgid "Maintained by"
-msgstr ""
+msgstr "Ylläpitäjä"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
