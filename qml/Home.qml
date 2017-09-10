@@ -27,24 +27,17 @@ import Ubuntu.Components 1.3
 import "modules"
 
 Page {
-    title: i18n.tr("Welcome to") + " UBports!"
+    id: homePage
+    title: i18n.tr("Welcome to %1!").arg("UBports")
     header: DefaultHeader {}
 
-    Flickable {
+    ScrollView {
         id: flick
-        anchors {
-            fill: parent
-            margins: ubports_app.width > units.gu(125) ? ubports_app.width / 5 : units.gu(3)
-            topMargin: 0
-            bottomMargin: 0
-        }
-        clip: true
-        contentWidth: aboutColumn.width
-        contentHeight: aboutColumn.height + units.gu(3)
+        anchors { fill: parent; topMargin: homePage.header.height }
 
         Column {
             id: aboutColumn
-            width: parent.parent.width
+            width: flick.width
             spacing: units.gu(3)
 
             Image {
@@ -54,25 +47,28 @@ Page {
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
-                text: i18n.tr("Welcome to UBports!")
-                fontSize: "x-large"
+                text: i18n.tr("Welcome to %1!").arg("UBports")
+                textSize: Label.XLarge
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("We can change the future! Let's innovate and dream again.")
-                fontSize: "large"
+                textSize: Label.Large
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
@@ -80,16 +76,18 @@ Page {
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("Pay what's fair")
-                fontSize: "large"
+                textSize: Label.Large
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
@@ -99,16 +97,18 @@ Page {
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("Be more than a spectator - Become a game changer!")
-                fontSize: "large"
+                textSize: Label.Large
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
@@ -118,16 +118,18 @@ Page {
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 text: i18n.tr("Get looped in")
-                fontSize: "large"
+                textSize: Label.Large
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
@@ -137,7 +139,8 @@ Page {
             }
 
             Label {
-                width: parent.width
+                anchors.horizontalCenter: parent.horizontalCenter
+                width: Math.min(units.gu(80), parent.width)
                 linkColor: UbuntuColors.orange
                 horizontalAlignment: Text.AlignHCenter
                 wrapMode: Text.WrapAtWordBoundaryOrAnywhere
