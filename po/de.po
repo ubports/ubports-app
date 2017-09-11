@@ -27,8 +27,8 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 22:10+0000\n"
-"PO-Revision-Date: 2017-08-18 17:49+0000\n"
-"Last-Translator: Florian Leeber <flori@bin.org.in>\n"
+"PO-Revision-Date: 2017-09-05 16:54+0000\n"
+"Last-Translator: Gerd Sänger <gerdsaenger@t-online.de>\n"
 "Language-Team: German <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/de/>\n"
 "Language: de\n"
@@ -41,7 +41,7 @@ msgstr ""
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:38
 msgid "About"
-msgstr "Über"
+msgstr "Info"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:51
@@ -194,15 +194,14 @@ msgid ""
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
 "Unser Ziel ist es, Ubuntu Touch für alle bestehenden Geräte am Leben zu "
-"halten. Während wir die schönen Seiten beibehalten, wollen Ubuntu Touch zu "
-"einem täglich nutzbaren System erweitern. Ubuntu ist das Linux für das "
-"menschliche Sein und Ubuntu Touch bringt diesen Hauch auf mobile Geräte. Wir "
-"wollen Ubuntu Touch in echtes Linux für mobile Geräte verwandeln, während "
-"wir das einfache und elegante Design beibehalten."
+"halten. Während wir die guten Eigenschaften beibehalten, wollen wir Ubuntu "
+"Touch zu einem täglich nutzbaren System erweitern. Ubuntu ist das Linux für "
+"Menschen und Ubuntu Touch bringt diesen Geist auf mobile Geräte. Wir wollen "
+"Ubuntu Touch in ein echtes Linux für mobile Geräte verwandeln, während wir "
+"das einfache und elegante Design beibehalten."
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:99
-#, fuzzy
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -213,14 +212,15 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
-"Dieses Programm ist freie Software: du darfst es weitergeben und/oder "
-"bearbeiten unter den Richtlinien der GNU General Public License wie sie von "
-"der Free Software Foundation veröffentlicht wurden, entweder in der Version "
-"3 oder in irgendeiner späteren Version. Diese Programm wurde geteilt in der "
-"Hoffnung, dass es hilfreich, aber OHNE JEGLICHE GARANTIE; auch ohne "
-"implizite Garantie für MARKTGÄNGIGKEIT oder TAUGLICHKEIT FÜR EINEN "
-"BESTIMMTEN ZWECK. Lies die <a href='https://www.gnu.org/licenses/gpl-3.0.en."
-"html'>GNU General Public License</a> für mehr Details."
+"Dieses Programm ist freie Software: sie darf weitergegeben und/oder "
+"bearbeitet werden gemäß den Richtlinien der GNU General Public License wie "
+"sie von der Free Software Foundation veröffentlicht wurden. Entweder in der "
+"Version 3 oder in irgendeiner späteren Version. Dieses Programm wird "
+"verteilt in der Hoffnung, dass es hilfreich ist, aber OHNE JEGLICHE GARANTIE;"
+" auch ohne unterstellte Garantie für MARKTGÄNGIGKEIT oder TAUGLICHKEIT FÜR "
+"EINEN BESTIMMTEN ZWECK. Lesen Sie die <a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
+"License</a> für mehr Details."
 
 #: ../qml/About.qml:108
 msgid "SOURCE"
@@ -240,7 +240,7 @@ msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:127
 msgid "Maintained by"
-msgstr ""
+msgstr "Betreut von"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"

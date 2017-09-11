@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 22:10+0000\n"
-"PO-Revision-Date: 2017-08-31 07:53+0000\n"
+"PO-Revision-Date: 2017-09-07 11:20+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://ubpweblate.tnvcomp.com/projects/ubports"
 "/ubports-app/fi/>\n"
@@ -41,7 +41,7 @@ msgstr "Uutiskirje"
 
 #: ../qml/Home.qml:30
 msgid "Welcome to"
-msgstr "Tervetuloa"
+msgstr "Tervetuloa, tämä on"
 
 #: ../qml/Home.qml:61
 msgid "Welcome to UBports!"
@@ -58,7 +58,7 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
-"Ubports rakentaa turvallisinta ja innovatiivisinta elämystä. Se rajoittuu "
+"Ubports rakentaa turvallisinta ja innovatiivisinta kokemusta. Se rajoittuu "
 "ainoastaan siihen mistä sinä - yhteisön jäsen - voit unelmoida. Ota takaisin "
 "täysi hallinta laitteeseesi ja henkilökohtaisiin tietoihisi. Sinulla on "
 "vapaus valita UBportsin kanssa."
@@ -80,21 +80,20 @@ msgid ""
 "particpate. In return, we believe in providing fair sevice and opportunity "
 "with transparency to all members of the project."
 msgstr ""
-"UBports perustettiin ja on olemassa yhteisön vapaaehtoisten ansiosta lähellä "
-"sinua ja ympäri maailmaa. Vaikka emme pyydä kiinteää maksua, olemme silti "
-"riippuvaisia yhteisön rahallisesta tuesta. Joten jos pidät siitä, mitä näet "
-"ja haluat nähdä projektin onnistuvan, harkitse <a "
-"href='https://paypal.me/ubports'> kertalahjoitusta</a> tai <a "
-"href='https://patreon.com/ubports'>kuukausittaista lahjoitusta</a>. "
-"Arvostamme sitä vilpittömästi, ja tiedämme, että tunnet suurta mielihyvää "
-"panoksestasi ja osallistumisestasi. Vastineeksi uskomme tarjoavamme takaisin "
-"oikeudenmukaista palvelua ja mahdollisuuksia kaikille projektiin "
-"osallistuville."
+"UBports perustettiin ja on olemassa yhteisön vapaaehtoisten ansiosta. Vaikka "
+"emme pyydä kiinteää maksua, olemme silti riippuvaisia yhteisön rahallisesta "
+"tuesta. Jos siis pidät siitä, mitä näet ja haluat nähdä projektin "
+"onnistuvan, harkitse <a href='https://paypal.me/ubports'> "
+"kertalahjoitusta</a> tai <a href='https://patreon.com/ubports'>"
+"kuukausittaista lahjoitusta</a>. Arvostamme sitä vilpittömästi, ja tiedämme, "
+"että tunnet suurta mielihyvää panoksestasi ja osallistumisestasi. "
+"Vastineeksi uskomme tarjoavamme takaisin oikeudenmukaista palvelua ja "
+"mahdollisuuksia kaikille projektiin osallistuville."
 
 #: ../qml/Home.qml:106
 msgid "Be more than a spectator - Become a game changer!"
 msgstr ""
-"Ole enemmän kuin pelkkä sivusta katselija - tule merkittäväksi vaikuttajaksi!"
+"Ole enemmän kuin pelkkä sivustakatsoja - ryhdy merkittäväksi vaikuttajaksi!"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:116
@@ -107,8 +106,8 @@ msgid ""
 msgstr ""
 "Ubportsin avulla voit itse muuttaa asioita, joista et pidä. Oletko koskaan "
 "ollut turhautunut jonkin ominaisuuden, rajoituksen tai ulkoasun takia? Nyt "
-"se on mahdollisuus muuttaa! Ilmoita tänne <a href='https://github.com/ubports"
-"/ubports-touch'>löytämäsi bugit ja pyynnöt lisäominaisuuksista</a>. "
+"se on mahdollista muuttaa! Ilmoita tänne <a href='https://github.com/ubports"
+"/ubports-touch'>löytämäsi viat ja pyynnöt lisäominaisuuksista</a>. "
 "UBportsista tulee älykkäin alusta, jonka olet ikinä päässyt kokemaan."
 
 #: ../qml/Home.qml:125
@@ -124,9 +123,9 @@ msgid ""
 "a> to get in the loop and stay in the loop."
 msgstr ""
 "Olemme kaikki tässä yhdessä. Pysy perillä ohjelmistokehityksen uusimmista "
-"uutisista ja muista kokemusta parantavista päivityksistä. <a "
+"käänteistä ja muista kokemusta parantavista päivityksistä. <a "
 "href='https://ubports.com/r/appsubscribe'>Liity postituslistallemme</a> "
-"pysyäksesi kaikesta ajan tasalla."
+"pysyäksesi ajan tasalla."
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:145
@@ -143,7 +142,7 @@ msgstr "Tietoja sovelluksesta"
 
 #: ../qml/About.qml:56
 msgid "UBports App"
-msgstr "Ubports"
+msgstr "Ubports-sovellus"
 
 #: ../qml/About.qml:74
 msgid "Version: "
