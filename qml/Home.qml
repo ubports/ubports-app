@@ -32,7 +32,7 @@ Page {
     header: DefaultHeader {}
 
     ScrollView {
-        id: flick
+        id: scroll
         anchors {
             fill: parent
             topMargin: homePage.header.height
@@ -40,7 +40,7 @@ Page {
 
         Column {
             id: homeColumn
-            width: flick.width
+            width: scroll.width
             spacing: units.gu(3)
 
             Image {
