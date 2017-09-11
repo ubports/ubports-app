@@ -1,4 +1,4 @@
-// Main.qml
+// DefaultLabel.qml
 //
 // This file is part of the UBports Welcome App.
 //
@@ -23,42 +23,13 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import QtQuick 2.4
-import QtQuick.Layouts 1.1
 import Ubuntu.Components 1.3
-import QtQuick.Window 2.2
 
-Window {
-    id: ubports_app
-    title: i18n.tr("Welcome to %1!").arg("UBports")
-    width: units.gu(150)
-    height: units.gu(100)
-    minimumWidth: units.gu(45)
-    minimumHeight: units.gu(45)
-    maximumWidth: Screen.width
-    maximumHeight: Screen.height
-
-    property string version: "1.6"
-
-    Component.onCompleted: {
-        console.log("UBports-App started\n")
-        console.log("Version: " + version);
-    }
-
-    MainView {
-        id: root
-        objectName: 'mainView'
-        applicationName: 'com.ubuntu.ubports'
-        automaticOrientation: true
-        anchorToKeyboard: true
-        anchors.fill: parent
-
-        PageStack {
-            id: mainStack
-        }
-
-        Component.onCompleted: {
-            mainStack.clear()
-            mainStack.push(Qt.resolvedUrl("Home.qml"))
-        }
-    }
+Label {
+    anchors.horizontalCenter: parent.horizontalCenter
+    width: Math.min(units.gu(80), parent.width - units.gu(6))
+    linkColor: UbuntuColors.orange
+    horizontalAlignment: Text.AlignHCenter
+    wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+    onLinkActivated: Qt.openUrlExternally(link)
 }
