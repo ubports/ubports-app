@@ -28,7 +28,6 @@ import Ubuntu.Components 1.3
 PageHeader {
     id: mainHeader
     title: parent.title
-    flickable: flick
     trailingActionBar {
         actions: [
         Action {
