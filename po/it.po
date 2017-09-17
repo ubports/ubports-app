@@ -27,7 +27,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: 2017-09-17 21:46+0000\n"
+"PO-Revision-Date: 2017-09-17 21:48+0000\n"
 "Last-Translator: Gabriele <gabrielemartelli@tiscali.it>\n"
 "Language-Team: Italian <https://translate.ubports.com/projects/ubports"
 "/ubports-app/it/>\n"
@@ -41,7 +41,7 @@ msgstr ""
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr "Info"
+msgstr "Informazioni"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
@@ -96,14 +96,14 @@ msgid ""
 "with transparency to all members of the project."
 msgstr ""
 "UBports è stato creato ed esiste grazie ai molti volontari della comunità "
-"vicini a te e sparsi per tutto il mondo. Anche se non chiediamo un pagamento "
+"vicini a te e sparsi in tutto il mondo. Anche se non chiediamo un pagamento "
 "fisso, dipendiamo dal sostegno finanziario della comunità. Quindi, se ti "
 "piace ciò che vedi e vuoi che il progetto abbia successo, considera una <a "
-"href='https://paypal.me/ubports'> donazione singola </a> o <a href = "
-"'https: / /patreon.com/ubports'> mensile  </a>. Lo apprezziamo veramente e "
-"sappiamo che ti sentirai orgoglioso del tuo contributo ed entusiasta di "
-"partecipare. In cambio noi crediamo di poter offrire un servizio equo e "
-"trasparente verso tutti i membri del progetto."
+"href='https://paypal.me/ubports'> donazione singola </a> o <a href = 'https: "
+"/ /patreon.com/ubports'> mensile  </a>. Lo apprezziamo veramente e sappiamo "
+"che ti sentirai orgoglioso del tuo contributo ed entusiasta di partecipare. "
+"In cambio noi crediamo di poter offrire un servizio equo e trasparente verso "
+"tutti i membri del progetto."
 
 #: ../qml/Home.qml:77
 msgid "Be more than a spectator - Become a game changer!"
