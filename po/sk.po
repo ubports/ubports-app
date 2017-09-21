@@ -8,41 +8,44 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-09-21 09:48+0000\n"
+"Last-Translator: Peter Valachovič <peter.valachovic@gmail.com>\n"
+"Language-Team: Slovak <https://translate.ubports.com/projects/ubports"
+"/ubports-app/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 2.15\n"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr ""
+msgstr "O Aplikácii"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
 msgid "Support Forum"
-msgstr ""
+msgstr "Fórum pre podporu"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:55
 msgid "Get involved"
-msgstr ""
+msgstr "Pridať sa"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:60
 msgid "Newsletter"
-msgstr ""
+msgstr "Informačný bulletin"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53
 msgid "Welcome to %1!"
-msgstr ""
+msgstr "Vitajte v %1!"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
-msgstr ""
+msgstr "Môžme zmeniť budúcnosť! Znovu vylepšujme a snívajme."
 
 #: ../qml/Home.qml:63
 msgid ""
@@ -51,10 +54,14 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
+"UBports ponúka maximálne bezpečnú a inovatívnu skúsenosť. Jeho potenciál je "
+"obmedzený iba tým čo si Vy - člen komunity - dokážete vysnívať. Znovu "
+"získajte kontrolu nad vaším zariadením a osobnými informáciami. S UBports "
+"máte slobodu a možnosť voľby."
 
 #: ../qml/Home.qml:67
 msgid "Pay what's fair"
-msgstr ""
+msgstr "Plaťte iba za to, co je spravodlivé"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:73
