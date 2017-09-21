@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: 2017-09-21 10:54+0000\n"
+"PO-Revision-Date: 2017-09-21 11:36+0000\n"
 "Last-Translator: Peter Valachovič <peter.valachovic@gmail.com>\n"
 "Language-Team: Slovak <https://translate.ubports.com/projects/ubports"
 "/ubports-app/sk/>\n"
@@ -132,15 +132,15 @@ msgstr ""
 
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr ""
+msgstr "O aplikácii"
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr ""
+msgstr "%1 App"
 
 #: ../qml/About.qml:64
 msgid "Version: "
-msgstr ""
+msgstr "Verzia:_ "
 
 #: ../qml/About.qml:68
 msgid ""
@@ -152,6 +152,12 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
+"UBports je medzinárodná komunita vývojárov a užívateľov, ktorí chcú udržať "
+"UBports nažive. Tento projekt založil v roku 2015 Marius Gripsgard ako "
+"miesto kde sa môžu vývojári rozprávať a učiť sa jeden od druhého, ako aj "
+"dostať tímovou prácou Ubuntu na viac zariadení. Keď spoločnosť Canonical "
+"oznámila koniec podpory pre Ubuntu Touch, komunita prevzala operačný systém. "
+"Odozva je fantastická a naša komunita rýchlo rastie."
 
 #: ../qml/About.qml:72
 msgid ""
@@ -162,6 +168,13 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"Našim cieľom je udržať nažive Ubuntu Touch na všetkých existujúcich "
+"zariadeniach. Túžime zároveň zachovať všetky dobré a krásne časti a tiež "
+"pretvoriť Ubuntu Touch na operačný systém, ktorý chceme denne používať. "
+"Ubuntu je Linux pre ľudí, a Ubuntu Touch prináša tento prístup aj do "
+"mobilných zariadení. Chceme z Ubuntu Touch spraviť naozajstnú Linuxovú "
+"distribúciu pre mobilné zariadenia, a zároveň ho ponechať jednoduchý s "
+"elegantným dizajnom."
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
@@ -175,27 +188,39 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
+"Tento program je slobodný softvér; môžete ho šíriť a/alebo meniť za "
+"podmienok licencie GNU General Public License ako ju publikovala Free "
+"Software Foundation; a to buď verzie 3 alebo (podľa vášho uváženia) "
+"hociktorej neskoršej verzie.\n"
+"\n"
+"Tento program je šírený vo viere, že bude užitočný, ale BEZ AKEJKOĽVEK "
+"ZÁRUKY; dokonca aj bez implicitnej záruky OBCHODOVATEĽNOSTI či VHODNOSTI NA "
+"URČITÝ ÚČEL. Podrobnosti nájdete v GNU General Public License.\n"
+"\n"
+"Spolu s týmto programom by ste mali dostať kópiu GNU General Public License. "
+"Ak sa tak nestalo, nájdete ju na adrese <a href='https://www.gnu.org/licenses"
+"/gpl-3.0.en.html'>http://www.gnu.org/licenses/</a>."
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
-msgstr ""
+msgstr "ZDROJ"
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
-msgstr ""
+msgstr "OTÁZKY"
 
 #: ../qml/About.qml:81
 msgid "DONATE"
-msgstr ""
+msgstr "PRISPIEŤ"
 
 #: ../qml/About.qml:86
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:91
 msgid "Maintained by"
-msgstr ""
+msgstr "Udržiavaný"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr ""
+msgstr "UBports"
