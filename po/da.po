@@ -8,41 +8,44 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-09-28 17:07+0000\n"
+"Last-Translator: Henrik Holm <hbir@post10.tele.dk>\n"
+"Language-Team: Danish <https://translate.ubports.com/projects/ubports"
+"/ubports-app/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.15\n"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr ""
+msgstr "Om"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
 msgid "Support Forum"
-msgstr ""
+msgstr "Support Forum"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:55
 msgid "Get involved"
-msgstr ""
+msgstr "Engager dig"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:60
 msgid "Newsletter"
-msgstr ""
+msgstr "Nyhedsbrev"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53
 msgid "Welcome to %1!"
-msgstr ""
+msgstr "Velkommen til %1!"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
-msgstr ""
+msgstr "Vi kan ændre fremtiden! Lad os være innovative og drømme igen."
 
 #: ../qml/Home.qml:63
 msgid ""
@@ -51,10 +54,13 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
+"UBports giver de bedste private og innovative oplevelser. Det er begrænset "
+"kun af det du - medlem af fællesskabet - can drømme. Få kontrol over din "
+"enhed og personlige data. Du har valgmuligheder og frihed med UBports."
 
 #: ../qml/Home.qml:67
 msgid "Pay what's fair"
-msgstr ""
+msgstr "Betal hvad der er rimeligt"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:73
@@ -69,10 +75,19 @@ msgid ""
 "particpate. In return, we believe in providing fair sevice and opportunity "
 "with transparency to all members of the project."
 msgstr ""
+"UBports blev skabt af og eksisterer pga. de mange frivillige i fællesskabet "
+"nær dig og i hele verden. Selvom vi ikke kræver fast månedlig betaling, så "
+"er vi afhængige af økonomisk støtte fra fællesskabet. Så hvis du kan lide "
+"hvad du ser og ønsker at projektet skal lykkedes , så overvej venligst  <a "
+"href='https://paypal.me/ubports'> engangsbeløb </a> eller  <a "
+"href='https://patreon.com/ubports'> for fast månedlig donation </a>.  Vi "
+"sætter virkelig pris på din donation og vi ved, at du vil have det godt med "
+"at en rimelig donation og vil nyde at deltage. til gengæld, leverer vi fair "
+"service og muligheder med gennemsigtighed for alle medlemmer af projektet."
 
 #: ../qml/Home.qml:77
 msgid "Be more than a spectator - Become a game changer!"
-msgstr ""
+msgstr "Vær mere end bare tilskuer - Deltag i udviklingen!"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:83
@@ -86,7 +101,7 @@ msgstr ""
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
-msgstr ""
+msgstr "Deltag i sløjfen"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:93
@@ -96,6 +111,10 @@ msgid ""
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</"
 "a> to get in the loop and stay in the loop."
 msgstr ""
+"Vi er sammen om dette. Som udgangspunkt, hold dig informeret om udvikling, "
+"relateret nyt og en hel masse andre oplevelses-udvidende opdateringer. <a "
+"href='https://ubports.com/r/appsubscribe'> Mel dig til vores mail-liste </a> "
+"for at komme med i sløjfen og blive i sløjfen."
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:98
@@ -106,15 +125,15 @@ msgstr ""
 
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr ""
+msgstr "Om denne App"
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr ""
+msgstr "%1 App"
 
 #: ../qml/About.qml:64
 msgid "Version: "
-msgstr ""
+msgstr "Version: "
 
 #: ../qml/About.qml:68
 msgid ""
@@ -152,24 +171,24 @@ msgstr ""
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
-msgstr ""
+msgstr "KILDE"
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
-msgstr ""
+msgstr "PROBLEMER"
 
 #: ../qml/About.qml:81
 msgid "DONATE"
-msgstr ""
+msgstr "DONER"
 
 #: ../qml/About.qml:86
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:91
 msgid "Maintained by"
-msgstr ""
+msgstr "Vedligeholdes af"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr ""
+msgstr "UBports"
