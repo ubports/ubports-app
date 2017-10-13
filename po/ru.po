@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: 2017-09-02 20:31+0000\n"
-"Last-Translator: Ivan Semkin <ivan@semkin.ru>\n"
-"Language-Team: Russian <https://ubpweblate.tnvcomp.com/projects/ubports/"
-"ubports-app/ru/>\n"
+"PO-Revision-Date: 2017-09-30 14:34+0000\n"
+"Last-Translator: Nelly Simkova <stylinsonnelly@gmail.com>\n"
+"Language-Team: Russian <https://translate.ubports.com/projects/ubports"
+"/ubports-app/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.15\n"
 
 #. TRANSLATORS: Description of the menu item
@@ -41,9 +41,8 @@ msgid "Newsletter"
 msgstr "Новостная рассылка"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53
-#, fuzzy
 msgid "Welcome to %1!"
-msgstr "Добро пожаловать в"
+msgstr "Добро пожаловать в %1!"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
@@ -64,11 +63,10 @@ msgstr ""
 #: ../qml/Home.qml:67
 #, fuzzy
 msgid "Pay what's fair"
-msgstr "Платите, что считаете честным"
+msgstr "Платите, за что считаете нужным"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:73
-#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -84,11 +82,12 @@ msgstr ""
 "всем мире. Хотя мы не запрашиваем фиксированную плату, мы зависим от "
 "финансовой поддержки со стороны сообщества. Поэтому, если вам нравится то, "
 "что вы видите и хотите, чтобы проект был успешным, рассмотрите <a "
-"href='https://paypal.me/ubports'> разовое </a> или <a href='https://patreon."
-"com/ubports'> ежемесячное пожертвование </a>. Мы искренне ценим это и знаем, "
-"что вы будете прекрасно относиться к своему справедливому вкладу и будете в "
-"восторге от участия. В свою очередь, мы верим в предоставление справедливого "
-"обслуживания и возможностей с прозрачностью для всех членов проекта."
+"href='https://paypal.me/ubports'> разовое </a> или <a "
+"href='https://patreon.com/ubports'> ежемесячное пожертвование </a>. Мы "
+"искренне ценим это и знаем, что вы будете прекрасно относиться к своему "
+"справедливому вкладу и будете в восторге от участия. В свою очередь, мы "
+"верим в предоставление справедливого обслуживания и возможностей с "
+"прозрачностью для всех членов проекта."
 
 #: ../qml/Home.qml:77
 msgid "Be more than a spectator - Become a game changer!"
@@ -103,6 +102,12 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
+"С Ubports Вы можете изменить то, что Вам не нравится. Вы когда-нибудь "
+"чувствовали себя разочарованным особенностью, ограничением, или малым "
+"набором функций? Измените это! Дайте баг-отчет с <a "
+"href='https://github.com/ubports/ubports-touch'> и отправьте запрос на "
+"добавление нужной Вам функции </a>. Ubports станет самой умной платформой, "
+"которую Вы когда-либо использовали."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
@@ -110,12 +115,17 @@ msgstr "Станьте частью"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:93
+#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</"
 "a> to get in the loop and stay in the loop."
 msgstr ""
+"Мы все вместе в одном проекте. В начале, следите за последними разработками, "
+"новостями и целой кучей улучшающих опыт обновлениями. <a "
+"href='https://ubports.com/r/appsubscribe'>Можете подписаться на новостную "
+"рассылку</a>и оставаться на связи."
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:98
@@ -123,14 +133,17 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
+"Ubports стала возможной благодаря поддержке <a "
+"href='https://ubports.com/sponsors'>наших прекрасных спонсоров</a>!"
 
 #: ../qml/About.qml:34
 msgid "About the App"
 msgstr "О приложении"
 
 #: ../qml/About.qml:50
+#, fuzzy
 msgid "%1 App"
-msgstr ""
+msgstr "%1 Приложение"
 
 #: ../qml/About.qml:64
 msgid "Version: "
@@ -155,6 +168,7 @@ msgstr ""
 "Резонанс был фантастическим, и наше сообщество быстро растет."
 
 #: ../qml/About.qml:72
+#, fuzzy
 msgid ""
 "It's our goal to keep Ubuntu Touch alive on all existing devices. While "
 "keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
@@ -163,9 +177,17 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"Наша цель - это оставить Ubuntu Touch живой на многочисленных девайсах. "
+"Сохраняя все хорошие и красивые детали, мы хотим переделать Ubuntu Touch "
+"так, чтобы сделать её операционной системой, которую мы хотим использовать "
+"на постоянной основе. Ubuntu - это GNU + Linux для людей, а Ubuntu Touch "
+"привносит этот дух в мобильные устройства. Мы хотим превратить Ubuntu Touch "
+"в дистрибутив GNU + Linux для мобильных девайсов, сохраняя при этом свой "
+"простой и элегантный дизайн."
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
+#, fuzzy
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -176,6 +198,15 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
+"Эта программа является свободным ПО: вы можете распространять ее и / или "
+"изменять ее в соответствии с GNU General Public License, опубликованной "
+"Фондом свободного программного обеспечения, либо 3 версии Лицензии, либо (по "
+"вашему выбору) любой более поздней версии. Эта программа распространяется в "
+"надежде, что она будет полезна, но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ; даже без "
+"подразумеваемой гарантии КОММЕРЧЕСКОЙ ЦЕННОСТИ или ПРИГОДНОСТИ ДЛЯ "
+"ОПРЕДЕЛЕННОЙ ЦЕЛИ. Дополнительную информацию см. В <a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> GNU General Public "
+"License </a>."
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
@@ -195,7 +226,7 @@ msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:91
 msgid "Maintained by"
-msgstr ""
+msgstr "Поддерживается"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
