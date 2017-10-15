@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: 2017-10-15 10:01+0000\n"
+"PO-Revision-Date: 2017-10-15 10:08+0000\n"
 "Last-Translator: Ivan Semkin <ivan@semkin.ru>\n"
 "Language-Team: Russian <https://translate.ubports.com/projects/ubports"
 "/ubports-app/ru/>\n"
@@ -46,7 +46,7 @@ msgstr "Добро пожаловать в %1!"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "Мы можем изменить будущее! Давайте изобретать и снова мечтать."
+msgstr "Мы можем изменить будущее! Давайте изобретать и мечтать снова."
 
 #: ../qml/Home.qml:63
 msgid ""
@@ -66,6 +66,7 @@ msgstr "Платите, сколько считаете нужным"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:73
+#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -81,8 +82,8 @@ msgstr ""
 "всем мире. Хотя мы не запрашиваем фиксированную плату, мы зависим от "
 "финансовой поддержки со стороны сообщества. Поэтому, если вам нравится то, "
 "что вы видите и хотите, чтобы проект был успешным, рассмотрите <a "
-"href='https://paypal.me/ubports'> разовое </a> или <a "
-"href='https://patreon.com/ubports'> ежемесячное пожертвование </a>. Мы "
+"href='https://paypal.me/ubports'>разовое</a> или <a "
+"href='https://patreon.com/ubports'>ежемесячное пожертвование</a>. Мы "
 "искренне ценим это и знаем, что вы будете прекрасно относиться к своему "
 "справедливому вкладу и будете в восторге от участия. В свою очередь, мы "
 "верим в предоставление справедливого обслуживания и возможностей с "
@@ -90,10 +91,11 @@ msgstr ""
 
 #: ../qml/Home.qml:77
 msgid "Be more than a spectator - Become a game changer!"
-msgstr "Будьте больше, чем зритель - Станьте участником!"
+msgstr "Будьте больше, чем зрителем - станьте участником!"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:83
+#, fuzzy
 msgid ""
 "With ubports you can actually change the things you don't like. Ever felt "
 "frustrated by a feature or a limitation or a weird layout? Get it changed! "
@@ -101,12 +103,11 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
-"С Ubports Вы можете изменить то, что Вам не нравится. Вы когда-нибудь "
-"чувствовали себя разочарованным особенностью, ограничением, или малым "
-"набором функций? Измените это! Дайте баг-отчет с <a "
-"href='https://github.com/ubports/ubports-touch'> и отправьте запрос на "
-"добавление нужной Вам функции </a>. Ubports станет самой умной платформой, "
-"которую Вы когда-либо использовали."
+"С UBports Вы можете изменить то, что Вам не нравится. Вы когда-нибудь "
+"чувствовали себя разочарованным функцией, ограничением или странным "
+"дизайном? Измените это! Дайте баг-отчет с <a href='https://github.com/ubports"
+"/ubports-touch'>и отправьте запрос на добавление нужной Вам функции</a>. "
+"UBports станет самой умной платформой, которую Вы когда-либо использовали."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
@@ -131,7 +132,7 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
-"Ubports стала возможной благодаря поддержке <a "
+"UBports стала возможной благодаря поддержке <a "
 "href='https://ubports.com/sponsors'>наших прекрасных спонсоров</a>!"
 
 #: ../qml/About.qml:34
@@ -147,6 +148,7 @@ msgid "Version: "
 msgstr "Версия: "
 
 #: ../qml/About.qml:68
+#, fuzzy
 msgid ""
 "UBports is an international community of developers and users who wish to "
 "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
@@ -205,7 +207,7 @@ msgstr ""
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
-msgstr "Исходный код"
+msgstr "ИСХОДНЫЙ КОД"
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
