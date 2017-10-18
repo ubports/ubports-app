@@ -27,7 +27,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: 2017-10-18 11:07+0000\n"
+"PO-Revision-Date: 2017-10-18 12:33+0000\n"
 "Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.ubports.com/projects/ubports"
 "/ubports-app/pt/>\n"
@@ -126,7 +126,7 @@ msgstr ""
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
-msgstr "Junta-te!"
+msgstr "Junta-te"
 
 #. TRANSLATORS: Please make sure the URLs are correct
 #: ../qml/Home.qml:93
@@ -231,7 +231,7 @@ msgstr "DOAR"
 
 #: ../qml/About.qml:86
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr "Copyright (c) 2017 UBports <ubports.com>"
+msgstr "Direitos de autor (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:91
 msgid "Maintained by"
