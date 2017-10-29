@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: 2017-10-29 18:50+0000\n"
+"PO-Revision-Date: 2017-10-29 22:11+0000\n"
 "Last-Translator: Brînzariu Cristian <info@ebeton.ro>\n"
 "Language-Team: Romanian <https://translate.ubports.com/projects/ubports"
 "/ubports-app/ro/>\n"
@@ -142,7 +142,7 @@ msgstr "%1 Aplicație"
 
 #: ../qml/About.qml:64
 msgid "Version: "
-msgstr "Versiunea: "
+msgstr "Versiune: "
 
 #: ../qml/About.qml:68
 msgid ""
