@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: 2017-07-23 20:21+0000\n"
+"PO-Revision-Date: 2017-10-29 22:11+0000\n"
 "Last-Translator: Brînzariu Cristian <info@ebeton.ro>\n"
-"Language-Team: Romanian <https://ubpweblate.tnvcomp.com/projects/ubports/"
-"ubports-app/ro/>\n"
+"Language-Team: Romanian <https://translate.ubports.com/projects/ubports"
+"/ubports-app/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,17 +33,16 @@ msgstr "Forumul de suport"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:55
 msgid "Get involved"
-msgstr ""
+msgstr "Implică-te"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:60
 msgid "Newsletter"
-msgstr ""
+msgstr "Buletin informativ"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53
-#, fuzzy
 msgid "Welcome to %1!"
-msgstr "Bine ai venit la UBports!"
+msgstr "Bine ai venit la %1!"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
@@ -130,18 +129,20 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
+"UBports este posibil datorită <a href='https://ubports.com/sponsors'>"
+"sponsorilor , donatorilor și patronilor noștrii minunați</a>!"
 
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr ""
+msgstr "Despre aplicație"
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr ""
+msgstr "%1 Aplicație"
 
 #: ../qml/About.qml:64
 msgid "Version: "
-msgstr "Versiunea: "
+msgstr "Versiune: "
 
 #: ../qml/About.qml:68
 msgid ""
@@ -181,7 +182,6 @@ msgstr ""
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
-#, fuzzy
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
 "under the terms of the GNU General Public License as published by the Free "
@@ -194,7 +194,7 @@ msgid ""
 msgstr ""
 "Acest program este gratuit: poţi să îl distribui şi/sau să îl modifici atâta "
 "timp cât sunt respectaţi termeni şi condiţiile licenţei GNU General Public "
-"License, aşa cum este ea publicată de către Free Software Foundation, fie "
+"License, aşa cum este ea publicată de către „Free Software Foundation”, fie "
 "versiunea 3 a acesteia, sau (la latitudinea ta) orice altă versiune mai "
 "nouă. Acest program este distribuit în speranţa că va fi util dar FĂRĂ NICI "
 "O GARANŢIE; fără a avea măcar o garanţie din partea VÂNZĂTORULUI sau una de "
@@ -204,15 +204,15 @@ msgstr ""
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
-msgstr ""
+msgstr "SURSA"
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
-msgstr ""
+msgstr "PROBLEME"
 
 #: ../qml/About.qml:81
 msgid "DONATE"
-msgstr ""
+msgstr "DONEAZĂ"
 
 #: ../qml/About.qml:86
 msgid "Copyright (c) 2017 UBports <ubports.com>"
@@ -220,7 +220,7 @@ msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:91
 msgid "Maintained by"
-msgstr ""
+msgstr "Menținută de"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
