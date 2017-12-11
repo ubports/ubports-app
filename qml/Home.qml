@@ -64,23 +64,23 @@ Page {
             }
 
             DefaultLabel {
-                text: i18n.tr("Pay what's fair")
-                textSize: Label.Large
-            }
-
-            DefaultLabel {
-                //TRANSLATORS: Please make sure the URLs are correct
-                text: i18n.tr("UBports was created and exists because of many volunteers in the community near you and all over the world. Although we don't ask for a fixed fee we do depend on financial support from the community. So if you like what you see and want to see the project succeed, please consider a <a href='https://paypal.me/ubports'>one-time</a> or <a href='https://patreon.com/ubports'>regular monthly donation</a>. We sincerely appreciate it and we know that you'll feel great about your fair contribution and be excited to particpate. In return, we believe in providing fair sevice and opportunity with transparency to all members of the project.")
-            }
-
-            DefaultLabel {
                 text: i18n.tr("Be more than a spectator - Become a game changer!")
                 textSize: Label.Large
             }
 
             DefaultLabel {
-                //TRANSLATORS: Please make sure the URLs are correct
+                //TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
                 text: i18n.tr("With ubports you can actually change the things you don't like. Ever felt frustrated by a feature or a limitation or a weird layout? Get it changed! By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and sending feature requests</a> UBports will become the smartest platform you've ever experienced.")
+            }
+
+            DefaultLabel {
+                text: i18n.tr("Pay what's fair")
+                textSize: Label.Large
+            }
+
+            DefaultLabel {
+                //TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+                text: i18n.tr("UBports was created and exists because of many volunteers in the community near you and all over the world. Although we don't ask for a fixed fee we do depend on financial support from the community. So if you like Ubuntu Touch and want to see the project succeed, please consider a <a href='https://paypal.me/ubports'>one-time</a> or <a href='https://patreon.com/ubports'>regular monthly</a> or <a href='https://liberapay.com/ubports'>weekly</a> donation. We sincerely appreciate it and we know that you'll feel great about your fair contribution and be excited to particpate. In return, we believe in providing fair sevice and opportunity with transparency to all members of the project.")
             }
 
             DefaultLabel {
@@ -89,12 +89,12 @@ Page {
             }
 
             DefaultLabel {
-                //TRANSLATORS: Please make sure the URLs are correct
-                text: i18n.tr("We are in this together. As a starting point, stay on top of the latest developments, related news and a whole bunch of other experience-enhancing updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</a> to get in the loop and stay in the loop.")
+                //TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+                text: i18n.tr("We are in this together. As a starting point, stay on top of the latest developments, related news and a whole bunch of other experience-enhancing updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail newsletter</a> to stay in the loop.")
             }
 
             DefaultLabel {
-                //TRANSLATORS: Please make sure the URLs are correct
+                //TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
                 text: i18n.tr("UBports is made possible by our <a href='https://ubports.com/sponsors'>our awesome sponsors, donors and patrons</a>!")
             }
         }

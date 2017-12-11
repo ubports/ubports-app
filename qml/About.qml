@@ -78,7 +78,7 @@ Page {
             }
 
             DefaultLabel {
-                text: "<a href='https://github.com/ubports/ubports-app/tree/" + ubports_app.version + "'>" + i18n.tr("SOURCE") + "</a> | <a href='https://github.com/ubports/ubports-app/issues'>" + i18n.tr("ISSUES") + "</a> | <a href='https://patreon.com/ubports'>" + i18n.tr("DONATE") + "</a>"
+                text: "<a href='https://github.com/ubports/ubports-app/tree/" + ubports_app.version + "'>" + i18n.tr("SOURCE") + "</a> | <a href='https://github.com/ubports/ubports-app/issues'>" + i18n.tr("ISSUES") + "</a> | <a href='https://liberapay.com/ubports'>" + i18n.tr("DONATE") + "</a>"
             }
 
             DefaultLabel {
