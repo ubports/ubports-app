@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2017-12-11 18:26+0000\n"
+"PO-Revision-Date: 2017-12-11 18:50+0000\n"
 "Last-Translator: Milan Korecký <milan.korecky@gmail.com>\n"
 "Language-Team: Czech <https://translate.ubports.com/projects/ubports/ubports-"
 "app/cs/>\n"
@@ -93,7 +93,7 @@ msgstr "ZDROJ"
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
-msgstr "PROBLÉMY"
+msgstr "CHYBY"
 
 #: ../qml/About.qml:81
 msgid "DONATE"
@@ -145,11 +145,11 @@ msgstr ""
 "pocítili frustraci z ovládacího prvku, nějakého omezení anebo podivného "
 "designu?  Změňte to! Pošlete nám <a href='https://github.com/ubports/ubports-"
 "touch'> zprávu o chybě anebo požadavek na nové funkce </a> UBports se díky "
-"tomu stane tou nejchytřejší platformou, kterou jste  poznali."
+"tomu stane tou nejchytřejší platformou, kterou jste  dosud poznali."
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
-msgstr "Zaplaťte pouze za to, co je spravedlivé"
+msgstr "Přispívejte pouze na to, co je spravedlivé"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
@@ -165,15 +165,15 @@ msgid ""
 "In return, we believe in providing fair sevice and opportunity with "
 "transparency to all members of the project."
 msgstr ""
-"UBports vzniklo díky velkému počtu dobrovolníků ve Vašem okolí a po celém "
-"světě. Nežádáme o pravidelné finanční příspěvky, ale jsme samozřejmě závislí "
+"Ubports vznikl díky velkému počtu dobrovolníků z Vašeho okolí a z celého "
+"světa. Nežádáme o pravidelné finanční příspěvky, ale jsme samozřejmě závislí "
 "na Vaší finanční podpoře. Pokud se Vám projekt líbí a přejete si, aby byl "
-"úspěšný, zvažte <a href='https://paypal.me/ubports'>jednorázový</a> anebo <a "
-"href = 'https:/ /patreon.com/ubports'> pravidelný měsíční finanční "
-"příspěvek</a>. Velmi si ho ceníme a jsme si jisti, že budete mít radost z "
-"jeho přínosu a budete nadšení, že se na projektu také podílíte. Na oplátku "
-"Vám a všem členům projektu poskytneme férový servis v transparentním "
-"prostředí."
+"úspěšný, zvažte <a href='https://paypal.me/ubports'>jednorázový</a> nebo <a "
+"href = 'https:/ /patreon.com/ubports'>pravidelný měsíční</a> anebo <a "
+"href='https://liberapay.com/ubports'>týdenní</a> finanční příspěvek. Velmi "
+"si ho ceníme a jsme si jisti, že budete mít radost z jeho přínosu a budete "
+"nadšení, že se na projektu také podílíte. Na oplátku Vám a všem členům "
+"projektu poskytneme férový servis v transparentním prostředí."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
