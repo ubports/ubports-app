@@ -27,7 +27,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2017-12-11 19:44+0000\n"
+"PO-Revision-Date: 2017-12-11 20:08+0000\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: Spanish <https://translate.ubports.com/projects/ubports"
 "/ubports-app/es/>\n"
@@ -40,11 +40,11 @@ msgstr ""
 
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr "Acerca de la app"
+msgstr "Acerca de la aplicación"
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr "%1 App"
+msgstr "Aplicación %1"
 
 #: ../qml/About.qml:64
 msgid "Version: "
@@ -97,14 +97,14 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
-"Este programa es software libre: puede redistribuirlo o modificarlo bajo los "
-"términos de la Licencia Pública General GNU publicada por la Free Software "
-"Foundation, ya sea la versión 3 de la Licencia, o (a su elección) cualquier "
-"versión posterior. Este programa se distribuye con la esperanza de que sea "
-"útil, pero SIN NINGUNA GARANTÍA; sin la garantía implícita de "
-"COMERCIABILIDAD o ADECUACIÓN PARA UN PROPÓSITO PARTICULAR. Consulte la <a "
-"href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
-"License</a> para obtener más detalles."
+"Este programa es software libre: puede redistribuirlo y/o modificarlo bajo "
+"los términos de la licencia pública general GNU publicada por la Free "
+"Software Foundation, ya sea la versión 3 de la licencia o (a su elección) "
+"cualquier versión posterior. Este programa se distribuye con la esperanza de "
+"que sea útil, pero SIN NINGUNA GARANTÍA; ni siquiera la garantía implícita "
+"de COMERCIALIZACIÓN o ADECUACIÓN PARA UN PROPÓSITO PARTICULAR. Consulte la <"
+"a href='https://www.gnu.org/licenses/gpl-3.0.en.html'>licencia pública "
+"general GNU</a> para obtener más detalles."
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
@@ -128,7 +128,7 @@ msgstr "Mantenido por"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53 ../qml/Main.qml:32
 msgid "Welcome to %1!"
-msgstr "Bienvenido/a a %1!"
+msgstr "¡Bienvenido/a a %1!"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
