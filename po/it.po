@@ -27,8 +27,8 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2017-12-11 22:17+0000\n"
-"Last-Translator: Mike <miguel2000@livecom.it>\n"
+"PO-Revision-Date: 2017-12-11 22:36+0000\n"
+"Last-Translator: Stefano Melchior <stefano.melchior@me.com>\n"
 "Language-Team: Italian <https://translate.ubports.com/projects/ubports"
 "/ubports-app/it/>\n"
 "Language: it\n"
@@ -172,7 +172,6 @@ msgstr "Paghi cosa ritieni sia il giusto"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
-#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -190,10 +189,11 @@ msgstr ""
 "fisso, dipendiamo dal sostegno finanziario della comunità. Quindi, se ti "
 "piace Ubuntu Touch e vuoi che il progetto abbia successo, considera una <a "
 "href='https://paypal.me/ubports'> donazione singola </a> o <a href = 'https: "
-"/ /patreon.com/ubports'> mensile  </a>. Lo apprezziamo veramente e sappiamo "
-"che ti sentirai orgoglioso del tuo contributo ed entusiasta di partecipare. "
-"In cambio noi crediamo di poter offrire un servizio equo e trasparente verso "
-"tutti i membri del progetto."
+"/ /patreon.com/ubports'> mensile</a> o <a "
+"href='https://liberality.com/ubports'>settimanale</a>. Lo apprezziamo "
+"veramente e sappiamo che ti sentirai orgoglioso del tuo onesto contributo ed "
+"entusiasta di partecipare. In cambio, noi crediamo di poter offrire un "
+"servizio equo e trasparente verso tutti i membri del progetto."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
@@ -201,7 +201,6 @@ msgstr "Entra nel giro"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
-#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
@@ -209,7 +208,7 @@ msgid ""
 "newsletter</a> to stay in the loop."
 msgstr ""
 "Su questo siamo insieme. Come punto di partenza, controlla gli ultimi "
-"sviluppi, le notizie correlate e una miriade di altri aggiornamenti mirati a "
+"sviluppi, le notizie correlate e una miriade di altri aggiornamenti per "
 "migliorare l'esperienza. <a href='https://ubports.com/r/appsubscribe'>"
 "Iscriviti alla nostra newsletter</a> per entrare nel giro."
 
