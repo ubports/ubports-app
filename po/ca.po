@@ -27,10 +27,10 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2017-09-14 15:04+0000\n"
-"Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
-"Language-Team: Catalan <https://translate.ubports.com/projects/ubports/"
-"ubports-app/ca/>\n"
+"PO-Revision-Date: 2017-12-11 22:40+0000\n"
+"Last-Translator: Stefano Melchior <stefano.melchior@me.com>\n"
+"Language-Team: Catalan <https://translate.ubports.com/projects/ubports"
+"/ubports-app/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -173,7 +173,6 @@ msgstr "Pagueu el que és just"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
-#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -189,12 +188,13 @@ msgstr ""
 "L'UBports va ser creat i existeix gràcies a molts voluntaris a la comunitat "
 "a prop vostre i a tot el món. Tot i que no demanem una quota fixa, depenem "
 "del suport financer de la comunitat. Així que si us agrada el que veieu i "
-"voleu que el projecte tingui èxit, considereu fer una <a href='https://"
-"paypal.me/ubports'> donació individual </a> o <a href = 'https://patreon.com/"
-"ubports'>mensual</a>. Ho apreciem sincerament i sabem que us sentireu molt "
-"bé amb la vostra contribució i us entusiasmareu de participar-hi. A canvi, "
-"proporcionarem un bon servei i una oportunitat amb transparència a tots els "
-"membres del projecte."
+"voleu que el projecte tingui èxit, considereu fer una <a "
+"href='https://paypal.me/ubports'> donació individual </a> o <a href = "
+"'https://patreon.com/ubports'>mensual</a> o < "
+"href='https://liberapay.com/ubports'>setmanal </a>. Ho apreciem sincerament "
+"i sabem que us sentireu molt bé amb la vostra contribució i us entusiasmareu "
+"de participar-hi. A canvi, proporcionarem un bon servei i una oportunitat "
+"amb transparència a tots els membres del projecte."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
@@ -202,7 +202,6 @@ msgstr "Formeu part de la cadena"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
-#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
@@ -211,9 +210,9 @@ msgid ""
 msgstr ""
 "Estem junts en això. Com a punt de partida, manteniu-vos al dia sobre els "
 "últims desenvolupaments, notícies relacionades i un munt d'altres "
-"actualitzacions que milloren l'experiència.  <a href='https://ubports.com/r/"
-"appsubscribe'>Uniu-vos a la nostra llista de correu</a> per entrar a la "
-"cadena."
+"actualitzacions que milloren l'experiència.  <a "
+"href='https://ubports.com/r/appsubscribe'>Uniu-vos a la nostra llista de "
+"correu</a> per entrar a la cadena."
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
