@@ -26,8 +26,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-11 07:12+0000\n"
-"PO-Revision-Date: 2017-09-14 15:17+0000\n"
+"POT-Creation-Date: 2017-12-11 12:49+0000\n"
+"PO-Revision-Date: 2017-12-11 20:08+0000\n"
 "Last-Translator: advocatux <advocatux@airpost.net>\n"
 "Language-Team: Spanish <https://translate.ubports.com/projects/ubports"
 "/ubports-app/es/>\n"
@@ -38,126 +38,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.15\n"
 
-#. TRANSLATORS: Description of the menu item
-#: ../qml/modules/DefaultHeader.qml:37
-msgid "About"
-msgstr "Acerca de"
-
-#. TRANSLATORS: Description of the menu item
-#: ../qml/modules/DefaultHeader.qml:50
-msgid "Support Forum"
-msgstr "Foro de soporte"
-
-#. TRANSLATORS: Description of the menu item
-#: ../qml/modules/DefaultHeader.qml:55
-msgid "Get involved"
-msgstr "Involúcrese"
-
-#. TRANSLATORS: Description of the menu item
-#: ../qml/modules/DefaultHeader.qml:60
-msgid "Newsletter"
-msgstr "Boletín"
-
-#: ../qml/Home.qml:31 ../qml/Home.qml:53
-msgid "Welcome to %1!"
-msgstr "Bienvenido/a a %1!"
-
-#: ../qml/Home.qml:58
-msgid "We can change the future! Let's innovate and dream again."
-msgstr "¡Podemos cambiar el futuro! Vamos a innovar y soñar de nuevo."
-
-#: ../qml/Home.qml:63
-msgid ""
-"UBports builds the most private and innovative experience. It is limited in "
-"potential only by what you - the community member - can dream. Regain "
-"control of your device and personal data. You have choice and freedom with "
-"UBports."
-msgstr ""
-"UBports construye la experiencia más privada e innovadora. Su potencial "
-"queda solo limitado por lo que usted - miembro de la comunidad - pueda "
-"soñar. Recupere el control de su dispositivo y sus datos personales. Usted "
-"tiene la opción y la libertad con UBports."
-
-#: ../qml/Home.qml:67
-msgid "Pay what's fair"
-msgstr "Pague lo que es justo"
-
-#. TRANSLATORS: Please make sure the URLs are correct
-#: ../qml/Home.qml:73
-msgid ""
-"UBports was created and exists because of many volunteers in the community "
-"near you and all over the world. Although we don't ask for a fixed fee we do "
-"depend on financial support from the community. So if you like what you see "
-"and want to see the project succeed, please consider a <a href='https://"
-"paypal.me/ubports'>one-time</a> or <a href='https://patreon.com/"
-"ubports'>regular monthly donation</a>. We sincerely appreciate it and we "
-"know that you'll feel great about your fair contribution and be excited to "
-"particpate. In return, we believe in providing fair sevice and opportunity "
-"with transparency to all members of the project."
-msgstr ""
-"UBports fue creado y existe debido a muchos voluntarios en la comunidad "
-"cerca de usted y en todo el mundo. Aunque no pedimos una cuota fija, "
-"dependemos del apoyo financiero de la comunidad. Así que si le gusta lo que "
-"ve y quiere que el proyecto tenga éxito, considere hacer una <a "
-"href='https://paypal.me/ubports'>donación puntual</a> o <a href='https://"
-"patreon.com/ubports'>mensual</a>. Lo apreciamos sinceramente y sabemos que "
-"se sentirá muy bien con su contribución y se entusiasmará al participar. A "
-"cambio, proporcionaremos un buen servicio y una oportunidad con "
-"transparencia a todos los miembros del proyecto."
-
-#: ../qml/Home.qml:77
-msgid "Be more than a spectator - Become a game changer!"
-msgstr "¡Sea más que un espectador - Conviértase en un agente del cambio!"
-
-#. TRANSLATORS: Please make sure the URLs are correct
-#: ../qml/Home.qml:83
-msgid ""
-"With ubports you can actually change the things you don't like. Ever felt "
-"frustrated by a feature or a limitation or a weird layout? Get it changed! "
-"By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and "
-"sending feature requests</a> UBports will become the smartest platform "
-"you've ever experienced."
-msgstr ""
-"Con ubports puede cambiar las cosas que no le gustan. ¿Alguna vez se sintió "
-"frustrado por una característica, una limitación o un diseño extraño? "
-"¡Cámbielo! <a href='https://github.com/ubports/ubports-touch'>Informe de "
-"errores y envíe peticiones de nuevas características</a> UBports se "
-"convertirá en la plataforma más inteligente que haya experimentado."
-
-#: ../qml/Home.qml:87
-msgid "Get looped in"
-msgstr "Manténgase al tanto"
-
-#. TRANSLATORS: Please make sure the URLs are correct
-#: ../qml/Home.qml:93
-msgid ""
-"We are in this together. As a starting point, stay on top of the latest "
-"developments, related news and a whole bunch of other experience-enhancing "
-"updates. <a href='https://ubports.com/r/appsubscribe'>Join our mailing list</"
-"a> to get in the loop and stay in the loop."
-msgstr ""
-"Estamos en esto juntos. Como punto de partida, manténgase atento a los "
-"últimos desarrollos, noticias relacionadas y un montón de otras "
-"actualizaciones que mejoran la experiencia. <a href='https://ubports.com/r/"
-"appsubscribe'>Únase a nuestra lista de correo</a> para estar al tanto y "
-"mantenerse al tanto."
-
-#. TRANSLATORS: Please make sure the URLs are correct
-#: ../qml/Home.qml:98
-msgid ""
-"UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
-"awesome sponsors, donors and patrons</a>!"
-msgstr ""
-"¡UBports es posible gracias a <a href='https://ubports.com/"
-"sponsors'>nuestros formidables patrocinadores, donantes y mecenas</a>!"
-
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr "Acerca de la app"
+msgstr "Acerca de la aplicación"
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr "%1 App"
+msgstr "Aplicación %1"
 
 #: ../qml/About.qml:64
 msgid "Version: "
@@ -210,14 +97,14 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
-"Este programa es software libre: puede redistribuirlo o modificarlo bajo los "
-"términos de la Licencia Pública General GNU publicada por la Free Software "
-"Foundation, ya sea la versión 3 de la Licencia, o (a su elección) cualquier "
-"versión posterior. Este programa se distribuye con la esperanza de que sea "
-"útil, pero SIN NINGUNA GARANTÍA; sin la garantía implícita de "
-"COMERCIABILIDAD o ADECUACIÓN PARA UN PROPÓSITO PARTICULAR. Consulte la <a "
-"href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
-"License</a> para obtener más detalles."
+"Este programa es software libre: puede redistribuirlo y/o modificarlo bajo "
+"los términos de la licencia pública general GNU publicada por la Free "
+"Software Foundation, ya sea la versión 3 de la licencia o (a su elección) "
+"cualquier versión posterior. Este programa se distribuye con la esperanza de "
+"que sea útil, pero SIN NINGUNA GARANTÍA; ni siquiera la garantía implícita "
+"de COMERCIALIZACIÓN o ADECUACIÓN PARA UN PROPÓSITO PARTICULAR. Consulte la <"
+"a href='https://www.gnu.org/licenses/gpl-3.0.en.html'>licencia pública "
+"general GNU</a> para obtener más detalles."
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
@@ -231,13 +118,129 @@ msgstr "CUESTIONES"
 msgid "DONATE"
 msgstr "DONAR"
 
-#: ../qml/About.qml:86
+#: ../qml/About.qml:85
 msgid "Copyright (c) 2017 UBports <ubports.com>"
 msgstr "Copyright (c) 2017 UBports <ubports.com>"
 
-#: ../qml/About.qml:91
+#: ../qml/About.qml:89
 msgid "Maintained by"
 msgstr "Mantenido por"
+
+#: ../qml/Home.qml:31 ../qml/Home.qml:53 ../qml/Main.qml:32
+msgid "Welcome to %1!"
+msgstr "¡Bienvenido/a a %1!"
+
+#: ../qml/Home.qml:58
+msgid "We can change the future! Let's innovate and dream again."
+msgstr "¡Podemos cambiar el futuro! Vamos a innovar y soñar de nuevo."
+
+#: ../qml/Home.qml:63
+msgid ""
+"UBports builds the most private and innovative experience. It is limited in "
+"potential only by what you - the community member - can dream. Regain "
+"control of your device and personal data. You have choice and freedom with "
+"UBports."
+msgstr ""
+"UBports construye la experiencia más privada e innovadora. Su potencial "
+"queda solo limitado por lo que usted - miembro de la comunidad - pueda "
+"soñar. Recupere el control de su dispositivo y sus datos personales. Usted "
+"tiene la opción y la libertad con UBports."
+
+#: ../qml/Home.qml:67
+msgid "Be more than a spectator - Become a game changer!"
+msgstr "¡Sea más que un espectador - Conviértase en un agente del cambio!"
+
+#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+#: ../qml/Home.qml:73
+msgid ""
+"With ubports you can actually change the things you don't like. Ever felt "
+"frustrated by a feature or a limitation or a weird layout? Get it changed! "
+"By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and "
+"sending feature requests</a> UBports will become the smartest platform "
+"you've ever experienced."
+msgstr ""
+"Con ubports puede cambiar las cosas que no le gustan. ¿Alguna vez se sintió "
+"frustrado por una característica, una limitación o un diseño extraño? "
+"¡Cámbielo! <a href='https://github.com/ubports/ubports-touch'>Informe de "
+"errores y envíe peticiones de nuevas características</a> UBports se "
+"convertirá en la plataforma más inteligente que haya experimentado."
+
+#: ../qml/Home.qml:77
+msgid "Pay what's fair"
+msgstr "Pague lo que es justo"
+
+#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+#: ../qml/Home.qml:83
+msgid ""
+"UBports was created and exists because of many volunteers in the community "
+"near you and all over the world. Although we don't ask for a fixed fee we do "
+"depend on financial support from the community. So if you like Ubuntu Touch "
+"and want to see the project succeed, please consider a <a href='https://"
+"paypal.me/ubports'>one-time</a> or <a href='https://patreon.com/"
+"ubports'>regular monthly</a> or <a href='https://liberapay.com/"
+"ubports'>weekly</a> donation. We sincerely appreciate it and we know that "
+"you'll feel great about your fair contribution and be excited to particpate. "
+"In return, we believe in providing fair sevice and opportunity with "
+"transparency to all members of the project."
+msgstr ""
+"UBports fue creado y existe debido a muchos voluntarios en la comunidad "
+"cerca de usted y en todo el mundo. Aunque no pedimos una cuota fija, "
+"dependemos del apoyo financiero de la comunidad. Así que si le gusta Ubuntu "
+"Touch y quiere que el proyecto tenga éxito, considere hacer una <a "
+"href='https://paypal.me/ubports'>donación puntual</a> o <a "
+"href='https://patreon.com/ubports'>mensual</a> o <a "
+"href='https://liberapay.com/ubports'>semanalmente</a>. Lo apreciamos "
+"sinceramente y sabemos que se sentirá muy bien con su contribución y se "
+"entusiasmará al participar. A cambio, nosotros creemos en proporcionar un "
+"buen servicio y oportunidad con transparencia a todos los miembros del "
+"proyecto."
+
+#: ../qml/Home.qml:87
+msgid "Get looped in"
+msgstr "Manténgase al tanto"
+
+#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+#: ../qml/Home.qml:93
+msgid ""
+"We are in this together. As a starting point, stay on top of the latest "
+"developments, related news and a whole bunch of other experience-enhancing "
+"updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail "
+"newsletter</a> to stay in the loop."
+msgstr ""
+"Estamos en esto juntos. Como punto de partida, manténgase informado de los "
+"últimos desarrollos, noticias relacionadas y un montón de otras "
+"actualizaciones que mejoran la experiencia. <a "
+"href='https://ubports.com/r/appsubscribe'>Únase a nuestra lista de correo</a>"
+" para estar al tanto."
+
+#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+#: ../qml/Home.qml:98
+msgid ""
+"UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
+"awesome sponsors, donors and patrons</a>!"
+msgstr ""
+"¡UBports es posible gracias a <a href='https://ubports.com/"
+"sponsors'>nuestros formidables patrocinadores, donantes y mecenas</a>!"
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/modules/DefaultHeader.qml:37
+msgid "About"
+msgstr "Acerca de"
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/modules/DefaultHeader.qml:50
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/modules/DefaultHeader.qml:55
+msgid "Get involved"
+msgstr "Involúcrese"
+
+#. TRANSLATORS: Description of the menu item
+#: ../qml/modules/DefaultHeader.qml:60
+msgid "Newsletter"
+msgstr "Boletín"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
