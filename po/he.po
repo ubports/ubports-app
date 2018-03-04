@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2017-07-28 18:02+0000\n"
-"Last-Translator: ido roi engel <idoroiengel@hotmail.com>\n"
-"Language-Team: Hebrew <https://ubpweblate.tnvcomp.com/projects/ubports/"
-"ubports-app/he/>\n"
+"PO-Revision-Date: 2018-03-02 09:51+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <https://translate.ubports.com/projects/ubports"
+"/ubports-app/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,18 +21,17 @@ msgstr ""
 
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr ""
+msgstr "על אודות היישומון"
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr ""
+msgstr "יישומון %1"
 
 #: ../qml/About.qml:64
 msgid "Version: "
-msgstr "גירסאה: "
+msgstr "גרסה: "
 
 #: ../qml/About.qml:68
-#, fuzzy
 msgid ""
 "UBports is an international community of developers and users who wish to "
 "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
@@ -42,11 +41,11 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
-"UBports זאת קהילה בינלאומית של מפתחים ומשתמשים אשר  רוצים לשמור על Ubuntu "
-"Touch חיה. הפרויקט נוצר ע\"י Marius Gripsgard בשנת 2015 כמקום שיאפשר למפתחים "
-"לדון וללמוד  אחד מהשני וכצוות לעזור אובונטו להגיע ליותר מכשירים. אחרי ש "
-"Canonical הודיעה על הסרת התמיכה שלהם ב Ubuntu Touch,  הקהילה לקחה  את מערכת "
-"ההפעלה תחת כנפה ומאז הקהילה גדלה בקצב מהיר ביותר."
+"UBports זאת קהילה בינלאומית של מפתחים ומשתמשים שרוצים לשמור על Ubuntu Touch "
+"פעילה. הפרויקט נוצר ע״י Marius Gripsgard בשנת 2015 כמקום שיאפשר למפתחים לדון "
+"וללמוד אחד מהשני וכצוות לעזור אובונטו להגיע ליותר מכשירים. לאחר ש־Canonical "
+"הודיעה על הסרת התמיכה שלהם ב־Ubuntu Touch, לקחה הקהילה את מערכת ההפעלה תחת "
+"חסותה ומאז הקהילה גדלה בקצב מהיר ביותר."
 
 #: ../qml/About.qml:72
 #, fuzzy
@@ -90,18 +89,16 @@ msgid "DONATE"
 msgstr ""
 
 #: ../qml/About.qml:85
-#, fuzzy
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr "Copyright (c) 2017 UBports <ubports.com>"
+msgstr "כל הזכויות שמורות (c) 2017 ל־UBports‏ <ubports.com>"
 
 #: ../qml/About.qml:89
 msgid "Maintained by"
-msgstr ""
+msgstr "מתחזקים"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53 ../qml/Main.qml:32
-#, fuzzy
 msgid "Welcome to %1!"
-msgstr "ברוכים הבאים ל UBports!"
+msgstr "ברוך בואך ל־UBports!"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
@@ -193,7 +190,7 @@ msgstr ""
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr "אודות"
+msgstr "על אודות"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
@@ -203,15 +200,14 @@ msgstr "פורום תמיכה"
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:55
 msgid "Get involved"
-msgstr ""
+msgstr "איפה מתחילים"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:60
 msgid "Newsletter"
-msgstr ""
+msgstr "דיוור"
 
 #: com.ubuntu.ubports.desktop.in.h:1
-#, fuzzy
 msgid "UBports"
 msgstr "UBports"
 
