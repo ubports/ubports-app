@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-03-02 09:51+0000\n"
+"PO-Revision-Date: 2018-03-04 20:23+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://translate.ubports.com/projects/ubports"
 "/ubports-app/he/>\n"
@@ -78,15 +78,15 @@ msgstr ""
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
-msgstr ""
+msgstr "מקור"
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
-msgstr ""
+msgstr "תקלות"
 
 #: ../qml/About.qml:81
 msgid "DONATE"
-msgstr ""
+msgstr "תרומה"
 
 #: ../qml/About.qml:85
 msgid "Copyright (c) 2017 UBports <ubports.com>"
