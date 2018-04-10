@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2017-09-22 05:17+0000\n"
+"PO-Revision-Date: 2018-04-10 08:10+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
-"Language-Team: Finnish <https://translate.ubports.com/projects/ubports/"
-"ubports-app/fi/>\n"
+"Language-Team: Finnish <https://translate.ubports.com/projects/ubports"
+"/ubports-app/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -145,7 +145,6 @@ msgstr "Maksa omantunnon mukaan"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
-#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -160,10 +159,11 @@ msgid ""
 msgstr ""
 "UBports perustettiin ja on olemassa yhteisön vapaaehtoisten ansiosta. Vaikka "
 "emme pyydä kiinteää maksua, olemme silti riippuvaisia yhteisön rahallisesta "
-"tuesta. Jos siis pidät siitä, mitä näet ja haluat nähdä projektin "
-"onnistuvan, harkitse <a href='https://paypal.me/ubports'> kertalahjoitusta</"
-"a> tai <a href='https://patreon.com/ubports'>kuukausittaista lahjoitusta</"
-"a>. Arvostamme sitä vilpittömästi, ja tiedämme, että tunnet suurta "
+"tuesta. Jos siis pidät Ubuntu Touchista, ja haluat nähdä projektin "
+"onnistuvan, harkitse <a href='https://paypal.me/ubports'>kertalahjoitusta</a>"
+" tai <a href='https://patreon.com/ubports'>kuukausittaista</a> tai <a "
+"href='https://liberapay.com/ubports'>viikottaista</a> lahjoitusta. "
+"Arvostamme lahjoituksia vilpittömästi, ja tiedämme, että tunnet suurta "
 "mielihyvää panoksestasi ja osallistumisestasi. Vastineeksi uskomme "
 "tarjoavamme takaisin oikeudenmukaista palvelua ja mahdollisuuksia kaikille "
 "projektiin osallistuville."
@@ -174,7 +174,6 @@ msgstr "Hyppää mukaan"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
-#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
@@ -182,9 +181,9 @@ msgid ""
 "newsletter</a> to stay in the loop."
 msgstr ""
 "Olemme kaikki tässä yhdessä. Pysy perillä ohjelmistokehityksen uusimmista "
-"käänteistä ja muista kokemusta parantavista päivityksistä. <a href='https://"
-"ubports.com/r/appsubscribe'>Liity postituslistallemme</a> pysyäksesi ajan "
-"tasalla."
+"käänteistä ja muista kokemusta parantavista päivityksistä. <a "
+"href='https://ubports.com/r/appsubscribe'>Liity postituslistallemme</a> "
+"pysyäksesi ajan tasalla."
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
