@@ -8,28 +8,25 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-04-10 08:10+0000\n"
-"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
-"Language-Team: Finnish <https://translate.ubports.com/projects/ubports"
-"/ubports-app/fi/>\n"
-"Language: fi\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.15\n"
 
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr "Tietoja sovelluksesta"
+msgstr ""
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr "%1-sovellus"
+msgstr ""
 
 #: ../qml/About.qml:64
 msgid "Version: "
-msgstr "Versio: "
+msgstr ""
 
 #: ../qml/About.qml:68
 msgid ""
@@ -41,13 +38,6 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
-"UBports on kansainvälinen yhteisö kehittäjiä ja käyttäjiä, jotka haluavat "
-"pitää Ubuntu Touchin elossa. Projektin perusti Marius Gripsgard vuonna 2015, "
-"tavoitteena oli yhdistää kehittäjät ja tuoda Ubuntu yhä useammalle "
-"laitteelle yhteisvoimin. Kun Canonical ilmoitti lopettavansa tuen Ubuntu "
-"Touchille, yhteisö otti vastuun käyttöjärjestelmän kehittämisestä ja "
-"ylläpitämisestä. Vastaanotto on ollut myötämielistä ja yhteisö kasvaa "
-"jatkuvasti."
 
 #: ../qml/About.qml:72
 msgid ""
@@ -58,13 +48,6 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
-"Tavoitteemme on pitää Ubuntu Touch käytettävänä kaikilla tällä hetkellä "
-"tuetuilla laitteilla. Haluamme muokata Ubuntu Touchia vastaamaan "
-"päivittäisiä tarpeitamme, mutta samalla pitää käytössä hyväksi todetut "
-"toiminnot. Ubuntu on Linux ihmisille, ja Ubuntu Touch tuo tämän "
-"ajatusmaailman mobiililaitteille. Haluamme luoda Ubuntu Touchista todellisen "
-"Linux-jakelun mobiililaitteille samalla säilyttäen yksinkertaisen ja "
-"nykyaikaisen designin."
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
@@ -81,31 +64,31 @@ msgstr ""
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
-msgstr "LÄHDE"
+msgstr ""
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
-msgstr "ONGELMAT"
+msgstr ""
 
 #: ../qml/About.qml:81
 msgid "DONATE"
-msgstr "LAHJOITA"
+msgstr ""
 
 #: ../qml/About.qml:85
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr "Tekijänoikeus (c) 2017 UBports <ubports.com>"
+msgstr ""
 
 #: ../qml/About.qml:89
 msgid "Maintained by"
-msgstr "Ylläpitäjä"
+msgstr ""
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53 ../qml/Main.qml:32
 msgid "Welcome to %1!"
-msgstr "Tervetuloa %1iin!"
+msgstr ""
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "Voimme muuttaa tulevaisuutta! Innovoidaan ja unelmoidaan jälleen."
+msgstr ""
 
 #: ../qml/Home.qml:63
 msgid ""
@@ -114,15 +97,10 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
-"Ubports rakentaa turvallisinta ja innovatiivisinta kokemusta. Se rajoittuu "
-"ainoastaan siihen mistä sinä - yhteisön jäsen - voit unelmoida. Ota takaisin "
-"täysi hallinta laitteeseesi ja henkilökohtaisiin tietoihisi. Sinulla on "
-"vapaus valita UBportsin kanssa."
 
 #: ../qml/Home.qml:67
 msgid "Be more than a spectator - Become a game changer!"
 msgstr ""
-"Ole enemmän kuin pelkkä sivustakatsoja - ryhdy merkittäväksi vaikuttajaksi!"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:73
@@ -133,15 +111,10 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
-"Ubportsin avulla voit itse muuttaa asioita, joista et pidä. Oletko koskaan "
-"ollut turhautunut jonkin ominaisuuden, rajoituksen tai ulkoasun takia? Nyt "
-"se on mahdollista muuttaa! Ilmoita tänne <a href='https://github.com/ubports/"
-"ubports-touch'>löytämäsi viat ja pyynnöt lisäominaisuuksista</a>. "
-"UBportsista tulee älykkäin alusta, jonka olet ikinä päässyt kokemaan."
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
-msgstr "Maksa omantunnon mukaan"
+msgstr ""
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
@@ -157,20 +130,10 @@ msgid ""
 "In return, we believe in providing fair sevice and opportunity with "
 "transparency to all members of the project."
 msgstr ""
-"UBports perustettiin ja on olemassa yhteisön vapaaehtoisten ansiosta. Vaikka "
-"emme pyydä kiinteää maksua, olemme silti riippuvaisia yhteisön rahallisesta "
-"tuesta. Jos siis pidät Ubuntu Touchista, ja haluat nähdä projektin "
-"onnistuvan, harkitse <a href='https://paypal.me/ubports'>kertalahjoitusta</a>"
-" tai <a href='https://patreon.com/ubports'>kuukausittaista</a> tai <a "
-"href='https://liberapay.com/ubports'>viikottaista</a> lahjoitusta. "
-"Arvostamme lahjoituksia vilpittömästi, ja tiedämme, että tunnet suurta "
-"mielihyvää panoksestasi ja osallistumisestasi. Vastineeksi uskomme "
-"tarjoavamme takaisin oikeudenmukaista palvelua ja mahdollisuuksia kaikille "
-"projektiin osallistuville."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
-msgstr "Hyppää mukaan"
+msgstr ""
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
@@ -180,10 +143,6 @@ msgid ""
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail "
 "newsletter</a> to stay in the loop."
 msgstr ""
-"Olemme kaikki tässä yhdessä. Pysy perillä ohjelmistokehityksen uusimmista "
-"käänteistä ja muista kokemusta parantavista päivityksistä. <a "
-"href='https://ubports.com/r/appsubscribe'>Liity postituslistallemme</a> "
-"pysyäksesi ajan tasalla."
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
@@ -191,35 +150,27 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
-"UBportsin toiminnan mahdollistavat <a href='https://ubports.com/"
-"sponsors'>mahtavat sponsorit, lahjoittajat ja patronit</a>!"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr "Tietoja"
+msgstr ""
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
 msgid "Support Forum"
-msgstr "Tukipalsta"
+msgstr ""
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:55
 msgid "Get involved"
-msgstr "Tule mukaan"
+msgstr ""
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:60
 msgid "Newsletter"
-msgstr "Uutiskirje"
+msgstr ""
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr "UBports"
-
-#~ msgid "Welcome to UBports!"
-#~ msgstr "Tervetuloa UBportsiin!"
-
-#~ msgid "UBports App"
-#~ msgstr "Ubports-sovellus"
+msgstr ""
