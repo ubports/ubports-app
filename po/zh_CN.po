@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-01-07 08:24+0000\n"
-"Last-Translator: Mutse Young <yyhoo2.young@gmail.com>\n"
+"PO-Revision-Date: 2018-05-01 17:27+0000\n"
+"Last-Translator: Hugh Y <hugh_yan@live.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<https://translate.ubports.com/projects/ubports/ubports-app/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -42,10 +42,9 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
-"UBports 是一个开发者和用户的国际社区，旨在能让 Ubuntu Touch 保持活力。该项目"
-"由 Marius Gripsgard 于2015年创建，作为一个开发者可以互相讨论和学习的地方，并"
-"帮助把 Ubuntu 带入更多的设备。在 Canonical 宣布他们停止对 Ubuntu Touch 的支持"
-"后，这个操作系统被社区所接受。反响非常好，使得我们的社区发展迅速。"
+"UBports 是一个开发者和用户的国际社区，旨在能让 Ubuntu Touch 保持活力。该项目由 Marius Gripsgard "
+"于2015年创建，开发者可以在此互相讨论学习，并帮助把 Ubuntu 带入更多的设备。在 Canonical 宣布他们停止对 Ubuntu Touch "
+"的支持后，这个操作系统被社区接手。反响一向很好，我们的社区也正迅速发展。"
 
 #: ../qml/About.qml:72
 msgid ""
@@ -56,10 +55,9 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
-"我们的目标是让 Ubuntu Touch 在所有现有的设备上保持活跃。在保持所有好的和漂亮"
-"的部分的同时，我们想要重塑 Ubuntu Touch，使它成为我们日常想要使用的操作系统。"
-"Ubuntu 是人类的 Linux，Ubuntu Touch 把这种精神带到了移动设备上。我们想要把 "
-"Ubuntu Touch 变成真正的Linux 发行版，同时保持其简单而优雅的设计。"
+"我们的目标是让 Ubuntu Touch 在所有现有的设备上保持活跃。在保持所有优越成分的同时，我们想要重塑 Ubuntu "
+"Touch，使它成为我们日常想要使用的操作系统。Ubuntu 是人类的 Linux，Ubuntu Touch 把这种精神带到了移动设备上。我们想要把 "
+"Ubuntu Touch 变成移动设备上真正的Linux 发行版，同时保持其简单而优雅的设计。"
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
@@ -103,7 +101,7 @@ msgstr "欢迎来到 %1！"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "我们能够改变未来！让我们再次创新和梦想。"
+msgstr "我们能够改变未来！让我们再次创想展望。"
 
 #: ../qml/Home.qml:63
 msgid ""
@@ -112,12 +110,12 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
-"UBports 构建了最隐私和创新的体验。它的潜力有限，只有您-社区成员，才能梦想。重"
-"新控制你的设备和个人资料。您有选择和自由使用 UBports。"
+"UBports 旨在构建最隐私和创新的体验。您，社区成员梦想的边界即是它潜力的边界。重新控制你的设备和个人资料。您有选择和自由使用 UBports。"
 
 #: ../qml/Home.qml:67
+#, fuzzy
 msgid "Be more than a spectator - Become a game changer!"
-msgstr "不仅仅是一名观众，更是成为一名游戏的改变者！"
+msgstr "驻足旁观不如扭转乾坤！"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:73
@@ -128,9 +126,9 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
-"有了 ubports 你就可以改变你不喜欢的东西。是否曾经受到功能的限制或奇怪的布局而"
-"沮丧？改变它！通过<a href='https://github.com/ubports/ubports-touch'>反馈错误"
-"报告或发送新功能建议</a> UBports将会成为您经历过的最智能的平台。"
+"有了 ubports 你就可以改变你不喜欢的东西。是否曾经因功能的限制或奇怪的布局而沮丧？改变它！通过<a "
+"href='https://github.com/ubports/ubports-touch'>反馈错误报告或发送新功能建议</a> "
+"UBports将会成为您所经历的最智能的平台。"
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
@@ -185,6 +183,7 @@ msgstr ""
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
+#, fuzzy
 msgid "About"
 msgstr "关于"
 

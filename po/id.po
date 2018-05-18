@@ -8,29 +8,28 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-05-06 19:28+0000\n"
-"Last-Translator: Daniel Frańczak <danielfranczak5@wp.pl>\n"
-"Language-Team: Polish <https://translate.ubports.com/projects/ubports"
-"/ubports-app/pl/>\n"
-"Language: pl\n"
+"PO-Revision-Date: 2018-05-09 08:12+0000\n"
+"Last-Translator: Dito Kurnia P <ditokpl@gmail.com>\n"
+"Language-Team: Indonesian <https://translate.ubports.com/projects/ubports"
+"/ubports-app/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2.15\n"
 
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr "Informacje o aplikacji"
+msgstr "Tentang Aplikasi"
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr "%1 Aplikacja"
+msgstr "%1 Aplikasi"
 
 #: ../qml/About.qml:64
 msgid "Version: "
-msgstr "Wersja: "
+msgstr "Versi: "
 
 #: ../qml/About.qml:68
 msgid ""
@@ -42,13 +41,13 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
-"UBports jest międzynarodową społecznością deweloperów i użytkowników, którzy "
-"chcą utrzymać Ubuntu Touch przy życiu. Projekt został założony przez Mariusa "
-"Gripsgarda w 2015 roku jako miejsce, w którym programiści mogą rozmawiać i "
-"uczyć się od siebie nawzajem i pomagać w dostarczaniu Ubuntu więcej urządzeń "
-"jako zespołu. Po ogłoszeniu przez Canonical zakończenia wsparcia dla Ubuntu "
-"Touch, system operacyjny został odebrany przez społeczność. Rezonans był "
-"fantastyczny, a nasza społeczność szybko rośnie."
+"UBports merupakan komunitas developer dan pengguna internasional  yang ingin "
+"Ubuntu Touch tetap hidup. Proyek ini didirikan oleh Marius Gripsgard pada "
+"tahun 2015 sebagai tempat dimana developer bisa berbicara dan belajar dari "
+"orang lain dan membantu membawa Ubuntu ke lebih banyak perangkat sebagai "
+"tim. Setelah Canonical mengumumkan akhir dukungannya untuk Ubuntu Touch, "
+"sistem operasinya diambil oleh komunitas. Resonansinya sangat fantastis dan "
+"komunitas kami berkembang pesat."
 
 #: ../qml/About.qml:72
 msgid ""
@@ -59,13 +58,13 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
-"Naszym celem jest utrzymanie Ubuntu Touch na wszystkich istniejących "
-"urządzeniach. Zachowując wszystkie swoje dobre i piękne części, chcemy "
-"zmieniać strukturę Ubuntu Touch, aby uczynić ją systemem operacyjnym, z "
-"którego chcemy korzystać codziennie. Ubuntu to Linux dla ludzi, a Ubuntu "
-"Touch wprowadza ten duch na urządzenia przenośne. Chcemy, aby Ubuntu Touch "
-"stał się prawdziwą dystrybucją Linuksa dla urządzeń przenośnych, zachowując "
-"prosty i elegancki wygląd."
+"Ini tujuan kami untuk terus membuat Ubuntu Touch hidup pada perangkat yang "
+"tersedia. Sambil menjaga semua bagian yang baik dan yang indah, kami ingin "
+"membentuk kembali Ubuntu Touch untuk membuat sistem operasi yang kita mau "
+"pakai untuk kehidupan sehari-hari. Ubuntu adalah Linux untuk manusia dan "
+"Ubuntu Touch membawa semangat ini ke perangkat seluler. Kami ingin membuat "
+"Ubuntu Touch menjadi distribusi LInux yang sebenarnya untuk perangkat "
+"seluler, sambil menjaga tampilannya yang sedehara dan elegan."
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
@@ -79,42 +78,42 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
-"Ten program jest wolnym oprogramowaniem: możesz go redystrybuować i "
-"modyfikować zgodnie z warunkami GNU General Public License opublikowanymi "
-"przez Free Software Foundation, wersją 3 licencji lub (dowolną inną wersją). "
-"Ten program jest rozpowszechniany w nadziei, że będzie to przydatne, ale BEZ "
-"ŻADNEJ GWARANCJI; bez nawet domniemanej gwarancji SPRZEDAWANIA lub "
-"PRZYDATNOŚCI DO OKREŚLONEGO CELU. Szczegółowe informacje można znaleźć w <a "
-"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> General Public Licence "
-"GNU </a>."
+"Program ini merupakan program gratis: Anda dapat menyebarkannya dan/atau "
+"memodifikasinya dibawah lisensi GNU General Public License yang "
+"dipublikasikan oleh Free Software Foundation, baik versi 3 dari Lisensinya, "
+"atau (sesuai pilihan Anda) versi yang lebih baru. Program ini "
+"didistribusikan dengan harapan akan bermanfaat, tetapi TANPA JAMINAN APAPUN; "
+"tanpa jaminan garansi DAPAT DIPERDAGANGKAN atau KESESUAIAN UNTUK TUJUAN "
+"TERTENTU. Lihat <a href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU "
+"General Public License</a> untuk info selengkapnya."
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
-msgstr "ŹRÓDŁO"
+msgstr "KODE SUMBER"
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
-msgstr "PROBLEMY"
+msgstr "MASALAH"
 
 #: ../qml/About.qml:81
 msgid "DONATE"
-msgstr "DAROWIZNA"
+msgstr "DONASI"
 
 #: ../qml/About.qml:85
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr "Copyright (c) 2017 UBports <ubports.com>"
+msgstr "Hak Cipta (c) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:89
 msgid "Maintained by"
-msgstr "Utrzymywane przez"
+msgstr "Dikelola oleh"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53 ../qml/Main.qml:32
 msgid "Welcome to %1!"
-msgstr "Witamy w %1!"
+msgstr "Selamat Datang di %1!"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "Możemy zmienić przyszłość! Bądźmy innowacyjni i marzmy znowu."
+msgstr "Kita dapat merubah masa depan! Mari berinovasi dan bermimpi lagi."
 
 #: ../qml/Home.qml:63
 msgid ""
@@ -123,14 +122,14 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
-"UBports buduje najbardziej prywatne i innowacyjne doświadczenia. Jest to "
-"ograniczone potencjałem tylko tego, co ty - członek społeczności - może "
-"marzyć. Odzyskaj kontrolę nad Twoim urządzeniem i danymi osobowymi. Masz "
-"wybór i wolność z UBports."
+"UBports membangun pengalaman yang paling tersendiri dan inovatif. Ini "
+"terbatas dalam potensi hanya dengan apa yang Anda - anggota komunitas - "
+"dapat impikan. Dapatkan kembali kontrol perangkat dan data pribadi Anda. "
+"Anda memiliki pilihan dan kebebasan dengan UBports."
 
 #: ../qml/Home.qml:67
 msgid "Be more than a spectator - Become a game changer!"
-msgstr "Bądź czymś więcej niż widzem - Zostań zmieniającym grę!"
+msgstr "Lebih dari sekedar penonton - Jadilah pengubah permainan!"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:73
@@ -141,15 +140,15 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
-"Z ubports można rzeczywiście zmienić rzeczy, które nie lubisz. Czy czułeś "
-"się sfrustrowany przez cechę, ograniczenie lub dziwny układ? Zmień to! Przez "
-"<a href='https://github.com/ubports/ubports-touch'> zgłaszanie błędów i "
-"wysyłanie żądań funkcji </a> UBports stanie się najmądrzejszą platformą, "
-"jakiej doświadczyłeś."
+"Dengan ubports Anda dapat merubah sesuatu yang tidak Anda sukai. Pernah "
+"merasa frustrasi dengan fitur atau batasan atau tampilan yang aneh? Rubahlah "
+"itu! Oleh <a href='https://github.com/ubports/ubports-touch'>laporkan bugs "
+"dan kirim permintaan fitur</a> UBports akan menjadi platform paling cerdas "
+"yang pernah Anda alami."
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
-msgstr "Zapłacić co jest uczciwe"
+msgstr "Bayar apa yang adil"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
@@ -165,20 +164,21 @@ msgid ""
 "In return, we believe in providing fair sevice and opportunity with "
 "transparency to all members of the project."
 msgstr ""
-"UBport został stworzony i istnieje dzięki wielu wolontariuszom w "
-"społeczności blisko Ciebie i na całym świecie. Chociaż nie wymagamy stałej "
-"opłaty, zależy to od wsparcia finansowego ze strony społeczności. Więc jeśli "
-"podoba Ci się Ubuntu Touch i chcesz zobaczyć, że projekt się powiedzie, "
-"rozważ  <a href='https://paypal.me/ubports'> jednorazowe </a> lub <a href = "
-"'https: / /patreon.com/ubports '> regularne comiesięczne </a> lub <a "
-"href='https://liberapay.com/ubports'> cotygodniową </a>darowiznę . Szczerze "
-"to doceniamy i wiemy, że poczujesz się wspaniale w kwestii uczciwego wkładu "
-"i będziesz podekscytowany uczestnictwem. W zamian za to zapewniamy uczciwą "
-"obsługę i możliwość przejrzystości wszystkim uczestnikom projektu."
+"UBports diciptakan dan ada karena banyak sukarelawan di komunitas dekat Anda "
+"dan di seluruh dunia. Meskipun kami tidak meminta biaya tetap, kami "
+"bergantung pada dukungan keuangan dari komunitas. Jadi jika Anda menyukai "
+"Ubuntu Touch dan ingin melihat proyek ini sukses, tolong pertimbangkan "
+"donasi <a href='https://paypal.me/ubports'>sekali</a> atau <a "
+"href='https://patreon.com/ubports'>setiap bulan</a> atau <a "
+"href='https://liberapay.com/ubports'>setiap minggu</a>. Kami sangat "
+"menghargai itu dan kami tahu bahwa Anda akan merasa hebat tentang kontribusi "
+"adil Anda dan bersemangat untuk berpartisipasi. Sebagai imbalannya, kami "
+"percaya dalam menyediakan pelayanan yang adil dan kesempatan dengan "
+"transparansi kepada semua anggota proyek."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
-msgstr "Wpadnij"
+msgstr "Dapatkan dilingkarkan"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
@@ -188,10 +188,10 @@ msgid ""
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail "
 "newsletter</a> to stay in the loop."
 msgstr ""
-"Jesteśmy w tym razem. Jako punkt wyjścia, bądź na bieżąco z najnowszymi "
-"osiągnięciami, wiadomościami pokrewnymi i całą masą innych aktualizacji "
-"wzbogacających doświadczenie. <a href='https://ubports.com/r/appsubscribe'> "
-"Dołącz do naszego biuletynu e-mail. </a>, aby pozostać w pętli."
+"Kita disini bersama. Sebagai titik awal, tetap ikuti perkembangan terbaru, "
+"berita terkait, dan sejumlah pembaruan peningkatan pengalaman lainnya. <a "
+"href='https://ubports.com/r/appsubscribe'>Gabung dengan buletin surel "
+"kami</a> untuk tetap berada dalam lingkaran."
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
@@ -199,28 +199,28 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
-"UBports jest możliwe dzięki <a href='https://ubports.com/sponsors'> naszym "
-"niesamowitym sponsorom, dawcom i patronom </a>!"
+"UBports bisa dibuat karena dukungan<a href='https://ubports.com/sponsors'>"
+"sponsor, donor, dan patron yang keren</a>!"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr "Informacje"
+msgstr "Tentang"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
 msgid "Support Forum"
-msgstr "Forum pomocy"
+msgstr "Forum Dukungan"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:55
 msgid "Get involved"
-msgstr "Zaangażuj się"
+msgstr "Terlibat"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:60
 msgid "Newsletter"
-msgstr "Biuletyn"
+msgstr "Buletin Berita"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
