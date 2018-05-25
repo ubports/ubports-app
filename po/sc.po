@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-05-25 10:41+0000\n"
-"Last-Translator: Flavia <flavia.efloris@gmail.com>\n"
+"PO-Revision-Date: 2018-05-25 10:48+0000\n"
+"Last-Translator: Matteo Mandis <mandismatteo@gmail.com>\n"
 "Language-Team: Sardinian <https://translate.ubports.com/projects/ubports"
 "/ubports-app/sc/>\n"
 "Language: sc\n"
@@ -124,10 +124,14 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
+"UBports costruet s'esperièntzia prus personale e originale. S'ùnicu lìmite "
+"de su potentziale suo est su chi tue - membru de sa comunidade - podes "
+"bisare. Recùpera su controllu de su dispositivu e de is datos personales. "
+"Cun UBports podes seberare e èssere lìberu."
 
 #: ../qml/Home.qml:67
 msgid "Be more than a spectator - Become a game changer!"
-msgstr "Non sias isceti un'ispetadore - Diveni s'autore de sa cambiada!"
+msgstr "Non sias isceti un'ispetadore - Fai-ti s'autore de sa cambiada!"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:73
