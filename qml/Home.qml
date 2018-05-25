@@ -2,7 +2,7 @@
 //
 // This file is part of the UBports Welcome App.
 //
-// Copyright (c) 2017 UBports https://ubports.com
+// Copyright © 2017-2018 UBports https://ubports.com
 //
 // Maintained by Jan Jakob Sprinz (@NeoTheThird) <jan@ubports.com>
 //
@@ -70,7 +70,7 @@ Page {
 
             DefaultLabel {
                 //TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
-                text: i18n.tr("With ubports you can actually change the things you don't like. Ever felt frustrated by a feature or a limitation or a weird layout? Get it changed! By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and sending feature requests</a> UBports will become the smartest platform you've ever experienced.")
+                text: i18n.tr("With UBports you can actually change the things you don't like. Ever felt frustrated by a feature or a limitation or a weird layout? Get it changed! By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and sending feature requests</a> UBports will become the smartest platform you've ever experienced.")
             }
 
             DefaultLabel {
