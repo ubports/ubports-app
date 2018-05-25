@@ -2,11 +2,11 @@
 //
 // This file is part of the UBports Welcome App.
 //
-// Copyright (c) 2017 UBports https://ubports.com
+// Copyright © 2017-2018 UBports https://ubports.com
 //
 // Maintained by Jan Jakob Sprinz (@NeoTheThird) <jan@ubports.com>
 //
-// This file was originates from 8192 (c) 2017 Jan Sprinz:
+// This file was originates from 8192 © 2017 Jan Sprinz:
 // https://github.com/NeoTheThird/8192
 //
 // GNU GENERAL PUBLIC LICENSE
@@ -65,7 +65,7 @@ Page {
             }
 
             DefaultLabel {
-                text: i18n.tr("UBports is an international community of developers and users who wish to keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 as a place where developers can talk and learn from each other and help bring Ubuntu to more devices as a team. After Canonical announced the end of their support for Ubuntu Touch, the operating system was picked up by the community. The resonance has been fantastic and our community is growing rapidly.")
+                text: i18n.tr("UBports is an international community of developers and users who wish to keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 as a place where developers can talk and learn from each other and help bring Ubuntu to more devices as a team. After Canonical announced the end of their support for Ubuntu Touch, the operating system was picked up by the community. The response has been fantastic and our community is growing rapidly.")
             }
 
             DefaultLabel {
