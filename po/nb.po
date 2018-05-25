@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-02-19 09:15+0000\n"
+"PO-Revision-Date: 2018-05-25 23:23+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://translate.ubports.com/projects/ubports/ubports-app/nb/>\n"
@@ -41,6 +41,12 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
+"UBports er et internasjonalt gemenskap av utviklere og brukere som ønsker å "
+"holde Ubuntu Touch i live. Prosjektet ble grunnlagt av Marius Gripsgard i "
+"2015 som et sted der utviklere kan snakke og lære fra hverandre og bringe "
+"Ubuntu til flere enheter som et lag. Etter at Canonical kunngjorde at de "
+"trakk støtten av Ubuntu Touch, ble operativsystemet plukket opp av "
+"fellesskapet. Tilbakemeldingen har vært fantastisk, og det vokser raskt."
 
 #: ../qml/About.qml:72
 msgid ""
@@ -51,6 +57,13 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"Det er vårt mål å holde Ubuntu Touch i live på alle eksisterende enheter. "
+"Mens det å holde ved like er gode og fine deler, ønsker vi å omforme Ubuntu "
+"Touch for å gjøre det til det operativsystemet vi ønsker i det daglige. "
+"Ubuntu er Linux for mennesker, og Ubtuntu Touch bringer denne ånden til "
+"mobile enheter. Vi ønsker å gjøre Ubuntu Touch til en sann Linux-"
+"distribusjon for mobile enheter, samtidig som vi beholder dets enkle og "
+"elegante design."
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
@@ -64,10 +77,18 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
+"Dette programmet er fri programvare: Du kan redistribuere det og/eller endre "
+"det i henhold til vilkårene i GNU General Public-lisensen, som publisert av "
+"Free Software Foundation, enten versjon 3 av lisensen, eller (på eget "
+"initiativ,) enhver senere versjon. Dette programmet kommer deg i hende i håp "
+"om at det er nyttig, men UTEN NOEN FORM FOR GARANTI; selv uten implisitt "
+"garanti om SALGBARHET eller EGNETHET FOR ET GITT FORMÅL. Sjekk <a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public-"
+"lisensen</a> for flere detaljer."
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
-msgstr ""
+msgstr "KILDE"
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
@@ -86,9 +107,8 @@ msgid "Maintained by"
 msgstr "Vedlikeholdes av"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53 ../qml/Main.qml:32
-#, fuzzy
 msgid "Welcome to %1!"
-msgstr "Velkommen til UBports!"
+msgstr "Velkommen til %1!"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
@@ -118,6 +138,11 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
+"Med UBports kan du faktisk endre det du ikke liker. Har du noen gang latt "
+"deg irritere over en funksjon, begrensning eller rart oppsett? Endre det! "
+"Ved å <a href='https://github.com/ubports/ubports-touch'>innrapportere feil "
+"og sende funksjonsforespørsler</a> vil UBports bli den smarteste plattformen "
+"du noensinne har opplevd."
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
@@ -137,6 +162,17 @@ msgid ""
 "In return, we believe in providing fair sevice and opportunity with "
 "transparency to all members of the project."
 msgstr ""
+"UBports ble opprettet og eksisterer i kraft av de mange frivillige i "
+"fellesskapet, nær deg og verden over. Selv om vi ikke spør om en fast pris, "
+"avhenger vi av finansiell støtte fra fellesskapet. Så hvis du liker Ubuntu "
+"Touch og ønsker å se at det lykkes, overvei å sende en <a "
+"href='https://paypal.me/ubports'>engangs-</a>, <a "
+"href='https://patreon.com/ubports'>månedlig</a> eller <a "
+"href='https://liberapay.com/ubports'>ukentlig</a> donasjon. Vi setter "
+"virkelig pris på det, og vet at du vil føle deg vel som følge av din "
+"rettferdige bidragsytelse, og bli ivrig etter å delta. I gjengjeld, tror vi "
+"på det å tilby rettferdige tjenester, og muligheter med fritt innsyn til "
+"alle medlemmene i prosjektet."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
@@ -150,6 +186,10 @@ msgid ""
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail "
 "newsletter</a> to stay in the loop."
 msgstr ""
+"Vi er i dette sammen. Som utgangspunkt, hold deg oppdatert med den seneste "
+"utviklingen, relaterte nyheter og en hel del andre opplevelsesforbedrende "
+"oppdateringer <a href='https://ubports.com/r/appsubscribe'>Meld deg på "
+"nyhetsbrevet</a> for å følge med på hva som skjer."
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
@@ -157,6 +197,8 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
+"UBports er mulig med støtte fra fantastiske <a "
+"href='https://ubports.com/sponsors'>sponsorer, donorer og mesenater</a>!"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
