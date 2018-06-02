@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2017-09-13 21:01+0000\n"
+"PO-Revision-Date: 2018-06-02 19:07+0000\n"
 "Last-Translator: Jeff <jeffi27@live.at>\n"
-"Language-Team: Albanian <https://translate.ubports.com/projects/ubports/"
-"ubports-app/sq/>\n"
+"Language-Team: Albanian <https://translate.ubports.com/projects/ubports"
+"/ubports-app/sq/>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -149,7 +149,6 @@ msgstr "Dhuroni atë që vlerësoni"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
-#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -162,14 +161,15 @@ msgid ""
 "In return, we believe in providing fair sevice and opportunity with "
 "transparency to all members of the project."
 msgstr ""
-"UBports u nisur nga shumë anëtarë të komunitetit nga afër dhe e gjithë bota. "
-"Edhe pse ne nuk pyesin për një sasi të caktuar që ne jemi të varur nga "
-"mbështetje financiare nga komuniteti. Epo, nëse do të donit të na ndihmoni "
-"për suksesin, ju lutemi na leni një donacion <a herf='https://paypal.me/"
-"ubports'> një herë</a> apo <a herf='https://patreon.com/ubports'> mujorë</"
-"a>. Ajo do të jetë një kënaqësi e madhe për ne dhe ju nuk do të zhgenjeheni. "
-"Në këmbim, ne do të punojmë në projekte me shpejtësi të lartë dhe do t'i "
-"mbajmë të gjithë mbështetësit të azhurnuar."
+"UBports u krijua nga shumë anëtarë të komunitetit rreth jush dhe rreth "
+"botës. Edhe pse nuk ngarkojmë një sasi të caktuar, ne varemi nga mbështetja "
+"financiare nga komuniteti. Nëse dëshironi që ne të kemi sukses, ju lutemi "
+"dhuroni <a href='https://paypal.me/ubports'> një herë </a> ose <a href = "
+"'https: //patreon.com/ubports' > mujore> ose <a "
+"href='https://liberapay.com/ubports'> javore </a>. Ne do të ishim shumë të "
+"lumtur dhe ju mund të jepni një kontribut të tillë të drejtë. Në këmbim, ne "
+"do të punojmë me shpejtësi të plotë në projekt dhe do të mbajmë të gjithë "
+"mbështetësit të azhurnuar."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
@@ -177,17 +177,16 @@ msgstr "Bëhu anëtarë"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
-#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail "
 "newsletter</a> to stay in the loop."
 msgstr ""
-"Ne pajtohemi: Në fillim duhet të jeni të azhurnuar me zhvillimet, "
-"inovacionet dhe raportet e tjera. <a href='https://ubports.com/r/"
-"appsubscribe'> Bashkangjituni listës sonë të postimeve </a> për të qëndruar "
-"gjithëherë i informuarë."
+"Ne jemi një komunitet. Në fillim duhet të jeni të përditësuar me zhvillimet, "
+"novacionet dhe raportet e tjera. <a "
+"href='https://ubports.com/r/appsubscribe'> Bashkohu me listën tonë të "
+"postimeve </a> për të qëndruar deri tani."
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
@@ -201,7 +200,7 @@ msgstr ""
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr "Rreth"
+msgstr "Përreth"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
