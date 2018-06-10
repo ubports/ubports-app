@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-03-04 20:23+0000\n"
-"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"PO-Revision-Date: 2018-06-10 19:56+0000\n"
+"Last-Translator: Eran <etherpulse@gmail.com>\n"
 "Language-Team: Hebrew <https://translate.ubports.com/projects/ubports"
 "/ubports-app/he/>\n"
 "Language: he\n"
@@ -190,7 +190,7 @@ msgstr ""
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr "על אודות"
+msgstr "אודות"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
