@@ -9,6 +9,6 @@
         }
     },
     "version": "1.6",
-    "maintainer": "UBports <jan@ubports.com>",
+    "maintainer": "UBports <dev@ubports.com>",
     "framework" : "ubuntu-sdk-15.04.6"
 }
