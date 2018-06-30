@@ -3,14 +3,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # Mutse Young <yyhoo2.young@gmail.com>
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-05-01 17:27+0000\n"
-"Last-Translator: Hugh Y <hugh_yan@live.com>\n"
+"PO-Revision-Date: 2018-06-30 19:16+0800\n"
+"Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<https://translate.ubports.com/projects/ubports/ubports-app/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -18,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.15\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: ../qml/About.qml:34
 msgid "About the App"
@@ -42,9 +41,9 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
-"UBports 是一个开发者和用户的国际社区，旨在能让 Ubuntu Touch 保持活力。该项目由 Marius Gripsgard "
-"于2015年创建，开发者可以在此互相讨论学习，并帮助把 Ubuntu 带入更多的设备。在 Canonical 宣布他们停止对 Ubuntu Touch "
-"的支持后，这个操作系统被社区接手。反响一向很好，我们的社区也正迅速发展。"
+"UBports 是一个开发者和用户的国际社区，旨在能让 Ubuntu Touch 保持活力。该项目由 Marius Gripsgard 于 2015 "
+"年创建，开发者可以在此互相讨论学习，并致力于将 Ubuntu 带入更多的设备。在 Canonical 宣布他们停止对 Ubuntu Touch "
+"的支持后，这个操作系统被社区接手。一直以来反响都不错，我们的社区也正迅速发展。"
 
 #: ../qml/About.qml:72
 msgid ""
@@ -113,9 +112,8 @@ msgstr ""
 "UBports 旨在构建最隐私和创新的体验。您，社区成员梦想的边界即是它潜力的边界。重新控制你的设备和个人资料。您有选择和自由使用 UBports。"
 
 #: ../qml/Home.qml:67
-#, fuzzy
 msgid "Be more than a spectator - Become a game changer!"
-msgstr "驻足旁观不如扭转乾坤！"
+msgstr "不仅仅是一名观众，更是成为一名游戏的改变者！"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:73
@@ -136,7 +134,6 @@ msgstr "付出公平的代价"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
-#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -149,12 +146,10 @@ msgid ""
 "In return, we believe in providing fair sevice and opportunity with "
 "transparency to all members of the project."
 msgstr ""
-"因为在您和世界各地的社区中有很多志愿者，所以产生了 UBports。虽然我们不要求固"
-"定的费用，但我们确实依赖于社区的财政支持。因此，如果您喜欢您所看到的并希望看"
-"到的项目成功，请考虑下<a href ='https://paypal.me/ubports'>一次性</a>或<a "
-"href ='https://patreon.com/ubports'>定期每月捐款</a>。我们真诚地感谢您的帮"
-"助，知道您将会为您的无私的贡献感到高兴，也会为您感到高兴。作为回报，我们相信"
-"为项目的所有成员提供公平的服务和透明度。"
+"由于您和世界各地的社区中的很多志愿者的努力，UBports 得以建立。虽然我们不要求支付固定的费用，但我们确实依赖于社区的财政支持。因此，如果您喜欢 "
+"Ubuntu Touch 并希望该项目能够成功，请考虑<a href ='https://paypal.me/ubports'>一次性</a>或<a "
+"href ='https://patreon.com/ubports'>每月定期捐款</a>。我们真诚地感谢您的帮助，而且我们知道您将会为您的无私的贡献感"
+"到高兴，我们也会为您感到高兴。作为回报，我们相信为项目的所有成员提供公平的服务和透明的机会。"
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
@@ -179,11 +174,10 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
-"<a href='https://ubports.com/sponsors'>我们的赞助商，捐赠者和赞助人</a>使得 UBports 得以实现！"
+"<a href='https://ubports.com/sponsors'>我们的赞助商，捐赠者和赞助人</a>使得 UBports 成为可能！"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
-#, fuzzy
 msgid "About"
 msgstr "关于"
 
