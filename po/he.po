@@ -8,16 +8,17 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-03-04 20:23+0000\n"
-"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
-"Language-Team: Hebrew <https://translate.ubports.com/projects/ubports"
-"/ubports-app/he/>\n"
+"PO-Revision-Date: 2018-07-29 00:00+0000\n"
+"Last-Translator: Eran <etherpulse@gmail.com>\n"
+"Language-Team: Hebrew <https://translate.ubports.com/projects/ubports/"
+"ubports-app/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.15\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
+"n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 2.19.1\n"
 
 #: ../qml/About.qml:34
 msgid "About the App"
@@ -48,7 +49,6 @@ msgstr ""
 "חסותה ומאז הקהילה גדלה בקצב מהיר ביותר."
 
 #: ../qml/About.qml:72
-#, fuzzy
 msgid ""
 "It's our goal to keep Ubuntu Touch alive on all existing devices. While "
 "keeping all its good and beautiful parts, we want to reshape Ubuntu Touch to "
@@ -190,7 +190,7 @@ msgstr ""
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr "על אודות"
+msgstr "אודות"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
