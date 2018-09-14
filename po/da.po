@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
 "PO-Revision-Date: 2018-09-16 00:00+0000\n"
-"Last-Translator: Tom Rausner <tomrausner@gmail.com>\n"
+"Last-Translator: Henrik Holm <hbir@post10.tele.dk>\n"
 "Language-Team: Danish <https://translate.ubports.com/projects/ubports/"
 "ubports-app/da/>\n"
 "Language: da\n"
@@ -42,12 +42,12 @@ msgid ""
 "rapidly."
 msgstr ""
 "UBports er et internationalt fællesskab af udviklere og brugere som ønsker "
-"at holde Ubuntu Touch i live. Projektet blev grundlagt af Marius Gripsgard i "
-"2015 som et sted hvor udviklere kan samtale og lære af hinanden og sammen "
-"bringe Ubuntu til flere enheder som et team. Efter Canonical annoncerede "
-"afslutningen af deres support til Ubuntu Touch, blev operativsystemet samlet "
-"op af fællesskabet. Responsen har været fantastisk og vores fællesskab "
-"vokser hurtigt."
+"at holde Ubuntu Touch i live.  Projektet blev grundlagt af Marius Gripsgard "
+"i 2015 for at have et sted, hvor udviklere kan tale og lære af hinanden og "
+"hjælpe med at udbrede Ubuntu til flere enheder, som et hold. Efter Canonical "
+"annoncerede de ville indstille udviklingen af Ubuntu Touch, blev "
+"operativsystemet overtaget af fællesskabet. Tilbagemeldingerne har været "
+"fantastiske og fællesskabet vokser hurtigt."
 
 #: ../qml/About.qml:72
 msgid ""
@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
-msgstr "Betal hvad der er rimeligt"
+msgstr "Giv et rimeligt bidrag"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
