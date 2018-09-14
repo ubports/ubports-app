@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-09-14 18:49+0000\n"
+"PO-Revision-Date: 2018-09-14 18:54+0000\n"
 "Last-Translator: Tom Rausner <tomrausner@gmail.com>\n"
 "Language-Team: Danish <https://translate.ubports.com/projects/ubports/"
 "ubports-app/da/>\n"
@@ -169,7 +169,7 @@ msgstr ""
 "Ubuntu Touch og ønsker at projektet skal lykkedes , så overvej venligst at "
 "donere et  <a href='https://paypal.me/ubports'> engangsbeløb </a> eller <a "
 "href='https://patreon.com/ubports'> en fast månedlig donation </a> eller\n"
-"<a href='https//liberapay.com/ubports'>en ugentlig donation. Vi sætter "
+"<a href='https//liberapay.com/ubports'>en ugentlig</a>donation. Vi sætter "
 "virkelig pris på den og vi ved, at du vil have det godt med at en rimelig "
 "donation og vil nyde at deltage. til gengæld, ønsker vi at levere en fair "
 "service og mulighed med gennemsigtighed for alle medlemmer af projektet."
@@ -180,7 +180,6 @@ msgstr "Deltag i sløjfen"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
-#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
@@ -189,8 +188,8 @@ msgid ""
 msgstr ""
 "Vi er sammen om dette. Som udgangspunkt, hold dig informeret om udvikling, "
 "relateret nyt og en hel masse andre oplevelses-udvidende opdateringer. <a "
-"href='https://ubports.com/r/appsubscribe'> Mel dig til vores mail-liste </a> "
-"for at komme med i sløjfen og blive i sløjfen."
+"href='https://ubports.com/r/appsubscribe'> Meld dig til vores mail-liste </a>"
+" for at komme med i sløjfen og blive i sløjfen."
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
@@ -198,6 +197,8 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
+"UBports er gjort muligt af vores <a href='https://ubports.com/sponsors'>"
+"vores vidunderlige sponsorer, donorer og patrons</a>!"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
