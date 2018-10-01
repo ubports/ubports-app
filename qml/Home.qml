@@ -97,6 +97,11 @@ Page {
                 //TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
                 text: i18n.tr("UBports is made possible by our <a href='https://ubports.com/sponsors'>our awesome sponsors, donors and patrons</a>!")
             }
+            Rectangle {
+                id: spacer
+                width: parent.width
+                height: units.gu(2)
+            }
         }
     }
 }
