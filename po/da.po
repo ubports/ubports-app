@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2017-10-03 16:50+0000\n"
+"PO-Revision-Date: 2018-09-23 00:00+0000\n"
 "Last-Translator: Henrik Holm <hbir@post10.tele.dk>\n"
 "Language-Team: Danish <https://translate.ubports.com/projects/ubports/"
 "ubports-app/da/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.15\n"
+"X-Generator: Weblate 2.20\n"
 
 #: ../qml/About.qml:34
 msgid "About the App"
@@ -41,6 +41,13 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
+"UBports er et internationalt fællesskab af udviklere og brugere som ønsker "
+"at holde Ubuntu Touch i live.  Projektet blev grundlagt af Marius Gripsgard "
+"i 2015 for at have et sted, hvor udviklere kan tale og lære af hinanden og "
+"hjælpe med at udbrede Ubuntu til flere enheder, som et hold. Efter Canonical "
+"annoncerede de ville indstille udviklingen af Ubuntu Touch, blev "
+"operativsystemet overtaget af fællesskabet. Tilbagemeldingerne har været "
+"fantastiske og fællesskabet vokser hurtigt."
 
 #: ../qml/About.qml:72
 msgid ""
@@ -51,6 +58,13 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"Vores mål er at holde Ubuntu Touch i live på alle enheder det allerede "
+"eksisterer på. Mens vi vil beholde alle de gode og smukke dele, ønsker vi at "
+"omforme Ubuntu Touch for at gøre det til det operativ system vi alle ønsker "
+"at bruge dagligt. Ubuntu er Linux for mennesker og Ubuntu Touch bringer "
+"denne oplevelse til mobile enheder. Vi ønsker at gøre Ubuntu Touch til en "
+"ægte Linux distro for mobile enheder og samtidig holde det simpelt og med "
+"elegant design."
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
@@ -64,6 +78,14 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
+"Dette program er fri software: Du kan dele det og/eller modificere det under "
+"reglerne for GNU's Generelle Offentlige Licens, som den er publiceret af "
+"Free Software Foundation, enten ifølge licensens version 3 eller (hvis du "
+"kan) enhver senere version. Dette program bliver distribueret med det håb at "
+"det vil være brugbart, men UDEN NOGEN GARANTI; heller ikke en underforstået "
+"garanti for SALGBARHED eller ANVENDELIGHED FOR NOGET BESTEMT FORMÅL. Se \n"
+"<a href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
+"License</a> for yderligere detaljer."
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
@@ -100,13 +122,13 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
-"UBports bygger den mest private og innovative oplevelser. Det er begrænset "
-"kun af det du - medlem af fællesskabet - kan drømme om. Få kontrol over din "
+"UBports skaber den mest private og innovative oplevelse. Det er begrænset "
+"kun af det du - medlem af fællesskabet - can drømme. Få kontrol over din "
 "enhed og personlige data. Du har valgmuligheder og frihed med UBports."
 
 #: ../qml/Home.qml:67
 msgid "Be more than a spectator - Become a game changer!"
-msgstr "Vær mere end bare tilskuer - Deltag i udviklingen!"
+msgstr "Vær mere end blot tilskuer - Bliv en del af udviklingen!"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:73
@@ -117,14 +139,18 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
+"Med ubports kan du faktisk ændre de ting du ikke kan lide. Har du nogensinde "
+"følt dig fustreret over en funktion, en begrænsning eller et mærkeligt "
+"design? Så få det ændret! Ved at <a href='https://github.com/ubports/ubports-"
+"touch'> rapportere fejl og sende ønsker til funktioner </a> vil UBports "
+"blive den smarteste platform du nogensinde har oplevet."
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
-msgstr "Betal hvad der er rimeligt"
+msgstr "Giv et rimeligt bidrag"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
-#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -140,12 +166,13 @@ msgstr ""
 "UBports blev skabt af og eksisterer pga. de mange frivillige i fællesskabet "
 "nær dig og i hele verden. Selvom vi ikke kræver fast månedlig betaling, så "
 "er vi afhængige af økonomisk støtte fra fællesskabet. Så hvis du kan lide "
-"hvad du ser og ønsker at projektet skal lykkedes , så overvej venligst  <a "
-"href='https://paypal.me/ubports'> engangsbeløb </a> eller  <a href='https://"
-"patreon.com/ubports'> for fast månedlig donation </a>.  Vi sætter virkelig "
-"pris på din donation og vi ved, at du vil have det godt med at en rimelig "
-"donation og vil nyde at deltage. til gengæld, leverer vi fair service og "
-"muligheder med gennemsigtighed for alle medlemmer af projektet."
+"Ubuntu Touch og ønsker at projektet skal lykkedes , så overvej venligst at "
+"donere et  <a href='https://paypal.me/ubports'> engangsbeløb </a> eller <a "
+"href='https://patreon.com/ubports'> en fast månedlig donation </a> eller\n"
+"<a href='https//liberapay.com/ubports'>en ugentlig</a>donation. Vi sætter "
+"virkelig pris på den og vi ved, at du vil have det godt med at en rimelig "
+"donation og vil nyde at deltage. til gengæld, ønsker vi at levere en fair "
+"service og mulighed med gennemsigtighed for alle medlemmer af projektet."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
@@ -153,7 +180,6 @@ msgstr "Deltag i sløjfen"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
-#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
@@ -162,8 +188,8 @@ msgid ""
 msgstr ""
 "Vi er sammen om dette. Som udgangspunkt, hold dig informeret om udvikling, "
 "relateret nyt og en hel masse andre oplevelses-udvidende opdateringer. <a "
-"href='https://ubports.com/r/appsubscribe'> Mel dig til vores mail-liste </a> "
-"for at komme med i sløjfen og blive i sløjfen."
+"href='https://ubports.com/r/appsubscribe'> Meld dig til vores mail-liste </a>"
+" for at komme med i sløjfen og blive i sløjfen."
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
@@ -171,6 +197,8 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
+"UBports er gjort mulig ved hjælp fra <a href='https://ubports.com/sponsors'> "
+"vores fede sponsorer, donationsgivere og patrons</a>!"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
