@@ -8,25 +8,28 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-10-23 05:58+0000\n"
+"Last-Translator: Louies <louies0623@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
+"ubports/ubports-app/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.0.1\n"
 
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr ""
+msgstr "關於應用程序"
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr ""
+msgstr "1％程序"
 
 #: ../qml/About.qml:64
 msgid "Version: "
-msgstr ""
+msgstr "版本: "
 
 #: ../qml/About.qml:68
 msgid ""
@@ -38,6 +41,9 @@ msgid ""
 "community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
+"UBports是一個由開發人員和用戶組成的國際社區，他們希望讓Ubuntu Touch保持活力。 該項目由Marius "
+"Gripsgard於2015年創建，作為一個開發人員可以互相交流和學習的地方，可以幫助Ubuntu成為更多的設備。 "
+"Canonical宣布結束對Ubuntu Touch的支持後，操作系統被社區接收。引起非常棒的共鳴，因此我們的社區正在迅速發展。"
 
 #: ../qml/About.qml:72
 msgid ""
@@ -48,6 +54,9 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
+"我們的目標是讓Ubuntu Touch在所有現有設備上保持活力。 在保留所有優質和美觀的部件的同時，我們希望重塑Ubuntu "
+"Touch，使其成為我們日常使用的操作系統。 Ubuntu是面向人類的Linux，Ubuntu Touch將這種精神帶給了移動設備。 "
+"我們希望將Ubuntu Touch變成真正的移動設備Linux發行版，同時保持其簡潔優雅的設計。"
 
 #. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
@@ -61,34 +70,37 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
+"此程序是免費軟件：您可以根據自由軟件基金會發布的GNU通用公共許可證條款（許可證版本3）或（根據您的選擇）任何更高版本重新分發和/或修改它。 "
+"本程序的發布是希望它有用，但沒有任何擔保; 甚至沒有適銷性或特定用途適用性的暗示保證。 有關詳細信息，請參閱<a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> 1GNU通用公共許可證</a> 2。"
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
-msgstr ""
+msgstr "資源"
 
 #: ../qml/About.qml:81
 msgid "ISSUES"
-msgstr ""
+msgstr "問題"
 
 #: ../qml/About.qml:81
 msgid "DONATE"
-msgstr ""
+msgstr "捐贈"
 
 #: ../qml/About.qml:85
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr ""
+msgstr "版权所有 (C) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:89
 msgid "Maintained by"
-msgstr ""
+msgstr "維護"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53 ../qml/Main.qml:32
 msgid "Welcome to %1!"
-msgstr ""
+msgstr "歡迎來到％1！"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
-msgstr ""
+msgstr "我們可以改變未來！ 讓我們再創新夢想。"
 
 #: ../qml/Home.qml:63
 msgid ""
@@ -97,10 +109,12 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
+"UBports構建了最隱私和創新的體驗。 只有您 - 社區成員 - 可以夢想的東西才有可能限制其潛力。 重新獲得對設備和個人數據的控制權。 "
+"你有UBports的選擇和自由。"
 
 #: ../qml/Home.qml:67
 msgid "Be more than a spectator - Become a game changer!"
-msgstr ""
+msgstr "不要成了一位旁觀者 - 成為改變遊戲規則的人！"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:73
@@ -111,10 +125,13 @@ msgid ""
 "sending feature requests</a> UBports will become the smartest platform "
 "you've ever experienced."
 msgstr ""
+"使用ubports，你實際上可以改變你不喜歡的東西。 曾經感到沮喪的功能或限製或奇怪的佈局？ 改變它！ 通過<a "
+"href='https://github.com/ubports/ubports-touch'> 1報告錯誤並發送功能請求</a> 2 "
+"UBports將成為您體驗過的最智慧的平台。"
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
-msgstr ""
+msgstr "付出公平的代價"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
@@ -130,10 +147,15 @@ msgid ""
 "In return, we believe in providing fair sevice and opportunity with "
 "transparency to all members of the project."
 msgstr ""
+"UBports的創建和存在是因為您和世界各地的社區中有許多志願者。 雖然我們不要求固定費用，但我們依賴社區的財政支持。 因此，如果您喜歡Ubuntu "
+"Touch並希望看到項目成功，請考慮<a href='https://paypal.me/ubports'> 1one-time </a> 2或<a "
+"href ='https：/ /patreon.com/ubports'>每月3次定期</a> 4或<a href='https://liberapay."
+"com/ubports'> 5週2月6日捐款。 我們真誠地感謝它，我們知道您對您的公平貢獻感到滿意，並為您的參與感到興奮。 "
+"作為回報，我們相信為項目的所有成員提供公平的服務和透明的機會。"
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
-msgstr ""
+msgstr "循線進入"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
@@ -143,6 +165,8 @@ msgid ""
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail "
 "newsletter</a> to stay in the loop."
 msgstr ""
+"我們一起做的。 作為一個起點，掌握最新的發展，相關新聞和一大堆其他經驗增強的更新。 <a href='https://ubports.com/r/"
+"appsubscribe'> 1加入我們的電子郵件簡報</a> 2留在循環中。"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
@@ -150,27 +174,28 @@ msgid ""
 "UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
 "awesome sponsors, donors and patrons</a>!"
 msgstr ""
+"我們的<a href='https://ubports.com/sponsors'> 1個令人敬畏的讚助商，捐贈者和讚助人</a>使UBport成為可能！"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
 msgid "About"
-msgstr ""
+msgstr "關於"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:50
 msgid "Support Forum"
-msgstr ""
+msgstr "支持論壇"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:55
 msgid "Get involved"
-msgstr ""
+msgstr "參與其中"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:60
 msgid "Newsletter"
-msgstr ""
+msgstr "通訊"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
-msgstr ""
+msgstr "UBports"
