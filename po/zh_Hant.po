@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-10-23 15:38+0000\n"
+"PO-Revision-Date: 2018-10-24 01:02+0000\n"
 "Last-Translator: Louies <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports/ubports-app/zh_Hant/>\n"
@@ -88,11 +88,11 @@ msgstr "捐贈"
 
 #: ../qml/About.qml:85
 msgid "Copyright (c) 2017 UBports <ubports.com>"
-msgstr "版权所有 (C) 2017 UBports <ubports.com>"
+msgstr "版權所有 (C) 2017 UBports <ubports.com>"
 
 #: ../qml/About.qml:89
 msgid "Maintained by"
-msgstr "維護"
+msgstr "維護來自"
 
 #: ../qml/Home.qml:31 ../qml/Home.qml:53 ../qml/Main.qml:32
 msgid "Welcome to %1!"
@@ -100,7 +100,7 @@ msgstr "歡迎來到％1！"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "我們可以改變未來！ 讓我們再創新夢想。"
+msgstr "我們一起改變未來！ 讓我們夢想再次創新。"
 
 #: ../qml/Home.qml:63
 msgid ""
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../qml/Home.qml:67
 msgid "Be more than a spectator - Become a game changer!"
-msgstr "不要成了一位旁觀者 - 成為改變遊戲規則的人！"
+msgstr "不要成了一位旁觀者 - 成為改變一切規則的人吧！"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:73
@@ -131,7 +131,7 @@ msgstr ""
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
-msgstr "付出公平的代價"
+msgstr "付出公平的利益"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
