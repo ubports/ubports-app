@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-10-30 16:03+0000\n"
+"PO-Revision-Date: 2018-11-04 00:00+0000\n"
 "Last-Translator: xqqy <xqqy189@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
 "ubports/ubports-app/zh_Hans/>\n"
@@ -165,7 +165,7 @@ msgid ""
 "newsletter</a> to stay in the loop."
 msgstr ""
 "我们在一起。立足于起点，关注最新发展动态、相关新闻和所有开发进度<a href= 'https://ubports.com/r/"
-"appsubscribe'>请加入我们的邮件列表</a>并接收我们的消息"
+"appsubscribe'>请加入我们的邮件列表</a>并接收我们的消息。"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
