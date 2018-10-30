@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-06-30 19:16+0800\n"
-"Last-Translator: Luo Yufan <njlyf2011@hotmail.com>\n"
-"Language-Team: Chinese (Simplified) "
-"<https://translate.ubports.com/projects/ubports/ubports-app/zh_Hans/>\n"
+"PO-Revision-Date: 2018-10-30 16:03+0000\n"
+"Last-Translator: xqqy <xqqy189@hotmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://translate.ubports.com/projects/"
+"ubports/ubports-app/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Weblate 3.0.1\n"
 
 #: ../qml/About.qml:34
 msgid "About the App"
@@ -100,7 +100,7 @@ msgstr "欢迎来到 %1！"
 
 #: ../qml/Home.qml:58
 msgid "We can change the future! Let's innovate and dream again."
-msgstr "我们能够改变未来！让我们再次创想展望。"
+msgstr "我们能够改变未来！让我们再次以创新实现梦想。"
 
 #: ../qml/Home.qml:63
 msgid ""
@@ -109,7 +109,8 @@ msgid ""
 "control of your device and personal data. You have choice and freedom with "
 "UBports."
 msgstr ""
-"UBports 旨在构建最隐私和创新的体验。您，社区成员梦想的边界即是它潜力的边界。重新控制你的设备和个人资料。您有选择和自由使用 UBports。"
+"UBports构建了保护隐私和创新的体验。它的潜力完全取决于您作为Ubports社区成员的想法。和Ubports一起，夺回你设备的控制权和个人隐私。Ubp"
+"orts尊重你的自由和选择。"
 
 #: ../qml/Home.qml:67
 msgid "Be more than a spectator - Become a game changer!"
@@ -130,7 +131,7 @@ msgstr ""
 
 #: ../qml/Home.qml:77
 msgid "Pay what's fair"
-msgstr "付出公平的代价"
+msgstr "支付您所得到的"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
@@ -146,27 +147,25 @@ msgid ""
 "In return, we believe in providing fair sevice and opportunity with "
 "transparency to all members of the project."
 msgstr ""
-"由于您和世界各地的社区中的很多志愿者的努力，UBports 得以建立。虽然我们不要求支付固定的费用，但我们确实依赖于社区的财政支持。因此，如果您喜欢 "
-"Ubuntu Touch 并希望该项目能够成功，请考虑<a href ='https://paypal.me/ubports'>一次性</a>或<a "
-"href ='https://patreon.com/ubports'>每月定期捐款</a>。我们真诚地感谢您的帮助，而且我们知道您将会为您的无私的贡献感"
-"到高兴，我们也会为您感到高兴。作为回报，我们相信为项目的所有成员提供公平的服务和透明的机会。"
+"Ubports建立在像您一样的社区志愿者之间。虽然您可免费使用，但我们的发展依赖于社区的捐款。因此，如果您喜欢 Ubuntu Touch "
+"并希望该项目能够成功，请考虑<a href ='https://paypal.me/ubports'>一次性</a>或<a href "
+"='https://patreon.com/ubports'>每月定期捐款</a>。我们真诚地感谢您的帮助，而且我们知道您将会为您的无私的贡献感到高兴，我"
+"们也会为您感到高兴。作为回报，我们相信为项目的所有成员提供公平的服务和透明的机会。"
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
-msgstr "获取消息圈"
+msgstr "接受消息"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
-#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
 "updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail "
 "newsletter</a> to stay in the loop."
 msgstr ""
-"我们在一起，作为一个起点，继续关注最新的发展，相关的新闻和一系列其它的经验提"
-"升更新。<a href= 'https://ubports.com/r/appsubscribe'>请加入我们的邮件列表</"
-"a>查看消息并留在消息圈。"
+"我们在一起。立足于起点，关注最新发展动态、相关新闻和所有开发进度<a href= 'https://ubports.com/r/"
+"appsubscribe'>请加入我们的邮件列表</a>并接收我们的消息"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
