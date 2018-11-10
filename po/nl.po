@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2017-09-14 19:58+0000\n"
+"PO-Revision-Date: 2018-11-10 21:13+0000\n"
 "Last-Translator: Sander <sander.k1007@kpnmail.nl>\n"
-"Language-Team: Dutch <https://translate.ubports.com/projects/ubports/ubports-"
-"app/nl/>\n"
+"Language-Team: Dutch <https://translate.ubports.com/projects/ubports/"
+"ubports-app/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.15\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: ../qml/About.qml:34
 msgid "About the App"
@@ -80,6 +80,14 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
+"Dit programma is vrije software: u kunt het opnieuw uitbrengen en/of "
+"wijzigen onder de voorwaarden van de GNU General Public License zoals "
+"gepubliceerd door de Free Software Foundation, ofwel versie 3 van de "
+"licentie, of (naar uw keuze) elke latere versie. Dit programma wordt "
+"verspreid in de hoop dat het nuttig zal zijn, maar ZONDER ENIGE GARANTIE; "
+"zelfs zonder de impliciete garantie van VERKOOPBAARHEID of GESCHIKTHEID VOOR "
+"EEN BEPAALD DOEL. Zie de <a href='https://www.gnu.org/licenses/"
+"gpl-3.0.en.html'>GNU General Public License</a> voor meer details."
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
@@ -147,7 +155,6 @@ msgstr "Betaal wat u redelijk vindt"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:83
-#, fuzzy
 msgid ""
 "UBports was created and exists because of many volunteers in the community "
 "near you and all over the world. Although we don't ask for a fixed fee we do "
@@ -163,12 +170,13 @@ msgstr ""
 "UBports is gemaakt en bestaat door veel vrijwilligers in de gemeenschap in "
 "de buurt van u en over de hele wereld. Hoewel we geen vaste vergoeding "
 "vragen, zijn we afhankelijk van financiële steun van de gemeenschap. Mocht u "
-"het project leuk vinden en willen zien slagen, overweeg dan alstublieft een "
-"<a href='https://paypal.me/ubports'>eenmalige</a> of <a href='https://"
-"patreon.com/ubports'>maandelijkse donatie</a>. Wij stellen het zeer op prijs "
-"en weten dat u zich goed voelt over uw bijdrage en enthousiast bent om deel "
-"te nemen. In ruil daarvoor geloven wij in het verstrekken van goede service "
-"en mogelijkheden met openheid naar alle leden van het project."
+"het project leuk vinden en willen zien slagen, overweeg dan alstublieft een <"
+"a href='https://paypal.me/ubports'>eenmalige</a>, <a href='https://patreon."
+"com/ubports'>maandelijkse</a> of <a href='https://liberapay.com/"
+"ubports'>wekelijkse</a> donatie. Wij stellen het zeer op prijs en weten dat "
+"u zich goed voelt over uw bijdrage en enthousiast bent om deel te nemen. In "
+"ruil daarvoor geloven wij in het verstrekken van goede service en "
+"mogelijkheden met openheid naar alle leden van het project."
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
@@ -176,7 +184,6 @@ msgstr "Laat u meevoeren"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
-#, fuzzy
 msgid ""
 "We are in this together. As a starting point, stay on top of the latest "
 "developments, related news and a whole bunch of other experience-enhancing "
@@ -186,7 +193,7 @@ msgstr ""
 "We staan hier samen in. Om te beginnen, blijf op de hoogte van de laatste "
 "ontwikkelingen, gerelateerd nieuws en een hele hoop andere ervaring "
 "verbeterende updates. <a href='https://ubports.com/r/appsubscribe'>Word lid "
-"van onze mailing list</a> en doe blijvend mee."
+"van onze mailing list</a> om op de hoogte te blijven."
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:98
