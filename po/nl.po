@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-11-10 21:13+0000\n"
+"PO-Revision-Date: 2018-11-12 19:14+0000\n"
 "Last-Translator: Sander <sander.k1007@kpnmail.nl>\n"
 "Language-Team: Dutch <https://translate.ubports.com/projects/ubports/"
 "ubports-app/nl/>\n"
@@ -180,7 +180,7 @@ msgstr ""
 
 #: ../qml/Home.qml:87
 msgid "Get looped in"
-msgstr "Laat u meevoeren"
+msgstr "Raak betrokken"
 
 #. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
 #: ../qml/Home.qml:93
