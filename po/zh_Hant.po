@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.ubuntu.ubports\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-11 12:49+0000\n"
-"PO-Revision-Date: 2018-11-12 19:14+0000\n"
+"PO-Revision-Date: 2018-11-19 01:35+0000\n"
 "Last-Translator: Louies <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.ubports.com/projects/"
 "ubports/ubports-app/zh_Hant/>\n"
@@ -21,11 +21,11 @@ msgstr ""
 
 #: ../qml/About.qml:34
 msgid "About the App"
-msgstr "關於應用程序"
+msgstr "關於應用程式"
 
 #: ../qml/About.qml:50
 msgid "%1 App"
-msgstr "%1程序"
+msgstr "%1應用程式"
 
 #: ../qml/About.qml:64
 msgid "Version: "
@@ -70,8 +70,8 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
-"此程序是免費軟件：您可以根據自由軟件基金會發布的GNU通用公共許可證條款（許可證版本3）或（根據您的選擇）任何更高版本重新分發和/或修改它。 "
-"本程序的發布是希望它有用，但沒有任何擔保; 甚至沒有適銷性或特定用途適用性的暗示保證。 有關詳細信息，請參閱<a "
+"這個程式是免費軟體：您可以根據自由軟件基金會發布的GNU通用公共許可證條款（許可證版本3）或（根據您的選擇）任何更高版本重新分發和/或修改它。 "
+"本程式的發布是希望它有用，但沒有任何擔保; 甚至沒有適銷性或特定用途適用性的暗示保證。 有關詳細信息，請參閱<a "
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU通用公共許可證</a>。"
 
 #: ../qml/About.qml:81
@@ -147,7 +147,7 @@ msgid ""
 "In return, we believe in providing fair sevice and opportunity with "
 "transparency to all members of the project."
 msgstr ""
-"UBports 是創建和存在, 因為許多志願者在社區附近和世界各地。雖然我們不要求一個固定的費用, 我們確實依賴于社會的財政支援。因此, 如果你喜歡 "
+"UBports 是建立和存在著因為許多志願者在社區附近和世界各地。雖然我們不要求一個固定的費用, 我們確實依賴于社會的財政支援。因此, 如果你喜歡 "
 "Ubuntu 觸摸, 並希望看到專案成功, 請考慮<a href='https://paypal.me/ubports'>一次</a>或者<a "
 "href='https://patreon.com/ubports'>每月定期</a>或<a href='https://liberapay.com/"
 "ubports'>每週</a>捐贈。\n"
