@@ -32,28 +32,18 @@ msgid "Version: "
 msgstr "版本： "
 
 #: ../qml/About.qml:68
-#, fuzzy
-#| msgid ""
-#| "UBports is an international community of developers and users who wish to "
-#| "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in "
-#| "2015 as a place where developers can talk and learn from each other and "
-#| "help bring Ubuntu to more devices as a team. After Canonical announced "
-#| "the end of their support for Ubuntu Touch, the operating system was "
-#| "picked up by the community. The resonance has been fantastic and our "
-#| "community is growing rapidly."
 msgid ""
 "UBports is an international community of developers and users who wish to "
 "keep Ubuntu Touch alive. The project was founded by Marius Gripsgard in 2015 "
 "as a place where developers can talk and learn from each other and help "
 "bring Ubuntu to more devices as a team. After Canonical announced the end of "
 "their support for Ubuntu Touch, the operating system was picked up by the "
-"community. The response has been fantastic and our community is growing "
+"community. The resonance has been fantastic and our community is growing "
 "rapidly."
 msgstr ""
-"UBports 是一个开发者和用户的国际社区，旨在能让 Ubuntu Touch 保持活力。该项目"
-"由 Marius Gripsgard 于 2015 年创建，开发者可以在此互相讨论学习，并致力于将 "
-"Ubuntu 带入更多的设备。在 Canonical 宣布他们停止对 Ubuntu Touch 的支持后，这"
-"个操作系统被社区接手。一直以来反响都不错，我们的社区也正迅速发展。"
+"UBports 是一个开发者和用户的国际社区，旨在能让 Ubuntu Touch 保持活力。该项目由 Marius Gripsgard 于 2015 "
+"年创建，开发者可以在此互相讨论学习，并致力于将 Ubuntu 带入更多的设备。在 Canonical 宣布他们停止对 Ubuntu Touch "
+"的支持后，这个操作系统被社区接手。一直以来反响都不错，我们的社区也正迅速发展。"
 
 #: ../qml/About.qml:72
 msgid ""
@@ -64,12 +54,11 @@ msgid ""
 "devices. We want to turn Ubuntu Touch into a true Linux distribution for "
 "mobile devices, while keeping its simple and elegant design."
 msgstr ""
-"我们的目标是让 Ubuntu Touch 在所有现有的设备上保持活跃。在保持所有优越成分的"
-"同时，我们想要重塑 Ubuntu Touch，使它成为我们日常想要使用的操作系统。Ubuntu "
-"是人类的 Linux，Ubuntu Touch 把这种精神带到了移动设备上。我们想要把 Ubuntu "
-"Touch 变成移动设备上真正的Linux 发行版，同时保持其简单而优雅的设计。"
+"我们的目标是让 Ubuntu Touch 在所有现有的设备上保持活跃。在保持所有优越成分的同时，我们想要重塑 Ubuntu "
+"Touch，使它成为我们日常想要使用的操作系统。Ubuntu 是人类的 Linux，Ubuntu Touch 把这种精神带到了移动设备上。我们想要把 "
+"Ubuntu Touch 变成移动设备上真正的Linux 发行版，同时保持其简单而优雅的设计。"
 
-#. TRANSLATORS: A localized URL can be used for the license, but you must point out and link to the english one as authorative.
+#. TRANSLATORS: A localized URL can be used for the license
 #: ../qml/About.qml:77
 msgid ""
 "This program is free software: you can redistribute it and/or modify it "
@@ -81,11 +70,9 @@ msgid ""
 "href='https://www.gnu.org/licenses/gpl-3.0.en.html'>GNU General Public "
 "License</a> for more details."
 msgstr ""
-"本程序为自由软件：在自由软件基金会发布的 GNU 通用公共许可证的条款约束下，您可"
-"以对其进行再发布及修改。协议版本为第三版(或随您)更新的版本。我们希望发布的这"
-"款程序有用，但没有保证；甚至无法保证它的经济价值和合适的用途。请查阅<a "
-"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> GNU通用公共许可证 </a>获"
-"取更多细节。"
+"本程序为自由软件：在自由软件基金会发布的 GNU 通用公共许可证的条款约束下，您可以对其进行再发布及修改。协议版本为第三版(或随您)更新的版本。我们希望发"
+"布的这款程序有用，但没有保证；甚至无法保证它的经济价值和合适的用途。请查阅<a "
+"href='https://www.gnu.org/licenses/gpl-3.0.en.html'> GNU通用公共许可证 </a>获取更多细节。"
 
 #: ../qml/About.qml:81
 msgid "SOURCE"
@@ -107,6 +94,86 @@ msgstr "版权所有 (C) 2017 UBports <ubports.com>"
 msgid "Maintained by"
 msgstr "维护"
 
+#: ../qml/Home.qml:31 ../qml/Home.qml:53 ../qml/Main.qml:32
+msgid "Welcome to %1!"
+msgstr "欢迎来到 %1！"
+
+#: ../qml/Home.qml:58
+msgid "We can change the future! Let's innovate and dream again."
+msgstr "我们能够改变未来！让我们再次以创新实现梦想。"
+
+#: ../qml/Home.qml:63
+msgid ""
+"UBports builds the most private and innovative experience. It is limited in "
+"potential only by what you - the community member - can dream. Regain "
+"control of your device and personal data. You have choice and freedom with "
+"UBports."
+msgstr ""
+"UBports构建了保护隐私和创新的体验。它的潜力完全取决于您作为Ubports社区成员的想法。和Ubports一起，夺回你设备的控制权和个人隐私。Ubp"
+"orts尊重你的自由和选择。"
+
+#: ../qml/Home.qml:67
+msgid "Be more than a spectator - Become a game changer!"
+msgstr "不仅仅是一名观众，更是成为一名游戏的改变者！"
+
+#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+#: ../qml/Home.qml:73
+msgid ""
+"With ubports you can actually change the things you don't like. Ever felt "
+"frustrated by a feature or a limitation or a weird layout? Get it changed! "
+"By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and "
+"sending feature requests</a> UBports will become the smartest platform "
+"you've ever experienced."
+msgstr ""
+"有了 ubports 你就可以改变你不喜欢的东西。是否曾经因功能的限制或奇怪的布局而沮丧？改变它！通过<a "
+"href='https://github.com/ubports/ubports-touch'>反馈错误报告或发送新功能建议</a> "
+"UBports将会成为您所经历的最智能的平台。"
+
+#: ../qml/Home.qml:77
+msgid "Pay what's fair"
+msgstr "支付您所得到的"
+
+#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+#: ../qml/Home.qml:83
+msgid ""
+"UBports was created and exists because of many volunteers in the community "
+"near you and all over the world. Although we don't ask for a fixed fee we do "
+"depend on financial support from the community. So if you like Ubuntu Touch "
+"and want to see the project succeed, please consider a <a href='https://"
+"paypal.me/ubports'>one-time</a> or <a href='https://patreon.com/"
+"ubports'>regular monthly</a> or <a href='https://liberapay.com/"
+"ubports'>weekly</a> donation. We sincerely appreciate it and we know that "
+"you'll feel great about your fair contribution and be excited to particpate. "
+"In return, we believe in providing fair sevice and opportunity with "
+"transparency to all members of the project."
+msgstr ""
+"Ubports建立在像您一样的社区志愿者之间。虽然您可免费使用，但我们的发展依赖于社区的捐款。因此，如果您喜欢 Ubuntu Touch "
+"并希望该项目能够成功，请考虑<a href ='https://paypal.me/ubports'>一次性</a>或<a href "
+"='https://patreon.com/ubports'>每月定期捐款</a>。我们真诚地感谢您的帮助，而且我们知道您将会为您的无私的贡献感到高兴，我"
+"们也会为您感到高兴。作为回报，我们相信为项目的所有成员提供公平的服务和透明的机会。"
+
+#: ../qml/Home.qml:87
+msgid "Get looped in"
+msgstr "接受消息"
+
+#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+#: ../qml/Home.qml:93
+msgid ""
+"We are in this together. As a starting point, stay on top of the latest "
+"developments, related news and a whole bunch of other experience-enhancing "
+"updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail "
+"newsletter</a> to stay in the loop."
+msgstr ""
+"我们在一起。立足于起点，关注最新发展动态、相关新闻和所有开发进度<a href= 'https://ubports.com/r/"
+"appsubscribe'>请加入我们的邮件列表</a>并接收我们的消息。"
+
+#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
+#: ../qml/Home.qml:98
+msgid ""
+"UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
+"awesome sponsors, donors and patrons</a>!"
+msgstr ""
+"<a href='https://ubports.com/sponsors'>我们的赞助商，捐赠者和赞助人</a>使得 UBports 成为可能！"
 
 #. TRANSLATORS: Description of the menu item
 #: ../qml/modules/DefaultHeader.qml:37
@@ -127,99 +194,6 @@ msgstr "参与"
 #: ../qml/modules/DefaultHeader.qml:60
 msgid "Newsletter"
 msgstr "新闻通讯"
-
-#: ../qml/Main.qml:32 ../qml/Home.qml:31 ../qml/Home.qml:53
-msgid "Welcome to %1!"
-msgstr "欢迎来到 %1！"
-
-#: ../qml/Home.qml:58
-msgid "We can change the future! Let's innovate and dream again."
-msgstr "我们能够改变未来！让我们再次创想展望。"
-
-#: ../qml/Home.qml:63
-msgid ""
-"UBports builds the most private and innovative experience. It is limited in "
-"potential only by what you - the community member - can dream. Regain "
-"control of your device and personal data. You have choice and freedom with "
-"UBports."
-msgstr ""
-"UBports 旨在构建最隐私和创新的体验。您，社区成员梦想的边界即是它潜力的边界。"
-"重新控制你的设备和个人资料。您有选择和自由使用 UBports。"
-
-#: ../qml/Home.qml:67
-msgid "Be more than a spectator - Become a game changer!"
-msgstr "不仅仅是一名观众，更是成为一名游戏的改变者！"
-
-#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
-#: ../qml/Home.qml:73
-#, fuzzy
-#| msgid ""
-#| "With ubports you can actually change the things you don't like. Ever felt "
-#| "frustrated by a feature or a limitation or a weird layout? Get it "
-#| "changed! By <a href='https://github.com/ubports/ubports-touch'>reporting "
-#| "bugs and sending feature requests</a> UBports will become the smartest "
-#| "platform you've ever experienced."
-msgid ""
-"With UBports you can actually change the things you don't like. Ever felt "
-"frustrated by a feature or a limitation or a weird layout? Get it changed! "
-"By <a href='https://github.com/ubports/ubports-touch'>reporting bugs and "
-"sending feature requests</a> UBports will become the smartest platform "
-"you've ever experienced."
-msgstr ""
-"有了 ubports 你就可以改变你不喜欢的东西。是否曾经受到功能的限制或奇怪的布局而"
-"沮丧？改变它！通过<a href='https://github.com/ubports/ubports-touch'>反馈错误"
-"报告或发送新功能建议</a> UBports将会成为您经历过的最智能的平台。"
-
-#: ../qml/Home.qml:77
-msgid "Pay what's fair"
-msgstr "付出公平的代价"
-
-#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
-#: ../qml/Home.qml:83
-msgid ""
-"UBports was created and exists because of many volunteers in the community "
-"near you and all over the world. Although we don't ask for a fixed fee we do "
-"depend on financial support from the community. So if you like Ubuntu Touch "
-"and want to see the project succeed, please consider a <a href='https://"
-"paypal.me/ubports'>one-time</a> or <a href='https://patreon.com/"
-"ubports'>regular monthly</a> or <a href='https://liberapay.com/"
-"ubports'>weekly</a> donation. We sincerely appreciate it and we know that "
-"you'll feel great about your fair contribution and be excited to particpate. "
-"In return, we believe in providing fair sevice and opportunity with "
-"transparency to all members of the project."
-msgstr ""
-"由于您和世界各地的社区中的很多志愿者的努力，UBports 得以建立。虽然我们不要求"
-"支付固定的费用，但我们确实依赖于社区的财政支持。因此，如果您喜欢 Ubuntu "
-"Touch 并希望该项目能够成功，请考虑<a href ='https://paypal.me/ubports'>一次性"
-"</a>或<a href ='https://patreon.com/ubports'>每月定期捐款</a>。我们真诚地感谢"
-"您的帮助，而且我们知道您将会为您的无私的贡献感到高兴，我们也会为您感到高兴。"
-"作为回报，我们相信为项目的所有成员提供公平的服务和透明的机会。"
-
-#: ../qml/Home.qml:87
-msgid "Get looped in"
-msgstr "获取消息圈"
-
-#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
-#: ../qml/Home.qml:93
-#, fuzzy
-msgid ""
-"We are in this together. As a starting point, stay on top of the latest "
-"developments, related news and a whole bunch of other experience-enhancing "
-"updates. <a href='https://ubports.com/r/appsubscribe'>Join our e-mail "
-"newsletter</a> to stay in the loop."
-msgstr ""
-"我们在一起，作为一个起点，继续关注最新的发展，相关的新闻和一系列其它的经验提"
-"升更新。<a href= 'https://ubports.com/r/appsubscribe'>请加入我们的邮件列表</"
-"a>查看消息并留在消息圈。"
-
-#. TRANSLATORS: Please make sure the URLs are correct and don't fuck up the HTML.
-#: ../qml/Home.qml:98
-msgid ""
-"UBports is made possible by our <a href='https://ubports.com/sponsors'>our "
-"awesome sponsors, donors and patrons</a>!"
-msgstr ""
-"<a href='https://ubports.com/sponsors'>我们的赞助商，捐赠者和赞助人</a>使得 "
-"UBports 成为可能！"
 
 #: com.ubuntu.ubports.desktop.in.h:1
 msgid "UBports"
